@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590659384 +0600	branch: Created from HEAD
+8799a7169e7980c9d47f04266925972481551ba0 efec655d3bfaa2dd74c6954dbb188f9242e26ca0 Sudip <sudip.mediusware@gmail.com> 1590660429 +0600	commit: Team setting blade template error fixed.
+efec655d3bfaa2dd74c6954dbb188f9242e26ca0 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592288770 +0600	pull origin master: Fast-forward
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d cf90d615a566ac35b437026cffc7b18eb3fd91b6 Sudip <sudip.mediusware@gmail.com> 1592289301 +0600	commit: App layout script optmize and remove unnecessary code.
+cf90d615a566ac35b437026cffc7b18eb3fd91b6 9c14038d807abed2ccc992af8601a414b8205f3c Sudip <sudip.mediusware@gmail.com> 1592289979 +0600	commit: remove unnecessary code.
+9c14038d807abed2ccc992af8601a414b8205f3c e8259facdea606bd10b68417462f7eb5f0f7d8fb Sudip <sudip.mediusware@gmail.com> 1592290812 +0600	commit: Setting alert issue fixed.
+e8259facdea606bd10b68417462f7eb5f0f7d8fb 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593143853 +0600	pull origin master: Fast-forward
+056bc480ec4175212eda6d5bfa71134ce59befd2 576b9f8640ff114aacba7389aa89f2b89443e33c Sudip <sudip.mediusware@gmail.com> 1593145479 +0600	commit: Team setting create team limit html issue fixed.
+576b9f8640ff114aacba7389aa89f2b89443e33c b03426928e9579f5c1335c24b13c8ba075cf0473 Sudip <sudip.mediusware@gmail.com> 1593146989 +0600	commit: Team setting table and all pages alignment and html issue fixed.

@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589877797 +0600	branch: Created from HEAD
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 bb74d29224e829d0f991059fba60763e26708963 Sudip <sudip.mediusware@gmail.com> 1589878347 +0600	commit: Project navbar all swal alert issue fixed.
+bb74d29224e829d0f991059fba60763e26708963 16632f48a802c3471ecd11aba0753f922be55b5a Sudip <sudip.mediusware@gmail.com> 1589878944 +0600	commit: Remove unnecessary code and function for project navbar

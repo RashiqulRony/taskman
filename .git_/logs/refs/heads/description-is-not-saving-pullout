@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589341100 +0600	branch: Created from HEAD
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 807eb0c3c88fdd6aa2ace70e1fd0d6188509f8bc Sudip <sudip.mediusware@gmail.com> 1589344525 +0600	commit: Description is not saving all the time fixed on Board.
+807eb0c3c88fdd6aa2ace70e1fd0d6188509f8bc 2eb872fb483940c408a63427cf56191353223383 Sudip <sudip.mediusware@gmail.com> 1589345124 +0600	commit: Description is not saving all the time fixed on Task List.
+2eb872fb483940c408a63427cf56191353223383 ee053727c7c5737f44607322508a61940e12a44c Sudip <sudip.mediusware@gmail.com> 1589346019 +0600	commit: Getting an error when pasting an image in the description popup window
+ee053727c7c5737f44607322508a61940e12a44c 9e968f6c6902614bf072e29e70d182d84d552600 Sudip <sudip.mediusware@gmail.com> 1589346456 +0600	commit: Getting an error when pasting an image in the description popup window on Task List

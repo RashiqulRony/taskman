@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 1955af41845ca4d33adc060a21cee85e712d6852 Sudip <sudip.mediusware@gmail.com> 1586320257 +0600	branch: Created from HEAD
+1955af41845ca4d33adc060a21cee85e712d6852 9e54dbee18eb0f357d81913de149f7399be9b09a Sudip <sudip.mediusware@gmail.com> 1586320464 +0600	commit: coping a task from list we are showing -Copy message --issue fixed
+9e54dbee18eb0f357d81913de149f7399be9b09a 70c6f72da601137a7c3930b2fe8486eaa40e4cdb Sudip <sudip.mediusware@gmail.com> 1586321105 +0600	commit: Fixed toastr issue.

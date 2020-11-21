@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587448375 +0600	branch: Created from HEAD
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 f6bc8620c6674b5e637b2d08a6b32b83ccc3fd13 Sudip <sudip.mediusware@gmail.com> 1587448563 +0600	commit: Board switching loader added
+f6bc8620c6674b5e637b2d08a6b32b83ccc3fd13 4e4f13decf80ef59de204fbd3a91f7f5c4561d96 Sudip <sudip.mediusware@gmail.com> 1587450819 +0600	commit: There is a long delay when switching between boards - How can we make this faster
+4e4f13decf80ef59de204fbd3a91f7f5c4561d96 b1d3e2a65db94923190863c3443563242da0f975 Sudip <sudip.mediusware@gmail.com> 1587454508 +0600	commit: Borad card switching issue solved.
+b1d3e2a65db94923190863c3443563242da0f975 28e34769fc34cec6b8933b4821c0904897d01ec5 Sudip <sudip.mediusware@gmail.com> 1587550260 +0600	commit: Loading issue fixed

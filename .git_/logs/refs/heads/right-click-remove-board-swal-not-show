@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591172326 +0600	branch: Created from HEAD
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff Sudip <sudip.mediusware@gmail.com> 1591172973 +0600	commit: When right click option to remove board can't show swal alert issue fixed
+32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff 1e983c57d20df82517301d08020d8f48f9a2ff72 Sudip <sudip.mediusware@gmail.com> 1591344663 +0600	commit: Conditional error issue fixed on board card.
+1e983c57d20df82517301d08020d8f48f9a2ff72 ecd80af0162f0ecbf6bb6aadfc131d7496f407f7 Sudip <sudip.mediusware@gmail.com> 1591349391 +0600	commit: Remove unnecessary code.

@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588656653 +0600	branch: Created from HEAD
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 ce7432c6476af5d0435daecb0a470d208caa306c Sudip <sudip.mediusware@gmail.com> 1588657286 +0600	commit: Notification settings swal alert issue fixed.
+ce7432c6476af5d0435daecb0a470d208caa306c bb4143110f323b451d0a42a6f2688b41bec7cfef Sudip <sudip.mediusware@gmail.com> 1588657601 +0600	commit: Single task details swal alert issue fixed.
+bb4143110f323b451d0a42a6f2688b41bec7cfef 365083cf418fb99c04fcc7cf5cbc5dcbe1d97068 Sudip <sudip.mediusware@gmail.com> 1588658154 +0600	commit: Remove unnecessary swal function and swal alert issue fixed on Board
+365083cf418fb99c04fcc7cf5cbc5dcbe1d97068 95a9ac4bcebc871e2a15d2f411aa25eba41da02c Sudip <sudip.mediusware@gmail.com> 1588658957 +0600	commit: Projects all swal alert issue fixed

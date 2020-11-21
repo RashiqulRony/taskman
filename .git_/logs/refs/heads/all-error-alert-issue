@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591677839 +0600	branch: Created from HEAD
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 6ffe7a75d8ee770fe90746435a05d8e498b040d6 Sudip <sudip.mediusware@gmail.com> 1591678156 +0600	commit: Add Nav Item error alert text issue fixed.
+6ffe7a75d8ee770fe90746435a05d8e498b040d6 d5875f0d9726682053ad5b4df4ad898c5cf03bc8 Sudip <sudip.mediusware@gmail.com> 1591679757 +0600	commit: Navbar item update alert text issue fixed.
+d5875f0d9726682053ad5b4df4ad898c5cf03bc8 d6fa74fc157c5eb7494ff2fecc0bab488abed2d6 Sudip <sudip.mediusware@gmail.com> 1591681311 +0600	commit: Add New Board from navbar alert text issue fixed.
+d6fa74fc157c5eb7494ff2fecc0bab488abed2d6 4930fac660f496d63947fea8a0545f104359ec84 Sudip <sudip.mediusware@gmail.com> 1591683889 +0600	commit: Add New Task List from navbar alert text issue fixed.
+4930fac660f496d63947fea8a0545f104359ec84 794cedab18b279829898bba6cbf78342251b8f84 Sudip <sudip.mediusware@gmail.com> 1591684218 +0600	commit: Board navbar update alert text issue fixed
+794cedab18b279829898bba6cbf78342251b8f84 da94c0974ccf28007abf4257aef9af354be0103b Sudip <sudip.mediusware@gmail.com> 1591685876 +0600	commit: Task list navbar update validation text issue fixed.
+da94c0974ccf28007abf4257aef9af354be0103b 24db84df854188442242e5e7261b48f9f02f96d9 Sudip <sudip.mediusware@gmail.com> 1591704998 +0600	commit: navbar modal issue fixed.

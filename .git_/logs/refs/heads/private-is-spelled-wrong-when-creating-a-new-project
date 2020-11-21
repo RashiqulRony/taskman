@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590551798 +0600	branch: Created from HEAD
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 c7b87b16572d77ba9d8df299b91a1992b8f94398 Sudip <sudip.mediusware@gmail.com> 1590552633 +0600	commit: Private is spelled wrong when creating a new project and selecting not to add users.
+c7b87b16572d77ba9d8df299b91a1992b8f94398 dacd55fa517272ae762baaf022796c2394196bb4 Sudip <sudip.mediusware@gmail.com> 1590553878 +0600	commit: Remove unnecessary code and Fixed all conditions.

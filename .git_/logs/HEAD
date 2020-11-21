@@ -1,0 +1,802 @@
+0cddaf5913f26fc621a4b13b6b0e057445fb6ef3 a03af28c9d75fba646b2fb65cd910c3d708c77d3 Sudip <sudip.mediusware@gmail.com> 1586251297 +0600	commit (merge): Merge branch 'master' of https://github.com/compltit/spark-task into selecting-tasks-list-and-moving-to-another-list
+a03af28c9d75fba646b2fb65cd910c3d708c77d3 6715e39a28b50ad514ac5b9ad7368cb6cda57670 Sudip <sudip.mediusware@gmail.com> 1586251387 +0600	checkout: moving from selecting-tasks-list-and-moving-to-another-list to master
+6715e39a28b50ad514ac5b9ad7368cb6cda57670 9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d Sudip <sudip.mediusware@gmail.com> 1586251400 +0600	pull: Fast-forward
+9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d a03af28c9d75fba646b2fb65cd910c3d708c77d3 Sudip <sudip.mediusware@gmail.com> 1586251413 +0600	checkout: moving from master to selecting-tasks-list-and-moving-to-another-list
+a03af28c9d75fba646b2fb65cd910c3d708c77d3 a03af28c9d75fba646b2fb65cd910c3d708c77d3 Sudip <sudip.mediusware@gmail.com> 1586251647 +0600	checkout: moving from selecting-tasks-list-and-moving-to-another-list to click-on-task-in-search-link
+a03af28c9d75fba646b2fb65cd910c3d708c77d3 f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 Sudip <sudip.mediusware@gmail.com> 1586256648 +0600	commit: click on a task in search link/open the details page for that task
+f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d Sudip <sudip.mediusware@gmail.com> 1586259273 +0600	checkout: moving from click-on-task-in-search-link to master
+9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 Sudip <sudip.mediusware@gmail.com> 1586259459 +0600	checkout: moving from master to click-on-task-in-search-link
+f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 Sudip <sudip.mediusware@gmail.com> 1586259683 +0600	checkout: moving from click-on-task-in-search-link to local-test
+f44853f48be3502d0cbaaa7d8bc3e8abd4a34082 9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d Sudip <sudip.mediusware@gmail.com> 1586267875 +0600	checkout: moving from local-test to master
+9dc0f3ff2a6ec90268b2c9f73a4221bd7f25013d c4888259d7fdb936374b67c9f6fb55a535cb8e6b Sudip <sudip.mediusware@gmail.com> 1586267914 +0600	pull origin master: Fast-forward
+c4888259d7fdb936374b67c9f6fb55a535cb8e6b c4888259d7fdb936374b67c9f6fb55a535cb8e6b Sudip <sudip.mediusware@gmail.com> 1586268851 +0600	checkout: moving from master to task-details-issue
+c4888259d7fdb936374b67c9f6fb55a535cb8e6b 1aaeb80cbdc5ae74e8f8bd959f591bf571eeb698 Sudip <sudip.mediusware@gmail.com> 1586268870 +0600	commit: task details issue fixed
+1aaeb80cbdc5ae74e8f8bd959f591bf571eeb698 c4888259d7fdb936374b67c9f6fb55a535cb8e6b Sudip <sudip.mediusware@gmail.com> 1586315700 +0600	checkout: moving from task-details-issue to master
+c4888259d7fdb936374b67c9f6fb55a535cb8e6b 1955af41845ca4d33adc060a21cee85e712d6852 Sudip <sudip.mediusware@gmail.com> 1586315724 +0600	pull origin master: Fast-forward
+1955af41845ca4d33adc060a21cee85e712d6852 1955af41845ca4d33adc060a21cee85e712d6852 Sudip <sudip.mediusware@gmail.com> 1586320257 +0600	checkout: moving from master to task-list-copy-message
+1955af41845ca4d33adc060a21cee85e712d6852 9e54dbee18eb0f357d81913de149f7399be9b09a Sudip <sudip.mediusware@gmail.com> 1586320464 +0600	commit: coping a task from list we are showing -Copy message --issue fixed
+9e54dbee18eb0f357d81913de149f7399be9b09a 70c6f72da601137a7c3930b2fe8486eaa40e4cdb Sudip <sudip.mediusware@gmail.com> 1586321105 +0600	commit: Fixed toastr issue.
+70c6f72da601137a7c3930b2fe8486eaa40e4cdb 70c6f72da601137a7c3930b2fe8486eaa40e4cdb Sudip <sudip.mediusware@gmail.com> 1586322482 +0600	checkout: moving from task-list-copy-message to blank-task-never-save-board-or-task-list
+70c6f72da601137a7c3930b2fe8486eaa40e4cdb 615876e5fa94a8e9683a357a71929a53d6c0638e Sudip <sudip.mediusware@gmail.com> 1586327790 +0600	commit: Task List Blank issue fixed.
+615876e5fa94a8e9683a357a71929a53d6c0638e 9d9c5ca933899b3119329d4766c7dd91d1424712 Sudip <sudip.mediusware@gmail.com> 1586337869 +0600	commit: add a new card and click enter, it does not save the text -- issue fixed
+9d9c5ca933899b3119329d4766c7dd91d1424712 25d16b1e5a2a9b13c66393c42b49c4aac806c19a Sudip <sudip.mediusware@gmail.com> 1586338029 +0600	commit: fixed issue.
+25d16b1e5a2a9b13c66393c42b49c4aac806c19a 25d16b1e5a2a9b13c66393c42b49c4aac806c19a Sudip <sudip.mediusware@gmail.com> 1586338128 +0600	checkout: moving from blank-task-never-save-board-or-task-list to add-new-card-and-click-enter-save-text
+25d16b1e5a2a9b13c66393c42b49c4aac806c19a 7f2e21ac403c0bdb03920083d6c6d86881ccc41d Sudip <sudip.mediusware@gmail.com> 1586338480 +0600	commit: add a new card and click enter, it's save the text
+7f2e21ac403c0bdb03920083d6c6d86881ccc41d 1955af41845ca4d33adc060a21cee85e712d6852 Sudip <sudip.mediusware@gmail.com> 1586489648 +0600	checkout: moving from add-new-card-and-click-enter-save-text to master
+1955af41845ca4d33adc060a21cee85e712d6852 ca05cbe12db6231370bcf30ee9c64e79e7a20f38 Sudip <sudip.mediusware@gmail.com> 1586489671 +0600	pull origin master: Fast-forward
+ca05cbe12db6231370bcf30ee9c64e79e7a20f38 fc51bfff07f1915f3449400eae7cfabd22bfcef0 Sudip <sudip.mediusware@gmail.com> 1586490550 +0600	commit: composer update
+fc51bfff07f1915f3449400eae7cfabd22bfcef0 fc51bfff07f1915f3449400eae7cfabd22bfcef0 Sudip <sudip.mediusware@gmail.com> 1586496229 +0600	checkout: moving from master to tags-list-view-in-alpha-order
+fc51bfff07f1915f3449400eae7cfabd22bfcef0 3bc44c3b05e262a48a3eabfe5570ed993a186894 Sudip <sudip.mediusware@gmail.com> 1586496383 +0600	commit: Tags list view alpha order issue fixed.
+3bc44c3b05e262a48a3eabfe5570ed993a186894 fc51bfff07f1915f3449400eae7cfabd22bfcef0 Sudip <sudip.mediusware@gmail.com> 1586496584 +0600	checkout: moving from tags-list-view-in-alpha-order to master
+fc51bfff07f1915f3449400eae7cfabd22bfcef0 fc51bfff07f1915f3449400eae7cfabd22bfcef0 Sudip <sudip.mediusware@gmail.com> 1586499036 +0600	checkout: moving from master to task-list-and-card-add-scroll-and-search
+fc51bfff07f1915f3449400eae7cfabd22bfcef0 1c2ced32d33af034ff693ec4be0c275ce612cb93 Sudip <sudip.mediusware@gmail.com> 1586501219 +0600	commit: Design done.
+1c2ced32d33af034ff693ec4be0c275ce612cb93 97312c99531688328004d74a54b1f8f0cbcc193b Sudip <sudip.mediusware@gmail.com> 1586515979 +0600	commit: Task list scroll added for board
+97312c99531688328004d74a54b1f8f0cbcc193b 523b4ae7e738a03a5576be8854572e72eeae5b4c Sudip <sudip.mediusware@gmail.com> 1586518573 +0600	commit: Task list scroll and search added.
+523b4ae7e738a03a5576be8854572e72eeae5b4c fc51bfff07f1915f3449400eae7cfabd22bfcef0 Sudip <sudip.mediusware@gmail.com> 1586748069 +0600	checkout: moving from task-list-and-card-add-scroll-and-search to master
+fc51bfff07f1915f3449400eae7cfabd22bfcef0 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586748089 +0600	pull origin master: Fast-forward
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586758192 +0600	checkout: moving from master to make-search-user-in-assign-user-search
+819662d3d1eab355a892eae3618f82bbcb21785b b94ab0e2bd5d8112854bdf9e384b9bac4ae5618f Sudip <sudip.mediusware@gmail.com> 1586759309 +0600	commit: Make search user in assign user search by: First or last or email --on task List.
+b94ab0e2bd5d8112854bdf9e384b9bac4ae5618f 64f360509a0198b990a29f399eacb751422aad8b Sudip <sudip.mediusware@gmail.com> 1586759379 +0600	commit: Make search user in assign user search by: First or last or email --change class
+64f360509a0198b990a29f399eacb751422aad8b e8345e51e8edcaf4c310923908b6bf53c517d566 Sudip <sudip.mediusware@gmail.com> 1586760266 +0600	commit: Make search user in assign user search by: First or last or email --all
+e8345e51e8edcaf4c310923908b6bf53c517d566 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586761053 +0600	checkout: moving from make-search-user-in-assign-user-search to master
+819662d3d1eab355a892eae3618f82bbcb21785b e8345e51e8edcaf4c310923908b6bf53c517d566 Sudip <sudip.mediusware@gmail.com> 1586761261 +0600	checkout: moving from master to make-search-user-in-assign-user-search
+e8345e51e8edcaf4c310923908b6bf53c517d566 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586761345 +0600	checkout: moving from make-search-user-in-assign-user-search to master
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586762014 +0600	reset: moving to HEAD
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586762071 +0600	checkout: moving from master to user-list-scroll-on-all-user-lists
+819662d3d1eab355a892eae3618f82bbcb21785b 8523492d25292b7f854ec8ee5099168f8badee54 Sudip <sudip.mediusware@gmail.com> 1586766376 +0600	commit: Make User list scroll on all user lists.
+8523492d25292b7f854ec8ee5099168f8badee54 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586768397 +0600	checkout: moving from user-list-scroll-on-all-user-lists to master
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586770346 +0600	checkout: moving from master to comments-are-formatting
+819662d3d1eab355a892eae3618f82bbcb21785b c8001ac7147b74163be6ac2c81a4da58aaad5589 Sudip <sudip.mediusware@gmail.com> 1586783286 +0600	commit: Comments are not formatting WYSIWYG and format in a run-on --working
+c8001ac7147b74163be6ac2c81a4da58aaad5589 132bf8e9ec9d6cb4360b758b847a8f6260aebc50 Sudip <sudip.mediusware@gmail.com> 1586851961 +0600	commit: Comments formatting done.
+132bf8e9ec9d6cb4360b758b847a8f6260aebc50 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586855633 +0600	checkout: moving from comments-are-formatting to master
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586855738 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586855762 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586855785 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586861122 +0600	reset: moving to HEAD
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586863907 +0600	reset: moving to HEAD
+819662d3d1eab355a892eae3618f82bbcb21785b 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586920592 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+819662d3d1eab355a892eae3618f82bbcb21785b fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586920609 +0600	pull origin master: Fast-forward
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586953216 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+819662d3d1eab355a892eae3618f82bbcb21785b fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586953314 +0600	pull origin master: Fast-forward
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 Sudip <sudip.mediusware@gmail.com> 1586955554 +0600	commit: When a user is assigned show assigned user at the top of the assign user list - Do this in all user lists --issue fixed
+4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586955690 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 Sudip <sudip.mediusware@gmail.com> 1586955805 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 f357ac9ef36bf1edc0ad368750a6a1969ffa8601 Sudip <sudip.mediusware@gmail.com> 1586956741 +0600	commit: When a user is assigned show assigned user at the top of the assign user list - Do this in all user lists --issue fixed
+f357ac9ef36bf1edc0ad368750a6a1969ffa8601 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586956788 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586956850 +0600	reset: moving to HEAD
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 132bf8e9ec9d6cb4360b758b847a8f6260aebc50 Sudip <sudip.mediusware@gmail.com> 1586956892 +0600	checkout: moving from master to comments-are-formatting
+132bf8e9ec9d6cb4360b758b847a8f6260aebc50 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586958483 +0600	checkout: moving from comments-are-formatting to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded f357ac9ef36bf1edc0ad368750a6a1969ffa8601 Sudip <sudip.mediusware@gmail.com> 1586958490 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+f357ac9ef36bf1edc0ad368750a6a1969ffa8601 f357ac9ef36bf1edc0ad368750a6a1969ffa8601 Sudip <sudip.mediusware@gmail.com> 1586958734 +0600	reset: moving to HEAD
+f357ac9ef36bf1edc0ad368750a6a1969ffa8601 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586958871 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded f357ac9ef36bf1edc0ad368750a6a1969ffa8601 Sudip <sudip.mediusware@gmail.com> 1586959153 +0600	checkout: moving from master to assigned-user-at-the-top-of-the-assign-user-list
+f357ac9ef36bf1edc0ad368750a6a1969ffa8601 77b70ba968bdd2804061ffb8efa7d82fcd3ce850 Sudip <sudip.mediusware@gmail.com> 1586960521 +0600	commit: Assigned user at the top fixed on single Task details.
+77b70ba968bdd2804061ffb8efa7d82fcd3ce850 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586960564 +0600	checkout: moving from assigned-user-at-the-top-of-the-assign-user-list to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586960840 +0600	checkout: moving from master to card-view-assignee-widget-keeps-shaking
+fa2a1bc4366cd59914fd8102bb1a50e0353caded bd93b174251cdafffa2328db469fe212f216328f Sudip <sudip.mediusware@gmail.com> 1586962597 +0600	commit: In Card View Assignee widget keeps shaking, cant choose assignee --Issue fixed
+bd93b174251cdafffa2328db469fe212f216328f fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586968446 +0600	checkout: moving from card-view-assignee-widget-keeps-shaking to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586968535 +0600	checkout: moving from master to comments-are-formatting-for-single-details-page
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 49fecd285a6084dd8a8d42b4e03d65dafdc78eb5 Sudip <sudip.mediusware@gmail.com> 1586971276 +0600	commit: Comments are not formatting WYSIWYG and format in a run-on -- for single details page
+49fecd285a6084dd8a8d42b4e03d65dafdc78eb5 fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1587007020 +0600	checkout: moving from comments-are-formatting-for-single-details-page to master
+fa2a1bc4366cd59914fd8102bb1a50e0353caded ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587007035 +0600	pull origin master: Fast-forward
+ddb75633cf455655f3739d3d435e856947fbe47a ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587014366 +0600	reset: moving to HEAD
+ddb75633cf455655f3739d3d435e856947fbe47a ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587017206 +0600	checkout: moving from master to adding-the-task-card-filtering
+ddb75633cf455655f3739d3d435e856947fbe47a 63e788be92a24d5aef4e455dc840775f8bf5cfbf Sudip <sudip.mediusware@gmail.com> 1587024893 +0600	commit: this issue is working
+63e788be92a24d5aef4e455dc840775f8bf5cfbf ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587024910 +0600	checkout: moving from adding-the-task-card-filtering to master
+ddb75633cf455655f3739d3d435e856947fbe47a 63e788be92a24d5aef4e455dc840775f8bf5cfbf Sudip <sudip.mediusware@gmail.com> 1587025216 +0600	checkout: moving from master to adding-the-task-card-filtering
+63e788be92a24d5aef4e455dc840775f8bf5cfbf ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587025396 +0600	checkout: moving from adding-the-task-card-filtering to master
+ddb75633cf455655f3739d3d435e856947fbe47a ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587028615 +0600	checkout: moving from master to adding-the-task-card-filtering-user
+ddb75633cf455655f3739d3d435e856947fbe47a ea448a216ea81a82a9e50ea4e719efcbda56b0eb Sudip <sudip.mediusware@gmail.com> 1587030340 +0600	commit: This issue is working
+ea448a216ea81a82a9e50ea4e719efcbda56b0eb ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587030345 +0600	checkout: moving from adding-the-task-card-filtering-user to master
+ddb75633cf455655f3739d3d435e856947fbe47a ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587030399 +0600	checkout: moving from master to details-section-does-not-remain-open-sometimes
+ddb75633cf455655f3739d3d435e856947fbe47a d3ba04ef32236b4073f54dfde7533009cc859a5a Sudip <sudip.mediusware@gmail.com> 1587033890 +0600	commit: Task details open checking and tag section working missing some code
+d3ba04ef32236b4073f54dfde7533009cc859a5a d3ba04ef32236b4073f54dfde7533009cc859a5a Sudip <sudip.mediusware@gmail.com> 1587034907 +0600	reset: moving to HEAD
+d3ba04ef32236b4073f54dfde7533009cc859a5a d3ba04ef32236b4073f54dfde7533009cc859a5a Sudip <sudip.mediusware@gmail.com> 1587035759 +0600	reset: moving to HEAD
+d3ba04ef32236b4073f54dfde7533009cc859a5a 76e8d6552949e65bdff009660f75322d7b7408ec Sudip <sudip.mediusware@gmail.com> 1587037320 +0600	commit: check this issue and remove unuse code.
+76e8d6552949e65bdff009660f75322d7b7408ec ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587038010 +0600	checkout: moving from details-section-does-not-remain-open-sometimes to master
+ddb75633cf455655f3739d3d435e856947fbe47a ea448a216ea81a82a9e50ea4e719efcbda56b0eb Sudip <sudip.mediusware@gmail.com> 1587038038 +0600	checkout: moving from master to adding-the-task-card-filtering-user
+ea448a216ea81a82a9e50ea4e719efcbda56b0eb 69766522f163d58e7c65fe16f34aee72ef00762a Sudip <sudip.mediusware@gmail.com> 1587040847 +0600	commit: Frontend '@' mension working
+69766522f163d58e7c65fe16f34aee72ef00762a ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587041742 +0600	checkout: moving from adding-the-task-card-filtering-user to master
+ddb75633cf455655f3739d3d435e856947fbe47a 3834d245d8a8e9135350452d28c227ad49a58dca Sudip <sudip.mediusware@gmail.com> 1587094415 +0600	pull origin master: Fast-forward
+3834d245d8a8e9135350452d28c227ad49a58dca 69766522f163d58e7c65fe16f34aee72ef00762a Sudip <sudip.mediusware@gmail.com> 1587096565 +0600	checkout: moving from master to adding-the-task-card-filtering-user
+69766522f163d58e7c65fe16f34aee72ef00762a 3834d245d8a8e9135350452d28c227ad49a58dca Sudip <sudip.mediusware@gmail.com> 1587097781 +0600	checkout: moving from adding-the-task-card-filtering-user to master
+3834d245d8a8e9135350452d28c227ad49a58dca 3834d245d8a8e9135350452d28c227ad49a58dca Sudip <sudip.mediusware@gmail.com> 1587097818 +0600	checkout: moving from master to optimized-code
+3834d245d8a8e9135350452d28c227ad49a58dca b689c53af1f00d8a412fe743b422ec8e746919a0 Sudip <sudip.mediusware@gmail.com> 1587103019 +0600	commit: generate color function issue fixed.
+b689c53af1f00d8a412fe743b422ec8e746919a0 9821a61a508d37a18fa303246eaa81c9717a8b80 Sudip <sudip.mediusware@gmail.com> 1587103669 +0600	commit: Board Filter function changed.
+9821a61a508d37a18fa303246eaa81c9717a8b80 3834d245d8a8e9135350452d28c227ad49a58dca Sudip <sudip.mediusware@gmail.com> 1587106146 +0600	checkout: moving from optimized-code to master
+3834d245d8a8e9135350452d28c227ad49a58dca 69766522f163d58e7c65fe16f34aee72ef00762a Sudip <sudip.mediusware@gmail.com> 1587106178 +0600	checkout: moving from master to adding-the-task-card-filtering-user
+69766522f163d58e7c65fe16f34aee72ef00762a e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 Sudip <sudip.mediusware@gmail.com> 1587128120 +0600	commit: Comment replay working.
+e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 3834d245d8a8e9135350452d28c227ad49a58dca Sudip <sudip.mediusware@gmail.com> 1587358667 +0600	checkout: moving from adding-the-task-card-filtering-user to master
+3834d245d8a8e9135350452d28c227ad49a58dca 928902dc4496a26f6fa37ad0193a6325fed8ce77 Sudip <sudip.mediusware@gmail.com> 1587358686 +0600	pull origin master: Fast-forward
+928902dc4496a26f6fa37ad0193a6325fed8ce77 e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 Sudip <sudip.mediusware@gmail.com> 1587358759 +0600	checkout: moving from master to adding-the-task-card-filtering-user
+e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 Sudip <sudip.mediusware@gmail.com> 1587363989 +0600	reset: moving to HEAD
+e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 23f7ca07a878f206a67e5f62fadb38f22b9c57e9 Sudip <sudip.mediusware@gmail.com> 1587365467 +0600	commit: When adding the @ in a task/card we are not filtering the names as you type -- Issue fixed
+23f7ca07a878f206a67e5f62fadb38f22b9c57e9 a72fdb974375dc8806ba932f6c2c0713b168a1a7 Sudip <sudip.mediusware@gmail.com> 1587367229 +0600	commit: For single details page issue fixed
+a72fdb974375dc8806ba932f6c2c0713b168a1a7 3785ebf8c7e6fc01c92b014b841cb26be409cc51 Sudip <sudip.mediusware@gmail.com> 1587368641 +0600	pull origin master: Merge made by the 'recursive' strategy.
+3785ebf8c7e6fc01c92b014b841cb26be409cc51 928902dc4496a26f6fa37ad0193a6325fed8ce77 Sudip <sudip.mediusware@gmail.com> 1587370945 +0600	checkout: moving from adding-the-task-card-filtering-user to master
+928902dc4496a26f6fa37ad0193a6325fed8ce77 928902dc4496a26f6fa37ad0193a6325fed8ce77 Sudip <sudip.mediusware@gmail.com> 1587375338 +0600	checkout: moving from master to optimized-delete-swal
+928902dc4496a26f6fa37ad0193a6325fed8ce77 5de740613e7947c1ca2a851283f9d40d2f24fc4f Sudip <sudip.mediusware@gmail.com> 1587377645 +0600	commit: Task list code optimized done.
+5de740613e7947c1ca2a851283f9d40d2f24fc4f f174153791553135329b39d71682ce0c11590214 Sudip <sudip.mediusware@gmail.com> 1587380128 +0600	commit: All delete function code optimized done.
+f174153791553135329b39d71682ce0c11590214 efb49b41e2c67caee15df647574982e681e7cebc Sudip <sudip.mediusware@gmail.com> 1587382358 +0600	commit: Single task details issue fixed
+efb49b41e2c67caee15df647574982e681e7cebc 6b1388f089f306ad395dc337e78b9749d5d4268b Sudip <sudip.mediusware@gmail.com> 1587385775 +0600	commit: fixed issue
+6b1388f089f306ad395dc337e78b9749d5d4268b 53610602e0ac33ace15aa20d2e06fc9c01ac0fce Sudip <sudip.mediusware@gmail.com> 1587386247 +0600	commit: Single details issue fixed
+53610602e0ac33ace15aa20d2e06fc9c01ac0fce f174153791553135329b39d71682ce0c11590214 Sudip <sudip.mediusware@gmail.com> 1587386343 +0600	checkout: moving from optimized-delete-swal to f174153791553135329b39d71682ce0c11590214
+f174153791553135329b39d71682ce0c11590214 928902dc4496a26f6fa37ad0193a6325fed8ce77 Sudip <sudip.mediusware@gmail.com> 1587386374 +0600	checkout: moving from f174153791553135329b39d71682ce0c11590214 to master
+928902dc4496a26f6fa37ad0193a6325fed8ce77 53610602e0ac33ace15aa20d2e06fc9c01ac0fce Sudip <sudip.mediusware@gmail.com> 1587386388 +0600	checkout: moving from master to optimized-delete-swal
+53610602e0ac33ace15aa20d2e06fc9c01ac0fce cbbea77ef8bf955a6d20a0a2de061bbe0b0031e4 Sudip <sudip.mediusware@gmail.com> 1587388954 +0600	commit: Final Change.
+cbbea77ef8bf955a6d20a0a2de061bbe0b0031e4 928902dc4496a26f6fa37ad0193a6325fed8ce77 Sudip <sudip.mediusware@gmail.com> 1587439371 +0600	checkout: moving from optimized-delete-swal to master
+928902dc4496a26f6fa37ad0193a6325fed8ce77 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587439391 +0600	pull origin master: Fast-forward
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587448375 +0600	checkout: moving from master to long-delay-when-switching-between-boards
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 f6bc8620c6674b5e637b2d08a6b32b83ccc3fd13 Sudip <sudip.mediusware@gmail.com> 1587448563 +0600	commit: Board switching loader added
+f6bc8620c6674b5e637b2d08a6b32b83ccc3fd13 4e4f13decf80ef59de204fbd3a91f7f5c4561d96 Sudip <sudip.mediusware@gmail.com> 1587450819 +0600	commit: There is a long delay when switching between boards - How can we make this faster
+4e4f13decf80ef59de204fbd3a91f7f5c4561d96 b1d3e2a65db94923190863c3443563242da0f975 Sudip <sudip.mediusware@gmail.com> 1587454508 +0600	commit: Borad card switching issue solved.
+b1d3e2a65db94923190863c3443563242da0f975 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587458737 +0600	checkout: moving from long-delay-when-switching-between-boards to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587458788 +0600	checkout: moving from master to optimized-code-2
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 cb46947b685a8f8132304cf1b119bdc35a48a3a1 Sudip <sudip.mediusware@gmail.com> 1587459855 +0600	commit: All jquery script use in document ready
+cb46947b685a8f8132304cf1b119bdc35a48a3a1 f9947f70046738873b00ff2c0af2220627c9148a Sudip <sudip.mediusware@gmail.com> 1587461944 +0600	commit: unused function remove.
+f9947f70046738873b00ff2c0af2220627c9148a 99b4528d525c09ea3862607e39426b16b9f86f46 Sudip <sudip.mediusware@gmail.com> 1587465120 +0600	commit: Selected move card issue fixed and Rename function name to moveCard
+99b4528d525c09ea3862607e39426b16b9f86f46 50f06b40b3d6f2b86e2aed375ef93981919ef5c7 Sudip <sudip.mediusware@gmail.com> 1587467135 +0600	commit: Checking Ian all assigned issues
+50f06b40b3d6f2b86e2aed375ef93981919ef5c7 231b198ad2b1b24684fffd06052f93346c5e43ec Sudip <sudip.mediusware@gmail.com> 1587470029 +0600	commit: Selected move task list issue fixed
+231b198ad2b1b24684fffd06052f93346c5e43ec d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587474134 +0600	checkout: moving from optimized-code-2 to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 b1d3e2a65db94923190863c3443563242da0f975 Sudip <sudip.mediusware@gmail.com> 1587528955 +0600	checkout: moving from master to long-delay-when-switching-between-boards
+b1d3e2a65db94923190863c3443563242da0f975 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587530708 +0600	checkout: moving from long-delay-when-switching-between-boards to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587530933 +0600	checkout: moving from master to review-and-testing-code
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 b0239042015759c996ebb2999c50aef9ace7c42c Sudip <sudip.mediusware@gmail.com> 1587531028 +0600	commit: Testing previous issue issues
+b0239042015759c996ebb2999c50aef9ace7c42c b0239042015759c996ebb2999c50aef9ace7c42c Sudip <sudip.mediusware@gmail.com> 1587533994 +0600	reset: moving to HEAD
+b0239042015759c996ebb2999c50aef9ace7c42c 0f6b39d2356c23c12429fb4befe7606e76dc5e1a Sudip <sudip.mediusware@gmail.com> 1587534074 +0600	commit: here is a long delay when switching between boards - How can we make this faster --- checking
+0f6b39d2356c23c12429fb4befe7606e76dc5e1a d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587534824 +0600	checkout: moving from review-and-testing-code to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 231b198ad2b1b24684fffd06052f93346c5e43ec Sudip <sudip.mediusware@gmail.com> 1587534839 +0600	checkout: moving from master to optimized-code-2
+231b198ad2b1b24684fffd06052f93346c5e43ec 7ac484fc5742cafc2769dae5f7b622fc10ac2a7c Sudip <sudip.mediusware@gmail.com> 1587535038 +0600	commit: Task list up down issue fixed
+7ac484fc5742cafc2769dae5f7b622fc10ac2a7c 8c6c3080a1a0d87944458610458cb972f7d2d6e3 Sudip <sudip.mediusware@gmail.com> 1587536594 +0600	commit: Assign User scroll issue fixed
+8c6c3080a1a0d87944458610458cb972f7d2d6e3 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587543979 +0600	checkout: moving from optimized-code-2 to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 0f6b39d2356c23c12429fb4befe7606e76dc5e1a Sudip <sudip.mediusware@gmail.com> 1587544245 +0600	checkout: moving from master to review-and-testing-code
+0f6b39d2356c23c12429fb4befe7606e76dc5e1a a787e80860448953b2a3b43bea142b2409b3ac7a Sudip <sudip.mediusware@gmail.com> 1587544331 +0600	commit: Finding issue & testing
+a787e80860448953b2a3b43bea142b2409b3ac7a d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587547787 +0600	checkout: moving from review-and-testing-code to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 b1d3e2a65db94923190863c3443563242da0f975 Sudip <sudip.mediusware@gmail.com> 1587547818 +0600	checkout: moving from master to long-delay-when-switching-between-boards
+b1d3e2a65db94923190863c3443563242da0f975 28e34769fc34cec6b8933b4821c0904897d01ec5 Sudip <sudip.mediusware@gmail.com> 1587550260 +0600	commit: Loading issue fixed
+28e34769fc34cec6b8933b4821c0904897d01ec5 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587550498 +0600	checkout: moving from long-delay-when-switching-between-boards to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 a787e80860448953b2a3b43bea142b2409b3ac7a Sudip <sudip.mediusware@gmail.com> 1587612148 +0600	checkout: moving from master to review-and-testing-code
+a787e80860448953b2a3b43bea142b2409b3ac7a c53769bbdbfc148553126c918a09eb4c587ef318 Sudip <sudip.mediusware@gmail.com> 1587614117 +0600	commit: Issue checking & solving
+c53769bbdbfc148553126c918a09eb4c587ef318 373598b9dfae057d15909883bfea8bf4ba9fcbab Sudip <sudip.mediusware@gmail.com> 1587617896 +0600	commit: Reveiw and testing
+373598b9dfae057d15909883bfea8bf4ba9fcbab d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587620689 +0600	checkout: moving from review-and-testing-code to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587620729 +0600	checkout: moving from master to import-csv-issue
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 51560e3683eeb74cfe10a1eae2de175ee5c01de8 Sudip <sudip.mediusware@gmail.com> 1587622517 +0600	commit: Import csv modal issue fixed & Form reset issue fixed
+51560e3683eeb74cfe10a1eae2de175ee5c01de8 d7a3798ba9d3c44a15b694a2f6ecbd4d9f3310eb Sudip <sudip.mediusware@gmail.com> 1587623705 +0600	commit: Csv from submit issue fixed
+d7a3798ba9d3c44a15b694a2f6ecbd4d9f3310eb 203a041bab0b636e1ce988990ed831c36c6e6265 Sudip <sudip.mediusware@gmail.com> 1587624711 +0600	commit: Import csv store issue fixed.
+203a041bab0b636e1ce988990ed831c36c6e6265 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587632145 +0600	checkout: moving from import-csv-issue to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 373598b9dfae057d15909883bfea8bf4ba9fcbab Sudip <sudip.mediusware@gmail.com> 1587632166 +0600	checkout: moving from master to review-and-testing-code
+373598b9dfae057d15909883bfea8bf4ba9fcbab ac97fb181aa61e2091961e6b60798dee1d1a4af5 Sudip <sudip.mediusware@gmail.com> 1587632304 +0600	commit: Import csv issue done. Finding new issue.
+ac97fb181aa61e2091961e6b60798dee1d1a4af5 c84e528eb31ea7cae88befd873bdba5bd1231a3f Sudip <sudip.mediusware@gmail.com> 1587636146 +0600	commit: Finding issue continue
+c84e528eb31ea7cae88befd873bdba5bd1231a3f c84e528eb31ea7cae88befd873bdba5bd1231a3f Sudip <sudip.mediusware@gmail.com> 1587639835 +0600	reset: moving to HEAD
+c84e528eb31ea7cae88befd873bdba5bd1231a3f d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587639839 +0600	checkout: moving from review-and-testing-code to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587639861 +0600	checkout: moving from master to board-switching-loading-add
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 ab23a1838ed5672f6eac61f988fc5a9562b7c000 Sudip <sudip.mediusware@gmail.com> 1587641190 +0600	commit: Board & List switching loading issue fixed.
+ab23a1838ed5672f6eac61f988fc5a9562b7c000 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587697909 +0600	checkout: moving from board-switching-loading-add to master
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587697979 +0600	pull origin master: Fast-forward
+9504208cb593d3f7a595376d6eed8830965eb4d3 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587703092 +0600	checkout: moving from master to assign-user-list-show
+9504208cb593d3f7a595376d6eed8830965eb4d3 086b660afd7573e6b7a0e716d6680f7bc16dcdd7 Sudip <sudip.mediusware@gmail.com> 1587703370 +0600	commit: Assign user list show issue and design issue fixed on Task List
+086b660afd7573e6b7a0e716d6680f7bc16dcdd7 461a73ef18cc57c3970e8fbf878b333ee5760d93 Sudip <sudip.mediusware@gmail.com> 1587705507 +0600	commit: Assign user list show issue fixed on Single Task Details page
+461a73ef18cc57c3970e8fbf878b333ee5760d93 461a73ef18cc57c3970e8fbf878b333ee5760d93 Sudip <sudip.mediusware@gmail.com> 1587706127 +0600	reset: moving to HEAD
+461a73ef18cc57c3970e8fbf878b333ee5760d93 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587706137 +0600	checkout: moving from assign-user-list-show to master
+9504208cb593d3f7a595376d6eed8830965eb4d3 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587706327 +0600	checkout: moving from master to tag-show-task-details-page
+9504208cb593d3f7a595376d6eed8830965eb4d3 b92bed37d8df53d37f8f08d662b139cad0eb4c7e Sudip <sudip.mediusware@gmail.com> 1587707141 +0600	commit: Tag box design fixed on board card task details
+b92bed37d8df53d37f8f08d662b139cad0eb4c7e 7af0e2ded0c53aa20e94f4b54f5f9213fe820c4e Sudip <sudip.mediusware@gmail.com> 1587712028 +0600	commit: Tag list show issue fixed on single card details
+7af0e2ded0c53aa20e94f4b54f5f9213fe820c4e f6b63b7844bb5e646e48d4c43f0424e6410f9471 Sudip <sudip.mediusware@gmail.com> 1587717796 +0600	commit: Tag search fixed on Single Task details page
+f6b63b7844bb5e646e48d4c43f0424e6410f9471 1fff7bd75064b3c8ef8b89491b5bc86c536d49dd Sudip <sudip.mediusware@gmail.com> 1587721800 +0600	commit: Tag search fixed on board card details
+1fff7bd75064b3c8ef8b89491b5bc86c536d49dd 68c1721d3e1a2ab5fe0d471597d9b0cccf0cf804 Sudip <sudip.mediusware@gmail.com> 1587724315 +0600	commit: Search tag add issue fixed.
+68c1721d3e1a2ab5fe0d471597d9b0cccf0cf804 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587727751 +0600	checkout: moving from tag-show-task-details-page to master
+9504208cb593d3f7a595376d6eed8830965eb4d3 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587956936 +0600	pull origin master: Fast-forward
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587959793 +0600	checkout: moving from master to right-click-add-tag-issue
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 778adc1c85e809979e7ca205aaccb36ec2411a6a Sudip <sudip.mediusware@gmail.com> 1587961522 +0600	commit: Right click multi select add tag design issue fixed on Task List
+778adc1c85e809979e7ca205aaccb36ec2411a6a 7d7911830f6c6b6cdb56f5e61e3b2b02efc72b7e Sudip <sudip.mediusware@gmail.com> 1587963113 +0600	commit: Right click multi select add tag design issue fixed on Board card
+7d7911830f6c6b6cdb56f5e61e3b2b02efc72b7e 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587964234 +0600	checkout: moving from right-click-add-tag-issue to master
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587964283 +0600	checkout: moving from master to right-click-add-priority-issue
+9a6d5293a403d2eb8daea43a711b580bcb9051eb bfd0e49064da18499adab63194679cba0257febb Sudip <sudip.mediusware@gmail.com> 1587964992 +0600	commit: Right click multi select add priority design issue fixed on Task List
+bfd0e49064da18499adab63194679cba0257febb 705dbbac31172f3e44d97193480405d93573442d Sudip <sudip.mediusware@gmail.com> 1587965837 +0600	commit: Right click multi select add priority design issue fixed on Board card
+705dbbac31172f3e44d97193480405d93573442d 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587967939 +0600	checkout: moving from right-click-add-priority-issue to master
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1587973286 +0600	checkout: moving from master to tag-search-ordering
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 74ad9c4ffe24c8a19d5fa1cd4be541cb0c7ba119 Sudip <sudip.mediusware@gmail.com> 1587973470 +0600	commit: Search tag order issue fixed
+74ad9c4ffe24c8a19d5fa1cd4be541cb0c7ba119 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588043700 +0600	checkout: moving from tag-search-ordering to master
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588051206 +0600	reset: moving to HEAD
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 7d7911830f6c6b6cdb56f5e61e3b2b02efc72b7e Sudip <sudip.mediusware@gmail.com> 1588051269 +0600	checkout: moving from master to right-click-add-tag-issue
+7d7911830f6c6b6cdb56f5e61e3b2b02efc72b7e bdfebd6f690018f158e68e2d2067b6bf14707a2b Sudip <sudip.mediusware@gmail.com> 1588054730 +0600	commit: Right click multi select tags added search on Board card
+bdfebd6f690018f158e68e2d2067b6bf14707a2b 640f7ca63965f39f481126517f56bf67586be54e Sudip <sudip.mediusware@gmail.com> 1588056918 +0600	commit: Right click multi select tags added search on Task list
+640f7ca63965f39f481126517f56bf67586be54e 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588061238 +0600	checkout: moving from right-click-add-tag-issue to master
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588061810 +0600	checkout: moving from master to overview-all-swal-alert
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 1e5c30f402a490602d5ba1f7f4065fa023b64af3 Sudip <sudip.mediusware@gmail.com> 1588063647 +0600	commit: Overview all swal alert issue fixed.
+1e5c30f402a490602d5ba1f7f4065fa023b64af3 77063badb52311620c18fff7263bf77a3e1d3475 Sudip <sudip.mediusware@gmail.com> 1588064956 +0600	commit: Overview comment formation issue fixed.
+77063badb52311620c18fff7263bf77a3e1d3475 9016e4ade4d14d163121ba886e6dd0b66cf7a211 Sudip <sudip.mediusware@gmail.com> 1588067923 +0600	commit: remove unnecessary function and comment
+9016e4ade4d14d163121ba886e6dd0b66cf7a211 064294ce10b0d037f4c62f1e472bcb2acb24fbe0 Sudip <sudip.mediusware@gmail.com> 1588068041 +0600	commit: remove unnecessary function and comment--all
+064294ce10b0d037f4c62f1e472bcb2acb24fbe0 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588129802 +0600	checkout: moving from overview-all-swal-alert to master
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588129819 +0600	pull origin master: Fast-forward
+149e582f1a54937277f4121c1e700a4b1a20826d 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588134936 +0600	checkout: moving from master to board-move-card-issue
+149e582f1a54937277f4121c1e700a4b1a20826d 836d95af4e0912ef9ead94595e384c4aeb1058af Sudip <sudip.mediusware@gmail.com> 1588135034 +0600	commit: Multi board card move issue solved
+836d95af4e0912ef9ead94595e384c4aeb1058af 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588136382 +0600	checkout: moving from board-move-card-issue to master
+149e582f1a54937277f4121c1e700a4b1a20826d 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588137830 +0600	reset: moving to HEAD
+149e582f1a54937277f4121c1e700a4b1a20826d 836d95af4e0912ef9ead94595e384c4aeb1058af Sudip <sudip.mediusware@gmail.com> 1588137879 +0600	checkout: moving from master to board-move-card-issue
+836d95af4e0912ef9ead94595e384c4aeb1058af c8d674cf886f38a1e6e359da035e3367911efe9a Sudip <sudip.mediusware@gmail.com> 1588138036 +0600	commit: Right arrow press show details issue fixed.
+c8d674cf886f38a1e6e359da035e3367911efe9a 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588138540 +0600	checkout: moving from board-move-card-issue to master
+149e582f1a54937277f4121c1e700a4b1a20826d 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588138835 +0600	checkout: moving from master to task-priority-color-issue
+149e582f1a54937277f4121c1e700a4b1a20826d c2dd8b935c3c6105cd58e55985ac68ef4c0755ac Sudip <sudip.mediusware@gmail.com> 1588139408 +0600	commit: Board card priority color issue fixed.
+c2dd8b935c3c6105cd58e55985ac68ef4c0755ac a91919d82b3e7bc8b52f69d6544d7506608984d4 Sudip <sudip.mediusware@gmail.com> 1588139780 +0600	commit: Task List priority color issue fixed.
+a91919d82b3e7bc8b52f69d6544d7506608984d4 4fa472d711a9a57f9d0190e1368baae1e1b0f4f2 Sudip <sudip.mediusware@gmail.com> 1588140714 +0600	commit: Tag color issue fixed on Task list.
+4fa472d711a9a57f9d0190e1368baae1e1b0f4f2 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588149185 +0600	checkout: moving from task-priority-color-issue to master
+149e582f1a54937277f4121c1e700a4b1a20826d 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588219352 +0600	pull origin master: Fast-forward
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588223742 +0600	checkout: moving from master to overview-modal-design-issue
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 edf1e9423e535d16fc312914d830fcd1145330d9 Sudip <sudip.mediusware@gmail.com> 1588224253 +0600	commit: Overview member remover user from team modal
+edf1e9423e535d16fc312914d830fcd1145330d9 d26e53c9018af225837fbcf2a5092add6c42046c Sudip <sudip.mediusware@gmail.com> 1588224535 +0600	commit: Overview add member to project modal issue fixed
+d26e53c9018af225837fbcf2a5092add6c42046c 55e4a95065bccda94110dde747dcfc9647f0893a Sudip <sudip.mediusware@gmail.com> 1588224662 +0600	commit: Overview update List Board modal issue fixed.
+55e4a95065bccda94110dde747dcfc9647f0893a 20b37ec9fc4d9293b2c51da1674cbe6e3e75979e Sudip <sudip.mediusware@gmail.com> 1588224963 +0600	commit: Overview remove list modal issue fixed.
+20b37ec9fc4d9293b2c51da1674cbe6e3e75979e 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588226011 +0600	checkout: moving from overview-modal-design-issue to master
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588226575 +0600	checkout: moving from master to board-details-issue
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 8a8c4ac0859799b13af792aab404ac1e4204e86f Sudip <sudip.mediusware@gmail.com> 1588226622 +0600	commit: Right arrow press show details issue fixed on board card.
+8a8c4ac0859799b13af792aab404ac1e4204e86f 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588232809 +0600	checkout: moving from board-details-issue to master
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 20b37ec9fc4d9293b2c51da1674cbe6e3e75979e Sudip <sudip.mediusware@gmail.com> 1588232888 +0600	checkout: moving from master to overview-modal-design-issue
+20b37ec9fc4d9293b2c51da1674cbe6e3e75979e 521b1d3d09e575cd063b14aa6e864b2acc48d29d Sudip <sudip.mediusware@gmail.com> 1588233196 +0600	commit: Navbar Shortcuts modal issue fixed.
+521b1d3d09e575cd063b14aa6e864b2acc48d29d 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588235107 +0600	checkout: moving from overview-modal-design-issue to master
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588235219 +0600	checkout: moving from master to list-and-board-swal-alert-issue
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 1098d25b6d9468871474228bd13d97cced6a0f77 Sudip <sudip.mediusware@gmail.com> 1588235719 +0600	commit: Board card swal alert issue fixed.
+1098d25b6d9468871474228bd13d97cced6a0f77 b74c6646c66f2a54b28b4bcbce08d6869bcbd7f1 Sudip <sudip.mediusware@gmail.com> 1588237585 +0600	commit: Task list swal alert issue fixed.
+b74c6646c66f2a54b28b4bcbce08d6869bcbd7f1 881656b12e2e9d5db687cb51d79d8c89b54d74f9 Sudip <sudip.mediusware@gmail.com> 1588241941 +0600	commit: Navbar swal alert issue fixed.
+881656b12e2e9d5db687cb51d79d8c89b54d74f9 64c7bdeba75ffcd6a6f1a2df3ee02d3eb37121dc Sudip <sudip.mediusware@gmail.com> 1588242919 +0600	commit: navbar issue fixed
+64c7bdeba75ffcd6a6f1a2df3ee02d3eb37121dc 0d52c1d9fd254e3c44656bcf52dc56e9268be644 Sudip <sudip.mediusware@gmail.com> 1588563750 +0600	checkout: moving from list-and-board-swal-alert-issue to master
+0d52c1d9fd254e3c44656bcf52dc56e9268be644 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588563773 +0600	pull origin master: Fast-forward
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588567874 +0600	checkout: moving from master to move-to-another-column-or-board
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 e4094ab8a304ce49683f1fb7f02d6f6e15e640a8 Sudip <sudip.mediusware@gmail.com> 1588568234 +0600	commit: Move to antother column board modal right click show issue fixed
+e4094ab8a304ce49683f1fb7f02d6f6e15e640a8 4d3c56ba67c26812dd95795dcdcd53cfefb89723 Sudip <sudip.mediusware@gmail.com> 1588569817 +0600	commit: Move to antother column board modal design issue fixed
+4d3c56ba67c26812dd95795dcdcd53cfefb89723 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588569984 +0600	checkout: moving from move-to-another-column-or-board to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 4d3c56ba67c26812dd95795dcdcd53cfefb89723 Sudip <sudip.mediusware@gmail.com> 1588570671 +0600	checkout: moving from master to move-to-another-column-or-board
+4d3c56ba67c26812dd95795dcdcd53cfefb89723 51acab66d9130b8e16798074aeb97ff7edca9895 Sudip <sudip.mediusware@gmail.com> 1588570924 +0600	commit: Move Task To Board - List modal design issue fixed on task list
+51acab66d9130b8e16798074aeb97ff7edca9895 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588571069 +0600	checkout: moving from move-to-another-column-or-board to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 51acab66d9130b8e16798074aeb97ff7edca9895 Sudip <sudip.mediusware@gmail.com> 1588571465 +0600	checkout: moving from master to move-to-another-column-or-board
+51acab66d9130b8e16798074aeb97ff7edca9895 7ff365da24eddc4705e36188078de7f47745239b Sudip <sudip.mediusware@gmail.com> 1588571634 +0600	commit: Column edit modal design issue fixed on board
+7ff365da24eddc4705e36188078de7f47745239b 5f278a1afb05281931ed0573f4080a6cf4c4d975 Sudip <sudip.mediusware@gmail.com> 1588571785 +0600	commit: Transfer Column To Another modal issue fixed on board
+5f278a1afb05281931ed0573f4080a6cf4c4d975 cee04e68f8de0ed8d9cd1f3603a7ffb820783040 Sudip <sudip.mediusware@gmail.com> 1588572488 +0600	commit: Manage all tag modal design issue fixed on Board Card
+cee04e68f8de0ed8d9cd1f3603a7ffb820783040 2b33f213709c583f46429f1d4a6939b13d9064ea Sudip <sudip.mediusware@gmail.com> 1588573119 +0600	commit: Project all modal background color color issue fixed.
+2b33f213709c583f46429f1d4a6939b13d9064ea bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588574211 +0600	checkout: moving from move-to-another-column-or-board to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588578746 +0600	checkout: moving from master to empty-task-outsite-click-remove
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 e43d9430c06082a393cf25adb6b2d075a66f6fea Sudip <sudip.mediusware@gmail.com> 1588580196 +0600	commit: Empty Task list outside click remove issue fixed.
+e43d9430c06082a393cf25adb6b2d075a66f6fea bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588581551 +0600	checkout: moving from empty-task-outsite-click-remove to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588582344 +0600	checkout: moving from master to rules-assigned-user-badge-issue
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 d70b81a88c1ad2c8d26af539f86c5d1fa509d39a Sudip <sudip.mediusware@gmail.com> 1588582484 +0600	commit: Rules table assigned user badge color issue fixed.
+d70b81a88c1ad2c8d26af539f86c5d1fa509d39a bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588582984 +0600	checkout: moving from rules-assigned-user-badge-issue to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588584262 +0600	reset: moving to HEAD
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 d70b81a88c1ad2c8d26af539f86c5d1fa509d39a Sudip <sudip.mediusware@gmail.com> 1588584282 +0600	checkout: moving from master to rules-assigned-user-badge-issue
+d70b81a88c1ad2c8d26af539f86c5d1fa509d39a df843833d77a5c331323f919e435f32d16f8f3f2 Sudip <sudip.mediusware@gmail.com> 1588584597 +0600	commit: Rules table scrolling issue fixed.
+df843833d77a5c331323f919e435f32d16f8f3f2 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588585488 +0600	checkout: moving from rules-assigned-user-badge-issue to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588590502 +0600	reset: moving to HEAD
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588591744 +0600	reset: moving to HEAD
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588650902 +0600	checkout: moving from master to task-list-and-board-tag-issue
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 9cc5132ade043e19055ab73c7d1af35fbe7e75d7 Sudip <sudip.mediusware@gmail.com> 1588651010 +0600	commit: Board add tag color issue fixed.
+9cc5132ade043e19055ab73c7d1af35fbe7e75d7 874c4cb37079fad26e02dca996d4f76d4e7c6351 Sudip <sudip.mediusware@gmail.com> 1588651846 +0600	commit: Task list add tag color issue fixed.
+874c4cb37079fad26e02dca996d4f76d4e7c6351 078851c4b8c38c24415d296590809c1df75cb0a5 Sudip <sudip.mediusware@gmail.com> 1588653706 +0600	commit: Board card details add tag color issue fixed.
+078851c4b8c38c24415d296590809c1df75cb0a5 509258ba68bcc577c5e583271081f030cd87997b Sudip <sudip.mediusware@gmail.com> 1588654109 +0600	commit: Single task details add tag collor issue fixed.
+509258ba68bcc577c5e583271081f030cd87997b bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588654776 +0600	checkout: moving from task-list-and-board-tag-issue to master
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588654791 +0600	pull origin master: Fast-forward
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 509258ba68bcc577c5e583271081f030cd87997b Sudip <sudip.mediusware@gmail.com> 1588654819 +0600	checkout: moving from master to task-list-and-board-tag-issue
+509258ba68bcc577c5e583271081f030cd87997b 00b5a8bf3b21c4e64d3e4c28f537a8ace5ef1910 Sudip <sudip.mediusware@gmail.com> 1588654837 +0600	pull origin master: Merge made by the 'recursive' strategy.
+00b5a8bf3b21c4e64d3e4c28f537a8ace5ef1910 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588654889 +0600	checkout: moving from task-list-and-board-tag-issue to master
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588656653 +0600	checkout: moving from master to all-swal-alert-issue
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 ce7432c6476af5d0435daecb0a470d208caa306c Sudip <sudip.mediusware@gmail.com> 1588657286 +0600	commit: Notification settings swal alert issue fixed.
+ce7432c6476af5d0435daecb0a470d208caa306c bb4143110f323b451d0a42a6f2688b41bec7cfef Sudip <sudip.mediusware@gmail.com> 1588657601 +0600	commit: Single task details swal alert issue fixed.
+bb4143110f323b451d0a42a6f2688b41bec7cfef 365083cf418fb99c04fcc7cf5cbc5dcbe1d97068 Sudip <sudip.mediusware@gmail.com> 1588658154 +0600	commit: Remove unnecessary swal function and swal alert issue fixed on Board
+365083cf418fb99c04fcc7cf5cbc5dcbe1d97068 95a9ac4bcebc871e2a15d2f411aa25eba41da02c Sudip <sudip.mediusware@gmail.com> 1588658957 +0600	commit: Projects all swal alert issue fixed
+95a9ac4bcebc871e2a15d2f411aa25eba41da02c 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588660346 +0600	checkout: moving from all-swal-alert-issue to master
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588661665 +0600	checkout: moving from master to navbar-loading-issue
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 9d581e414bcfaca6a8550b8f2f1ff58a85c2c097 Sudip <sudip.mediusware@gmail.com> 1588661777 +0600	commit: Same route click loading issue fixed on navbar.
+9d581e414bcfaca6a8550b8f2f1ff58a85c2c097 2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 Sudip <sudip.mediusware@gmail.com> 1588667436 +0600	checkout: moving from navbar-loading-issue to master
+2c7cc7a87c556e24cf2c51b75f8c8b2eccc76534 9d51a68c17c8ae522ad9ad302074a662b2f57319 Sudip <sudip.mediusware@gmail.com> 1588820951 +0600	pull origin master: Fast-forward
+9d51a68c17c8ae522ad9ad302074a662b2f57319 9d51a68c17c8ae522ad9ad302074a662b2f57319 Sudip <sudip.mediusware@gmail.com> 1588824206 +0600	checkout: moving from master to remove-from-task-list-alert
+9d51a68c17c8ae522ad9ad302074a662b2f57319 efe0b52043312c30468db6eb1d045f2c80d9688a Sudip <sudip.mediusware@gmail.com> 1588824942 +0600	commit: Remove from task list swal confirm alert issue fixed.
+efe0b52043312c30468db6eb1d045f2c80d9688a cecba9f17881fc3c650c5f10764143da9eb39444 Sudip <sudip.mediusware@gmail.com> 1588825320 +0600	commit: issue fixed
+cecba9f17881fc3c650c5f10764143da9eb39444 9d51a68c17c8ae522ad9ad302074a662b2f57319 Sudip <sudip.mediusware@gmail.com> 1588826579 +0600	checkout: moving from remove-from-task-list-alert to master
+9d51a68c17c8ae522ad9ad302074a662b2f57319 9d51a68c17c8ae522ad9ad302074a662b2f57319 Sudip <sudip.mediusware@gmail.com> 1588827475 +0600	checkout: moving from master to delete-press-task-remove-issue
+9d51a68c17c8ae522ad9ad302074a662b2f57319 ca5752bb4897bf8616d0c5b235d06e259561561b Sudip <sudip.mediusware@gmail.com> 1588827820 +0600	commit: If not selected a task & press delete key show warning alert on Board.
+ca5752bb4897bf8616d0c5b235d06e259561561b 82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 Sudip <sudip.mediusware@gmail.com> 1588828545 +0600	commit: If not selected a task & press delete key show warning alert on List.
+82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 9d51a68c17c8ae522ad9ad302074a662b2f57319 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1589253485 +0600	checkout: moving from delete-press-task-remove-issue to master
+9d51a68c17c8ae522ad9ad302074a662b2f57319 7a1df98f49dd17aabb7d897210420a31b852244c Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1589253590 +0600	pull origin master: Fast-forward
+7a1df98f49dd17aabb7d897210420a31b852244c 82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 Sudip <sudip.mediusware@gmail.com> 1589256003 +0600	checkout: moving from master to delete-press-task-remove-issue
+82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589256016 +0600	pull origin master: Fast-forward
+7a1df98f49dd17aabb7d897210420a31b852244c 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589256404 +0600	checkout: moving from delete-press-task-remove-issue to master
+7a1df98f49dd17aabb7d897210420a31b852244c 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589256488 +0600	checkout: moving from master to delete-press-task-remove-issue
+7a1df98f49dd17aabb7d897210420a31b852244c 4244e686528025894bc59ca11bb7198613814ddd Sudip <sudip.mediusware@gmail.com> 1589257447 +0600	commit: Board Card delete press issue fixed.
+4244e686528025894bc59ca11bb7198613814ddd 8969daff209b1c0a278c45e518a0469d25ebe50a Sudip <sudip.mediusware@gmail.com> 1589260021 +0600	commit: Task List delete press issue fixed.
+8969daff209b1c0a278c45e518a0469d25ebe50a 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589260853 +0600	checkout: moving from delete-press-task-remove-issue to master
+7a1df98f49dd17aabb7d897210420a31b852244c 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589261598 +0600	reset: moving to HEAD
+7a1df98f49dd17aabb7d897210420a31b852244c 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589264194 +0600	checkout: moving from master to navbar-store-error-issue
+7a1df98f49dd17aabb7d897210420a31b852244c 5ccee81de9bb4f0c813071071159e9781a0b9a2d Sudip <sudip.mediusware@gmail.com> 1589264295 +0600	commit: Navbar store error fixed and server validation
+5ccee81de9bb4f0c813071071159e9781a0b9a2d 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589265554 +0600	checkout: moving from navbar-store-error-issue to master
+7a1df98f49dd17aabb7d897210420a31b852244c 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589267951 +0600	reset: moving to HEAD
+7a1df98f49dd17aabb7d897210420a31b852244c 5ccee81de9bb4f0c813071071159e9781a0b9a2d Sudip <sudip.mediusware@gmail.com> 1589267953 +0600	checkout: moving from master to navbar-store-error-issue
+5ccee81de9bb4f0c813071071159e9781a0b9a2d 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589268348 +0600	checkout: moving from navbar-store-error-issue to master
+7a1df98f49dd17aabb7d897210420a31b852244c 5ccee81de9bb4f0c813071071159e9781a0b9a2d Sudip <sudip.mediusware@gmail.com> 1589268480 +0600	checkout: moving from master to navbar-store-error-issue
+5ccee81de9bb4f0c813071071159e9781a0b9a2d 5ccee81de9bb4f0c813071071159e9781a0b9a2d Sudip <sudip.mediusware@gmail.com> 1589269002 +0600	reset: moving to HEAD
+5ccee81de9bb4f0c813071071159e9781a0b9a2d b5704a6044a4526cc0978e5740119247e3104fd7 Sudip <sudip.mediusware@gmail.com> 1589270408 +0600	commit: navbar board store and server validation issue fixed
+b5704a6044a4526cc0978e5740119247e3104fd7 18cbe09c0912138964a1bd72067032f43cb86ce6 Sudip <sudip.mediusware@gmail.com> 1589274584 +0600	commit: navbar list store and server validation issue fixed
+18cbe09c0912138964a1bd72067032f43cb86ce6 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589339519 +0600	checkout: moving from navbar-store-error-issue to master
+7a1df98f49dd17aabb7d897210420a31b852244c d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589339533 +0600	pull origin master: Fast-forward
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589341100 +0600	checkout: moving from master to description-is-not-saving-pullout
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589342487 +0600	reset: moving to HEAD
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 807eb0c3c88fdd6aa2ace70e1fd0d6188509f8bc Sudip <sudip.mediusware@gmail.com> 1589344525 +0600	commit: Description is not saving all the time fixed on Board.
+807eb0c3c88fdd6aa2ace70e1fd0d6188509f8bc 2eb872fb483940c408a63427cf56191353223383 Sudip <sudip.mediusware@gmail.com> 1589345124 +0600	commit: Description is not saving all the time fixed on Task List.
+2eb872fb483940c408a63427cf56191353223383 ee053727c7c5737f44607322508a61940e12a44c Sudip <sudip.mediusware@gmail.com> 1589346019 +0600	commit: Getting an error when pasting an image in the description popup window
+ee053727c7c5737f44607322508a61940e12a44c 9e968f6c6902614bf072e29e70d182d84d552600 Sudip <sudip.mediusware@gmail.com> 1589346456 +0600	commit: Getting an error when pasting an image in the description popup window on Task List
+9e968f6c6902614bf072e29e70d182d84d552600 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589347853 +0600	checkout: moving from description-is-not-saving-pullout to master
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 18cbe09c0912138964a1bd72067032f43cb86ce6 Sudip <sudip.mediusware@gmail.com> 1589347861 +0600	checkout: moving from master to navbar-store-error-issue
+18cbe09c0912138964a1bd72067032f43cb86ce6 c5823a9b5063796dcbcdc413e44c5e42f1016783 Sudip <sudip.mediusware@gmail.com> 1589348446 +0600	commit: server error status change to 500
+c5823a9b5063796dcbcdc413e44c5e42f1016783 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589349453 +0600	checkout: moving from navbar-store-error-issue to master
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589350954 +0600	reset: moving to HEAD
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589356025 +0600	reset: moving to HEAD
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589364224 +0600	checkout: moving from master to opening-and-closing-parent-child-cards
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d65b2cb4c664f68093a92fd4464111d72b3b0a6d Sudip <sudip.mediusware@gmail.com> 1589364608 +0600	commit: Opening and closing parent child cards issue loader added.
+d65b2cb4c664f68093a92fd4464111d72b3b0a6d d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589426388 +0600	checkout: moving from opening-and-closing-parent-child-cards to master
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589427062 +0600	checkout: moving from master to hash-show-tags-and-filter-by-text
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589437640 +0600	reset: moving to HEAD
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589437657 +0600	pull origin master: Fast-forward
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 29a265bf305f788833fb6dd6802bdb5cefbbb790 Sudip <sudip.mediusware@gmail.com> 1589437877 +0600	commit: When adding the @ in a card we are showing tags not users. # should show tags and filter by text
+29a265bf305f788833fb6dd6802bdb5cefbbb790 d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 Sudip <sudip.mediusware@gmail.com> 1589437890 +0600	checkout: moving from hash-show-tags-and-filter-by-text to master
+d6a6ad6c2559acc10f1ca0e0dd01e42959f74076 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589437899 +0600	pull origin master: Fast-forward
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 29a265bf305f788833fb6dd6802bdb5cefbbb790 Sudip <sudip.mediusware@gmail.com> 1589437920 +0600	checkout: moving from master to hash-show-tags-and-filter-by-text
+29a265bf305f788833fb6dd6802bdb5cefbbb790 f738ca80f90b452f3118fc39e5f6e1199feed16f Sudip <sudip.mediusware@gmail.com> 1589439247 +0600	commit: this issue is fixed
+f738ca80f90b452f3118fc39e5f6e1199feed16f 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589440707 +0600	checkout: moving from hash-show-tags-and-filter-by-text to master
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 f738ca80f90b452f3118fc39e5f6e1199feed16f Sudip <sudip.mediusware@gmail.com> 1589441777 +0600	checkout: moving from master to hash-show-tags-and-filter-by-text
+f738ca80f90b452f3118fc39e5f6e1199feed16f bfe78643fe9a4eb65e794af7939512767e229ccc Sudip <sudip.mediusware@gmail.com> 1589443768 +0600	commit: Remove unnecessary code.
+bfe78643fe9a4eb65e794af7939512767e229ccc 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589450670 +0600	checkout: moving from hash-show-tags-and-filter-by-text to master
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589452114 +0600	checkout: moving from master to board-loading-issue
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 2598b8b276edaa204f00ec4e44411ac430fc05f1 Sudip <sudip.mediusware@gmail.com> 1589452198 +0600	commit: Remove unnecessary api calling.
+2598b8b276edaa204f00ec4e44411ac430fc05f1 03cc7f591d22815b9a7dd6c466244132af639790 Sudip <sudip.mediusware@gmail.com> 1589453421 +0600	commit: Fixd this issue
+03cc7f591d22815b9a7dd6c466244132af639790 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589512454 +0600	checkout: moving from board-loading-issue to master
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589514091 +0600	reset: moving to HEAD
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 03cc7f591d22815b9a7dd6c466244132af639790 Sudip <sudip.mediusware@gmail.com> 1589514098 +0600	checkout: moving from master to board-loading-issue
+03cc7f591d22815b9a7dd6c466244132af639790 03cc7f591d22815b9a7dd6c466244132af639790 Sudip <sudip.mediusware@gmail.com> 1589516312 +0600	reset: moving to HEAD
+03cc7f591d22815b9a7dd6c466244132af639790 03cc7f591d22815b9a7dd6c466244132af639790 Sudip <sudip.mediusware@gmail.com> 1589516831 +0600	reset: moving to HEAD
+03cc7f591d22815b9a7dd6c466244132af639790 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589518216 +0600	checkout: moving from board-loading-issue to master
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589518672 +0600	checkout: moving from master to list-loading-and-api-calling
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 afd587b1de372d74c283a6f5bc931da053f15f51 Sudip <sudip.mediusware@gmail.com> 1589518841 +0600	commit: Task list remove data loading and calling extra api.
+afd587b1de372d74c283a6f5bc931da053f15f51 3ac265a15e56454c37b00760d386608bfa43de40 Sudip <sudip.mediusware@gmail.com> 1589520289 +0600	pull origin master: Merge made by the 'recursive' strategy.
+3ac265a15e56454c37b00760d386608bfa43de40 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589520382 +0600	checkout: moving from list-loading-and-api-calling to master
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589520417 +0600	pull origin master: Fast-forward
+f450075eacfde56cdc5a4413b30624488ef03aec 3ac265a15e56454c37b00760d386608bfa43de40 Sudip <sudip.mediusware@gmail.com> 1589520946 +0600	checkout: moving from master to list-loading-and-api-calling
+3ac265a15e56454c37b00760d386608bfa43de40 2800caaa7fa6e7623f1e93a54f497c9a5f084ebe Sudip <sudip.mediusware@gmail.com> 1589521330 +0600	commit: Remove unnecessary code.
+2800caaa7fa6e7623f1e93a54f497c9a5f084ebe f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589522465 +0600	checkout: moving from list-loading-and-api-calling to master
+f450075eacfde56cdc5a4413b30624488ef03aec f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589525582 +0600	reset: moving to HEAD
+f450075eacfde56cdc5a4413b30624488ef03aec f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589526434 +0600	checkout: moving from master to task-list-tag-issue
+f450075eacfde56cdc5a4413b30624488ef03aec 6101bf0f3d09b7acb971f8497166f55127456ee6 Sudip <sudip.mediusware@gmail.com> 1589526541 +0600	commit: Task list right click add tag box design fixed.
+6101bf0f3d09b7acb971f8497166f55127456ee6 f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589528650 +0600	checkout: moving from task-list-tag-issue to master
+f450075eacfde56cdc5a4413b30624488ef03aec f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589530351 +0600	reset: moving to HEAD
+f450075eacfde56cdc5a4413b30624488ef03aec f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589531963 +0600	reset: moving to HEAD
+f450075eacfde56cdc5a4413b30624488ef03aec f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589532034 +0600	checkout: moving from master to profile-db-connection-error
+f450075eacfde56cdc5a4413b30624488ef03aec fe6bed37c9d2e6aa498c248cb6ea24cf3e1fd7d2 Sudip <sudip.mediusware@gmail.com> 1589532106 +0600	commit: Profile database connection error issue fixed.
+fe6bed37c9d2e6aa498c248cb6ea24cf3e1fd7d2 f450075eacfde56cdc5a4413b30624488ef03aec Sudip <sudip.mediusware@gmail.com> 1589532295 +0600	checkout: moving from profile-db-connection-error to master
+f450075eacfde56cdc5a4413b30624488ef03aec 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589770998 +0600	pull origin master: Fast-forward
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589772295 +0600	checkout: moving from master to optimize-code-and-loading-issue
+29e20129ab09cae0aed5f774ca265c097639f6e9 32af14d5325113ac402aef83eb232aa3d0b898a6 Sudip <sudip.mediusware@gmail.com> 1589774053 +0600	commit: Board card Filtering fuction and code optimized
+32af14d5325113ac402aef83eb232aa3d0b898a6 33a68f4f8179dd5625c5a4aa022a18ea7fced1dd Sudip <sudip.mediusware@gmail.com> 1589775629 +0600	commit: Task List swal close issue fixed.
+33a68f4f8179dd5625c5a4aa022a18ea7fced1dd 2dc8e2675482bd87c7fff2967ced40d78927c116 Sudip <sudip.mediusware@gmail.com> 1589780006 +0600	commit: Press delete issue fixed on Task list and Board card
+2dc8e2675482bd87c7fff2967ced40d78927c116 9770056aa880a90927cf76038bae0499027f93e5 Sudip <sudip.mediusware@gmail.com> 1589781254 +0600	commit: Board card swal close issue fixed.
+9770056aa880a90927cf76038bae0499027f93e5 9770056aa880a90927cf76038bae0499027f93e5 Sudip <sudip.mediusware@gmail.com> 1589783643 +0600	reset: moving to HEAD
+9770056aa880a90927cf76038bae0499027f93e5 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589783653 +0600	checkout: moving from optimize-code-and-loading-issue to master
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589783718 +0600	checkout: moving from master to setting-current-teams-issue
+29e20129ab09cae0aed5f774ca265c097639f6e9 b52ddff64102898ac82a11fc4346c59846e9f001 Sudip <sudip.mediusware@gmail.com> 1589784826 +0600	commit: Setting current team table design issue fixed
+b52ddff64102898ac82a11fc4346c59846e9f001 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589786577 +0600	checkout: moving from setting-current-teams-issue to master
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589786612 +0600	checkout: moving from master to import-csv-server-error-status
+29e20129ab09cae0aed5f774ca265c097639f6e9 58f0cad246e1f8e0ffa37fbfe58dcac208980a48 Sudip <sudip.mediusware@gmail.com> 1589789280 +0600	commit: Import csv change server error status and optimized code.
+58f0cad246e1f8e0ffa37fbfe58dcac208980a48 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589791587 +0600	checkout: moving from import-csv-server-error-status to master
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589792746 +0600	reset: moving to HEAD
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589794534 +0600	reset: moving to HEAD
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589794732 +0600	checkout: moving from master to board-details-popup-data-save
+29e20129ab09cae0aed5f774ca265c097639f6e9 deb0242694e9aecb250f786141d6da09c4363498 Sudip <sudip.mediusware@gmail.com> 1589794884 +0600	commit: Board description popup data save issue and save copy photo issue fixed.
+deb0242694e9aecb250f786141d6da09c4363498 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589795476 +0600	checkout: moving from board-details-popup-data-save to master
+29e20129ab09cae0aed5f774ca265c097639f6e9 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589798906 +0600	reset: moving to HEAD
+29e20129ab09cae0aed5f774ca265c097639f6e9 deb0242694e9aecb250f786141d6da09c4363498 Sudip <sudip.mediusware@gmail.com> 1589798924 +0600	checkout: moving from master to board-details-popup-data-save
+deb0242694e9aecb250f786141d6da09c4363498 be2553476f0c2b934b36c6d550541b29f2c4a9ce Sudip <sudip.mediusware@gmail.com> 1589799430 +0600	commit: Api issue Fixed
+be2553476f0c2b934b36c6d550541b29f2c4a9ce 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589799919 +0600	checkout: moving from board-details-popup-data-save to master
+29e20129ab09cae0aed5f774ca265c097639f6e9 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589857871 +0600	pull origin master: Fast-forward
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 9770056aa880a90927cf76038bae0499027f93e5 Sudip <sudip.mediusware@gmail.com> 1589862012 +0600	checkout: moving from master to optimize-code-and-loading-issue
+9770056aa880a90927cf76038bae0499027f93e5 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589862022 +0600	pull origin master: Fast-forward
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 d2e095e3bce7b0d48a11f32822337364e6aefdc5 Sudip <sudip.mediusware@gmail.com> 1589862206 +0600	commit: Remove unnecessary code and function from MultipleListController
+d2e095e3bce7b0d48a11f32822337364e6aefdc5 9d864c75c0f7a873d186a4fffc51ef9a4e34db59 Sudip <sudip.mediusware@gmail.com> 1589863431 +0600	commit: Remove unnecessary code and function from ActonLogcontreoller, AssignedUserController and HomeController
+9d864c75c0f7a873d186a4fffc51ef9a4e34db59 695ce11947b5e02e90cfb4e43fe8bc5878a82651 Sudip <sudip.mediusware@gmail.com> 1589864919 +0600	commit: Remove unnecessary code and function from MultipleBoardController
+695ce11947b5e02e90cfb4e43fe8bc5878a82651 2d1740acf8c72d0d109cb71f4f97b4b670460a32 Sudip <sudip.mediusware@gmail.com> 1589865895 +0600	commit: Remove unnecessary code and function from PriorityController, SearchController
+2d1740acf8c72d0d109cb71f4f97b4b670460a32 2d1740acf8c72d0d109cb71f4f97b4b670460a32 Sudip <sudip.mediusware@gmail.com> 1589873460 +0600	reset: moving to HEAD
+2d1740acf8c72d0d109cb71f4f97b4b670460a32 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589873858 +0600	checkout: moving from optimize-code-and-loading-issue to master
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589877797 +0600	checkout: moving from master to navbar-swal-alert-issue
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 bb74d29224e829d0f991059fba60763e26708963 Sudip <sudip.mediusware@gmail.com> 1589878347 +0600	commit: Project navbar all swal alert issue fixed.
+bb74d29224e829d0f991059fba60763e26708963 16632f48a802c3471ecd11aba0753f922be55b5a Sudip <sudip.mediusware@gmail.com> 1589878944 +0600	commit: Remove unnecessary code and function for project navbar
+16632f48a802c3471ecd11aba0753f922be55b5a c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589880616 +0600	checkout: moving from navbar-swal-alert-issue to master
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589948301 +0600	checkout: moving from master to team-switching-issue
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 7679d6836dc499f5777f8df3ea8be5983119ef18 Sudip <sudip.mediusware@gmail.com> 1589948973 +0600	commit: Create team with create time wise database.
+7679d6836dc499f5777f8df3ea8be5983119ef18 23a1dd3290a8f2588892bb259558a0950cda9846 Sudip <sudip.mediusware@gmail.com> 1589953382 +0600	commit: Team switch issue fixed and get team wise project data.
+23a1dd3290a8f2588892bb259558a0950cda9846 a6007d59d0e5c6109f87f3a9fb9418033f49044a Sudip <sudip.mediusware@gmail.com> 1589955336 +0600	commit: Team routing issue fixed.
+a6007d59d0e5c6109f87f3a9fb9418033f49044a c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589964275 +0600	checkout: moving from team-switching-issue to master
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589966992 +0600	checkout: moving from master to board-card-details-issue
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 5eb3f8c9cd296b905c02411861dfc48c73570937 Sudip <sudip.mediusware@gmail.com> 1589968137 +0600	commit: Board card details sometime event not working issue fixed.
+5eb3f8c9cd296b905c02411861dfc48c73570937 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1590549519 +0600	checkout: moving from board-card-details-issue to master
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590549541 +0600	pull origin master: Fast-forward
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590551798 +0600	checkout: moving from master to private-is-spelled-wrong-when-creating-a-new-project
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 c7b87b16572d77ba9d8df299b91a1992b8f94398 Sudip <sudip.mediusware@gmail.com> 1590552633 +0600	commit: Private is spelled wrong when creating a new project and selecting not to add users.
+c7b87b16572d77ba9d8df299b91a1992b8f94398 dacd55fa517272ae762baaf022796c2394196bb4 Sudip <sudip.mediusware@gmail.com> 1590553878 +0600	commit: Remove unnecessary code and Fixed all conditions.
+dacd55fa517272ae762baaf022796c2394196bb4 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590556624 +0600	checkout: moving from private-is-spelled-wrong-when-creating-a-new-project to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 064294ce10b0d037f4c62f1e472bcb2acb24fbe0 Sudip <sudip.mediusware@gmail.com> 1590558208 +0600	checkout: moving from master to overview-all-swal-alert
+064294ce10b0d037f4c62f1e472bcb2acb24fbe0 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590558229 +0600	pull origin master: Fast-forward
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590558258 +0600	checkout: moving from overview-all-swal-alert to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590558385 +0600	checkout: moving from master to overview-all-swal-alert
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 4f9a131c49b3ea83c49548d49debef93026a0434 Sudip <sudip.mediusware@gmail.com> 1590559404 +0600	commit: All swal alert issue fixed from overview
+4f9a131c49b3ea83c49548d49debef93026a0434 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590560934 +0600	checkout: moving from overview-all-swal-alert to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 2d1740acf8c72d0d109cb71f4f97b4b670460a32 Sudip <sudip.mediusware@gmail.com> 1590562682 +0600	checkout: moving from master to optimize-code-and-loading-issue
+2d1740acf8c72d0d109cb71f4f97b4b670460a32 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590562693 +0600	pull origin master: Fast-forward
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590562889 +0600	reset: moving to HEAD
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 0a428b0266c9f560b2b27244453e2465ea49da1d Sudip <sudip.mediusware@gmail.com> 1590565563 +0600	commit: Card switching loading faster and Remove unnecessary code.
+0a428b0266c9f560b2b27244453e2465ea49da1d 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590569745 +0600	checkout: moving from optimize-code-and-loading-issue to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590570368 +0600	checkout: moving from master to component-templating-error-issue
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 e092ccf5aaf6a8d6afe00778981e5e570da213b7 Sudip <sudip.mediusware@gmail.com> 1590571641 +0600	commit: Component templating error issue fixed.
+e092ccf5aaf6a8d6afe00778981e5e570da213b7 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590572386 +0600	checkout: moving from component-templating-error-issue to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 e092ccf5aaf6a8d6afe00778981e5e570da213b7 Sudip <sudip.mediusware@gmail.com> 1590582157 +0600	checkout: moving from master to component-templating-error-issue
+e092ccf5aaf6a8d6afe00778981e5e570da213b7 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590635785 +0600	checkout: moving from component-templating-error-issue to master
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590635814 +0600	pull origin master: Fast-forward
+8799a7169e7980c9d47f04266925972481551ba0 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590637106 +0600	checkout: moving from master to optimize-code-date-format
+8799a7169e7980c9d47f04266925972481551ba0 ece374fad48389004cd01f93b91e7a8fa2e4d70e Sudip <sudip.mediusware@gmail.com> 1590637187 +0600	commit: Create date format function from Helper.js
+ece374fad48389004cd01f93b91e7a8fa2e4d70e 234a016dd831160a8b3e6ef2aac5f023c6e9b84e Sudip <sudip.mediusware@gmail.com> 1590639563 +0600	commit: Added Helper date format in template from Single Task details page
+234a016dd831160a8b3e6ef2aac5f023c6e9b84e 4ac30e8da78ff35f490b5773a05081839d27435e Sudip <sudip.mediusware@gmail.com> 1590640966 +0600	commit: Remove unnecessary code and function from Single Task details page.
+4ac30e8da78ff35f490b5773a05081839d27435e aa4d7bdf8b8955c6aaf084fb203decf4465e34c6 Sudip <sudip.mediusware@gmail.com> 1590642578 +0600	commit: Added Helper date format in template from Board Card Details page
+aa4d7bdf8b8955c6aaf084fb203decf4465e34c6 ef14575e33ee9575522e116d92e0c3f3b4b63238 Sudip <sudip.mediusware@gmail.com> 1590643366 +0600	commit: Remove unnecessary code and function from Board Card Details page
+ef14575e33ee9575522e116d92e0c3f3b4b63238 1b3d980309647128c101185516446546f4ba006f Sudip <sudip.mediusware@gmail.com> 1590644884 +0600	commit: Remove unnecessary code and function from Single Task details page
+1b3d980309647128c101185516446546f4ba006f 45c00862de88cfa451123aac6ad45bfbde68626c Sudip <sudip.mediusware@gmail.com> 1590645327 +0600	commit: Remove unnecessary code and function from Board Card Details page
+45c00862de88cfa451123aac6ad45bfbde68626c 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590648757 +0600	checkout: moving from optimize-code-date-format to master
+8799a7169e7980c9d47f04266925972481551ba0 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590649598 +0600	checkout: moving from master to manage-tag-modal-design-issue
+8799a7169e7980c9d47f04266925972481551ba0 e4e0464d799e2fc2a41d97f2f2984d1e186faf0a Sudip <sudip.mediusware@gmail.com> 1590649863 +0600	commit: Manage tag modal scrolling issue fixed on Board Card.
+e4e0464d799e2fc2a41d97f2f2984d1e186faf0a 887b07017a84e44949d264082ca3ff1d0039e7b5 Sudip <sudip.mediusware@gmail.com> 1590650501 +0600	commit: Manage tag modal scrolling issue fixed on Task list.
+887b07017a84e44949d264082ca3ff1d0039e7b5 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590650627 +0600	checkout: moving from manage-tag-modal-design-issue to master
+8799a7169e7980c9d47f04266925972481551ba0 45c00862de88cfa451123aac6ad45bfbde68626c Sudip <sudip.mediusware@gmail.com> 1590657468 +0600	checkout: moving from master to optimize-code-date-format
+45c00862de88cfa451123aac6ad45bfbde68626c 45c00862de88cfa451123aac6ad45bfbde68626c Sudip <sudip.mediusware@gmail.com> 1590658972 +0600	reset: moving to HEAD
+45c00862de88cfa451123aac6ad45bfbde68626c 45c00862de88cfa451123aac6ad45bfbde68626c Sudip <sudip.mediusware@gmail.com> 1590659282 +0600	reset: moving to HEAD
+45c00862de88cfa451123aac6ad45bfbde68626c 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590659288 +0600	checkout: moving from optimize-code-date-format to master
+8799a7169e7980c9d47f04266925972481551ba0 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590659384 +0600	checkout: moving from master to team-setting-error-issue
+8799a7169e7980c9d47f04266925972481551ba0 efec655d3bfaa2dd74c6954dbb188f9242e26ca0 Sudip <sudip.mediusware@gmail.com> 1590660429 +0600	commit: Team setting blade template error fixed.
+efec655d3bfaa2dd74c6954dbb188f9242e26ca0 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590662100 +0600	checkout: moving from team-setting-error-issue to master
+8799a7169e7980c9d47f04266925972481551ba0 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590726398 +0600	checkout: moving from master to board-filter-issue
+8799a7169e7980c9d47f04266925972481551ba0 43bd5ac665678f90020f9c208eee51941f5fe7cb Sudip <sudip.mediusware@gmail.com> 1590726484 +0600	commit: Change all condition and make faster all filter
+43bd5ac665678f90020f9c208eee51941f5fe7cb 81cc25d40381f3f47aa1cd9b641304a90afe75f3 Sudip <sudip.mediusware@gmail.com> 1590727304 +0600	pull origin master: Merge made by the 'recursive' strategy.
+81cc25d40381f3f47aa1cd9b641304a90afe75f3 9082eb1ad8b6ee49c22c6f63d3b070c28fd89a51 Sudip <sudip.mediusware@gmail.com> 1590727459 +0600	commit: Remove unnecessary code
+9082eb1ad8b6ee49c22c6f63d3b070c28fd89a51 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590727493 +0600	checkout: moving from board-filter-issue to master
+8799a7169e7980c9d47f04266925972481551ba0 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590727505 +0600	pull origin master: Fast-forward
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 9082eb1ad8b6ee49c22c6f63d3b070c28fd89a51 Sudip <sudip.mediusware@gmail.com> 1590728554 +0600	checkout: moving from master to board-filter-issue
+9082eb1ad8b6ee49c22c6f63d3b070c28fd89a51 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590731334 +0600	checkout: moving from board-filter-issue to master
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590733462 +0600	reset: moving to HEAD
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590736478 +0600	checkout: moving from master to import-csv-data-save-issue
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 0e08868246852c32c57fd5427707d98e1f1a4404 Sudip <sudip.mediusware@gmail.com> 1590736659 +0600	commit: Import csv data save issue fixed
+0e08868246852c32c57fd5427707d98e1f1a4404 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590737013 +0600	checkout: moving from import-csv-data-save-issue to master
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 0e08868246852c32c57fd5427707d98e1f1a4404 Sudip <sudip.mediusware@gmail.com> 1590740455 +0600	checkout: moving from master to import-csv-data-save-issue
+0e08868246852c32c57fd5427707d98e1f1a4404 3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de Sudip <sudip.mediusware@gmail.com> 1590740559 +0600	commit: Change error alert message
+3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590742831 +0600	checkout: moving from import-csv-data-save-issue to master
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590749059 +0600	checkout: moving from master to profile-comment-not-show
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 05b5ab9c4c225da88545d8c9dee3a0118ccb8946 Sudip <sudip.mediusware@gmail.com> 1590749250 +0600	commit: Profile all comment show fixed api issue.
+05b5ab9c4c225da88545d8c9dee3a0118ccb8946 14e7529f9d691249cd0cc1677f8fcdd85a2e85a9 Sudip <sudip.mediusware@gmail.com> 1590750213 +0600	commit: Comment details design issue fixed.
+14e7529f9d691249cd0cc1677f8fcdd85a2e85a9 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1590750715 +0600	checkout: moving from profile-comment-not-show to master
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1590750791 +0600	checkout: moving from master to profile-comment-not-showing
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 1fcf6fae1745bdcf33ad8f86147d995177180670 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1590750886 +0600	commit: Profile all comment show fixed api issue.
+1fcf6fae1745bdcf33ad8f86147d995177180670 02ebbf19ae1b1a37755e25429a0b45b51e8df34f Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1590751111 +0600	commit: Comment details design issue fixed.
+02ebbf19ae1b1a37755e25429a0b45b51e8df34f ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590751200 +0600	checkout: moving from profile-comment-not-showing to master
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590981708 +0600	pull origin master: Fast-forward
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590986358 +0600	checkout: moving from master to navbar-update-server-validation
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 437d1f5892acc946ab2c474229b19ea708de1aea Sudip <sudip.mediusware@gmail.com> 1590986399 +0600	commit: Navbar update Empty title data server validation
+437d1f5892acc946ab2c474229b19ea708de1aea e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590987397 +0600	checkout: moving from navbar-update-server-validation to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590988591 +0600	checkout: moving from master to list-and-board-navbar-update-validation
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 8f64004f480a3c66024c5063ee477033dde7dc54 Sudip <sudip.mediusware@gmail.com> 1590988890 +0600	commit: Server validation functional added.
+8f64004f480a3c66024c5063ee477033dde7dc54 d4e93104b5807265e203e21e241dbd3f97c18d68 Sudip <sudip.mediusware@gmail.com> 1590989086 +0600	commit: Board navbar update server validation show error issue.
+d4e93104b5807265e203e21e241dbd3f97c18d68 7ddf2c111e8322c4f2ceac694534f5022495ba05 Sudip <sudip.mediusware@gmail.com> 1590989758 +0600	commit: Task List navbar update server validation show error issue.
+7ddf2c111e8322c4f2ceac694534f5022495ba05 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590992128 +0600	checkout: moving from list-and-board-navbar-update-validation to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590992862 +0600	reset: moving to HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590993018 +0600	checkout: moving from master to overview-navbar-list-update-server-validation
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a bbae0475466f35a27b998941851373f24cc77362 Sudip <sudip.mediusware@gmail.com> 1590993060 +0600	commit: Overview list navbar update title server validation and show server validation errors
+bbae0475466f35a27b998941851373f24cc77362 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590999599 +0600	checkout: moving from overview-navbar-list-update-server-validation to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591006767 +0600	checkout: moving from master to task-list-and-board-details-modal-design-issue
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a cf4f6278e8c6941a4bbedfc638bd3872ee239de6 Sudip <sudip.mediusware@gmail.com> 1591007304 +0600	commit: Task List and Board card Task details modal disign issue fixed.
+cf4f6278e8c6941a4bbedfc638bd3872ee239de6 cf4f6278e8c6941a4bbedfc638bd3872ee239de6 Sudip <sudip.mediusware@gmail.com> 1591007500 +0600	checkout: moving from task-list-and-board-details-modal-design-issue to task-list-and-board-details-modal-design
+cf4f6278e8c6941a4bbedfc638bd3872ee239de6 9f1ae31d6a6e2793815b2a9df21134de462f3ae4 Sudip <sudip.mediusware@gmail.com> 1591007668 +0600	commit: Task List and Board card Task details modal disign issue fixed.
+9f1ae31d6a6e2793815b2a9df21134de462f3ae4 da917a5456194041377c19cd14ac3fb6d3145eef Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1591007958 +0600	commit: Task List and Board card Task details modal disign issue fixed.
+da917a5456194041377c19cd14ac3fb6d3145eef e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591008373 +0600	checkout: moving from task-list-and-board-details-modal-design to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 7ddf2c111e8322c4f2ceac694534f5022495ba05 Sudip <sudip.mediusware@gmail.com> 1591013174 +0600	checkout: moving from master to list-and-board-navbar-update-validation
+7ddf2c111e8322c4f2ceac694534f5022495ba05 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591013212 +0600	checkout: moving from list-and-board-navbar-update-validation to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a bbae0475466f35a27b998941851373f24cc77362 Sudip <sudip.mediusware@gmail.com> 1591013232 +0600	checkout: moving from master to overview-navbar-list-update-server-validation
+bbae0475466f35a27b998941851373f24cc77362 cf80f54251cd522a169cf7fe6976efffaf8c714a Sudip <sudip.mediusware@gmail.com> 1591013536 +0600	commit: Fixed all conditional issues on overview.
+cf80f54251cd522a169cf7fe6976efffaf8c714a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591013721 +0600	checkout: moving from overview-navbar-list-update-server-validation to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591070065 +0600	checkout: moving from master to left-navbar-current-team-selected
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 Sudip <sudip.mediusware@gmail.com> 1591070261 +0600	commit: Left navbar teams setting current team can't selected.
+2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591070412 +0600	checkout: moving from left-navbar-current-team-selected to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 Sudip <sudip.mediusware@gmail.com> 1591071959 +0600	checkout: moving from master to left-navbar-current-team-selected
+2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 ba26d471c831a9ed7bdacfb75945a32db9502011 Sudip <sudip.mediusware@gmail.com> 1591072288 +0600	commit: Fixed alignment on left menu.
+ba26d471c831a9ed7bdacfb75945a32db9502011 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591072715 +0600	checkout: moving from left-navbar-current-team-selected to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 64c7bdeba75ffcd6a6f1a2df3ee02d3eb37121dc Sudip <sudip.mediusware@gmail.com> 1591073232 +0600	checkout: moving from master to list-and-board-swal-alert-issue
+64c7bdeba75ffcd6a6f1a2df3ee02d3eb37121dc e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591073247 +0600	pull origin master: Fast-forward
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a da706c8cecaf3b99ad0a65d24af265f1e11c9845 Sudip <sudip.mediusware@gmail.com> 1591073620 +0600	commit: Task list all swal alert error issue fixed.
+da706c8cecaf3b99ad0a65d24af265f1e11c9845 019a94fef89c0abb71731f4ad318d282156b1fe2 Sudip <sudip.mediusware@gmail.com> 1591074598 +0600	commit: Board card all swal alert error issue fixed.
+019a94fef89c0abb71731f4ad318d282156b1fe2 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591075309 +0600	checkout: moving from list-and-board-swal-alert-issue to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a ba26d471c831a9ed7bdacfb75945a32db9502011 Sudip <sudip.mediusware@gmail.com> 1591079055 +0600	checkout: moving from master to left-navbar-current-team-selected
+ba26d471c831a9ed7bdacfb75945a32db9502011 80c3245ecf27dbafb6863b9a4547f8e123cd6703 Sudip <sudip.mediusware@gmail.com> 1591079803 +0600	commit: Setting All teams show current and active team.
+80c3245ecf27dbafb6863b9a4547f8e123cd6703 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591080485 +0600	checkout: moving from left-navbar-current-team-selected to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591080900 +0600	reset: moving to HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 80c3245ecf27dbafb6863b9a4547f8e123cd6703 Sudip <sudip.mediusware@gmail.com> 1591087543 +0600	checkout: moving from master to left-navbar-current-team-selected
+80c3245ecf27dbafb6863b9a4547f8e123cd6703 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591088225 +0600	checkout: moving from left-navbar-current-team-selected to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591090328 +0600	reset: moving to HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591092397 +0600	checkout: moving from master to optimize-code-multiple-board-controller
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 9073f5f74b9867f9aa3030e141f4be823fde2697 Sudip <sudip.mediusware@gmail.com> 1591092525 +0600	commit: Board child card hide show loading faster.
+9073f5f74b9867f9aa3030e141f4be823fde2697 06ab53879fd95751d9d962af4fd0a4e73a42e92d Sudip <sudip.mediusware@gmail.com> 1591093290 +0600	commit: Some function optmize and remove unnecessary code
+06ab53879fd95751d9d962af4fd0a4e73a42e92d e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591098596 +0600	checkout: moving from optimize-code-multiple-board-controller to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591154271 +0600	checkout: moving from master to master
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591154293 +0600	pull origin master: Fast-forward
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591157206 +0600	checkout: moving from master to team-setting-active-teams
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce f5a8061c3d33329b9945fa7f3720746afe06c544 Sudip <sudip.mediusware@gmail.com> 1591158132 +0600	commit: Team setting in Team list added active team button
+f5a8061c3d33329b9945fa7f3720746afe06c544 d8be62de55f97eba15bcc0d4c03e3dd1c9dd1177 Sudip <sudip.mediusware@gmail.com> 1591159548 +0600	commit: Active team funtional and Active complete
+d8be62de55f97eba15bcc0d4c03e3dd1c9dd1177 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591160603 +0600	checkout: moving from team-setting-active-teams to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591163998 +0600	checkout: moving from master to overview-all-logs-show-tags
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591164084 +0600	checkout: moving from overview-all-logs-show-tags to overview-resolve-show-html-tags
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce ca4126c89c64a7383877d1cf460b295d6d1c010f Sudip <sudip.mediusware@gmail.com> 1591164409 +0600	commit: Overview all logs resolve unexpected html tags
+ca4126c89c64a7383877d1cf460b295d6d1c010f 43137e22c861fa48f10e3186c00e70e475a88264 Sudip <sudip.mediusware@gmail.com> 1591169557 +0600	commit: Remove unnecessary code and comments
+43137e22c861fa48f10e3186c00e70e475a88264 3f6f88798811f1515ae0782d2e44ee2a2d39a46e Sudip <sudip.mediusware@gmail.com> 1591170192 +0600	commit: Overview comments resolve unexpected html tags
+3f6f88798811f1515ae0782d2e44ee2a2d39a46e 3f6f88798811f1515ae0782d2e44ee2a2d39a46e Sudip <sudip.mediusware@gmail.com> 1591172281 +0600	reset: moving to HEAD
+3f6f88798811f1515ae0782d2e44ee2a2d39a46e da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591172293 +0600	checkout: moving from overview-resolve-show-html-tags to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591172326 +0600	checkout: moving from master to right-click-remove-board-swal-not-show
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff Sudip <sudip.mediusware@gmail.com> 1591172973 +0600	commit: When right click option to remove board can't show swal alert issue fixed
+32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591173223 +0600	checkout: moving from right-click-remove-board-swal-not-show to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1591183215 +0600	checkout: moving from master to task-list-and-board-design-issue
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 9bd85cba58d000b42d7e162fdb9f96206d7a9610 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1591183665 +0600	commit: Task list and board Tag and assign user design issue fixed.
+9bd85cba58d000b42d7e162fdb9f96206d7a9610 0d1b6d1b416dce04a07091bebbf66587db8cec89 Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1591183900 +0600	commit: Remove unnecessary css code from board and list.
+0d1b6d1b416dce04a07091bebbf66587db8cec89 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Md. Shahinur Rahman <coredeveloper.2013@gmail.com> 1591186217 +0600	checkout: moving from task-list-and-board-design-issue to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591247154 +0600	checkout: moving from master to currnt-team-design-issue
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce e5607cccf5ea20b0d504ff1cc54a872f6f790969 Sudip <sudip.mediusware@gmail.com> 1591248382 +0600	commit: Current team delete modal button design issue fixed.
+e5607cccf5ea20b0d504ff1cc54a872f6f790969 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591249115 +0600	checkout: moving from currnt-team-design-issue to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591251714 +0600	checkout: moving from master to task-details-error-issue
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 609728c11ace3459151cb28e2e15fa9cd8cdf86c Sudip <sudip.mediusware@gmail.com> 1591252315 +0600	commit: Single task details page logs resolve unexpected html tags.
+609728c11ace3459151cb28e2e15fa9cd8cdf86c 20df98a63041710411ead6b17b482b1d700009bb Sudip <sudip.mediusware@gmail.com> 1591253374 +0600	commit: Task details pullout page logs resolve unexpected html tags.
+20df98a63041710411ead6b17b482b1d700009bb 20df98a63041710411ead6b17b482b1d700009bb Sudip <sudip.mediusware@gmail.com> 1591270278 +0600	reset: moving to HEAD
+20df98a63041710411ead6b17b482b1d700009bb da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591270282 +0600	checkout: moving from task-details-error-issue to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591270330 +0600	checkout: moving from master to board-update-column-issue
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce f65c929aabb18e3e963429a2178281237cf128ed Sudip <sudip.mediusware@gmail.com> 1591270497 +0600	commit: Board column update show error message issue fixed.
+f65c929aabb18e3e963429a2178281237cf128ed da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591329301 +0600	checkout: moving from board-update-column-issue to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591330700 +0600	reset: moving to HEAD
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591333757 +0600	checkout: moving from master to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 3f6f88798811f1515ae0782d2e44ee2a2d39a46e Sudip <sudip.mediusware@gmail.com> 1591335787 +0600	checkout: moving from master to overview-resolve-show-html-tags
+3f6f88798811f1515ae0782d2e44ee2a2d39a46e e147026c2d90679b73cbc5ca1151246faaea54d2 Sudip <sudip.mediusware@gmail.com> 1591336893 +0600	commit: Select Per Page Item conditional issue fixed on overview
+e147026c2d90679b73cbc5ca1151246faaea54d2 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591344160 +0600	checkout: moving from overview-resolve-show-html-tags to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce 32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff Sudip <sudip.mediusware@gmail.com> 1591344166 +0600	checkout: moving from master to right-click-remove-board-swal-not-show
+32c90fa5a6b80ddbfb5413e4ea34af25c1c52dff 1e983c57d20df82517301d08020d8f48f9a2ff72 Sudip <sudip.mediusware@gmail.com> 1591344663 +0600	commit: Conditional error issue fixed on board card.
+1e983c57d20df82517301d08020d8f48f9a2ff72 ecd80af0162f0ecbf6bb6aadfc131d7496f407f7 Sudip <sudip.mediusware@gmail.com> 1591349391 +0600	commit: Remove unnecessary code.
+ecd80af0162f0ecbf6bb6aadfc131d7496f407f7 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591356728 +0600	checkout: moving from right-click-remove-board-swal-not-show to master
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591586266 +0600	pull origin master: Fast-forward
+ab2e673c88b140717f6c4e9387faa08a0fe4784e ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591590724 +0600	checkout: moving from master to all-comments-design-issue-fixing
+ab2e673c88b140717f6c4e9387faa08a0fe4784e 9044ac194d83df712234673d5af8342f71ea8b6c Sudip <sudip.mediusware@gmail.com> 1591590917 +0600	commit: Overview comments design issue fixed
+9044ac194d83df712234673d5af8342f71ea8b6c f6cd49a3774dfc25295573abe8b530864b670bbe Sudip <sudip.mediusware@gmail.com> 1591593164 +0600	commit: Single task details comments design issue fixed
+f6cd49a3774dfc25295573abe8b530864b670bbe 880b2150932b6b579b3eb25006dbebedc029dd4d Sudip <sudip.mediusware@gmail.com> 1591593554 +0600	commit: Task details pullout comments design issue fixed
+880b2150932b6b579b3eb25006dbebedc029dd4d e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 Sudip <sudip.mediusware@gmail.com> 1591594347 +0600	commit: User profile comments design issue fixed.
+e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591600862 +0600	checkout: moving from all-comments-design-issue-fixing to master
+ab2e673c88b140717f6c4e9387faa08a0fe4784e ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591608581 +0600	checkout: moving from master to profile-comment-details-button-show
+ab2e673c88b140717f6c4e9387faa08a0fe4784e b654ee792d27f89f1b9e64cc34fa4ee414129a2a Sudip <sudip.mediusware@gmail.com> 1591613114 +0600	commit: Profile comment section show the details buttaon and click goto details comment page.
+b654ee792d27f89f1b9e64cc34fa4ee414129a2a ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591676737 +0600	checkout: moving from profile-comment-details-button-show to master
+ab2e673c88b140717f6c4e9387faa08a0fe4784e a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591676759 +0600	pull origin master: Fast-forward
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591677839 +0600	checkout: moving from master to all-error-alert-issue
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 6ffe7a75d8ee770fe90746435a05d8e498b040d6 Sudip <sudip.mediusware@gmail.com> 1591678156 +0600	commit: Add Nav Item error alert text issue fixed.
+6ffe7a75d8ee770fe90746435a05d8e498b040d6 d5875f0d9726682053ad5b4df4ad898c5cf03bc8 Sudip <sudip.mediusware@gmail.com> 1591679757 +0600	commit: Navbar item update alert text issue fixed.
+d5875f0d9726682053ad5b4df4ad898c5cf03bc8 d6fa74fc157c5eb7494ff2fecc0bab488abed2d6 Sudip <sudip.mediusware@gmail.com> 1591681311 +0600	commit: Add New Board from navbar alert text issue fixed.
+d6fa74fc157c5eb7494ff2fecc0bab488abed2d6 4930fac660f496d63947fea8a0545f104359ec84 Sudip <sudip.mediusware@gmail.com> 1591683889 +0600	commit: Add New Task List from navbar alert text issue fixed.
+4930fac660f496d63947fea8a0545f104359ec84 794cedab18b279829898bba6cbf78342251b8f84 Sudip <sudip.mediusware@gmail.com> 1591684218 +0600	commit: Board navbar update alert text issue fixed
+794cedab18b279829898bba6cbf78342251b8f84 da94c0974ccf28007abf4257aef9af354be0103b Sudip <sudip.mediusware@gmail.com> 1591685876 +0600	commit: Task list navbar update validation text issue fixed.
+da94c0974ccf28007abf4257aef9af354be0103b 24db84df854188442242e5e7261b48f9f02f96d9 Sudip <sudip.mediusware@gmail.com> 1591704998 +0600	commit: navbar modal issue fixed.
+24db84df854188442242e5e7261b48f9f02f96d9 24db84df854188442242e5e7261b48f9f02f96d9 Sudip <sudip.mediusware@gmail.com> 1591709314 +0600	reset: moving to HEAD
+24db84df854188442242e5e7261b48f9f02f96d9 a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591709446 +0600	checkout: moving from all-error-alert-issue to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591709471 +0600	checkout: moving from master to column-load-issue
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 66930a716e0dfac72664aa5ad028d7b4b9145f72 Sudip <sudip.mediusware@gmail.com> 1591709694 +0600	commit: show after 5 column issue fixed.
+66930a716e0dfac72664aa5ad028d7b4b9145f72 a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591760395 +0600	checkout: moving from column-load-issue to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591762213 +0600	checkout: moving from master to task-details-resolve-html-tags
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 6201434d12748c6fa5be17eb4c9b82fe16be7e3f Sudip <sudip.mediusware@gmail.com> 1591762455 +0600	commit: Task details pullout logs resolve unexpected html tags.
+6201434d12748c6fa5be17eb4c9b82fe16be7e3f cfc3e7dd5f54b67ab4526b13893fcce3c6c7f98a Sudip <sudip.mediusware@gmail.com> 1591764547 +0600	commit: Single Task details logs resolve unexpected html tags.
+cfc3e7dd5f54b67ab4526b13893fcce3c6c7f98a a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591765423 +0600	checkout: moving from task-details-resolve-html-tags to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591766717 +0600	checkout: moving from master to single-task-details-unnecessary-design-issue
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db e452610d2bac56be6e0a46dd0c33b627e7d130a9 Sudip <sudip.mediusware@gmail.com> 1591767168 +0600	commit: Single task details unncessary file design issue fixed.
+e452610d2bac56be6e0a46dd0c33b627e7d130a9 e452610d2bac56be6e0a46dd0c33b627e7d130a9 Sudip <sudip.mediusware@gmail.com> 1591770996 +0600	reset: moving to HEAD
+e452610d2bac56be6e0a46dd0c33b627e7d130a9 a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591771005 +0600	checkout: moving from single-task-details-unnecessary-design-issue to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db e5607cccf5ea20b0d504ff1cc54a872f6f790969 Sudip <sudip.mediusware@gmail.com> 1591771067 +0600	checkout: moving from master to currnt-team-design-issue
+e5607cccf5ea20b0d504ff1cc54a872f6f790969 a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591771086 +0600	pull origin master: Fast-forward
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591771751 +0600	reset: moving to HEAD
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591771776 +0600	checkout: moving from currnt-team-design-issue to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591771807 +0600	checkout: moving from master to current-team-link-issue
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 98a07c0c85973aa839e69decebd9adfcbfe8137d Sudip <sudip.mediusware@gmail.com> 1591772290 +0600	commit: Current Team title with setting link added.
+98a07c0c85973aa839e69decebd9adfcbfe8137d 989404a50abb7e71504a3c5521f43e15003b42ef Sudip <sudip.mediusware@gmail.com> 1591773460 +0600	commit: Current teams leave button link and design issue fixed.
+989404a50abb7e71504a3c5521f43e15003b42ef a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db Sudip <sudip.mediusware@gmail.com> 1591778217 +0600	checkout: moving from current-team-link-issue to master
+a5cd52b47eaaa85f3af7d8cc82673ebc9c3aa7db 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591845054 +0600	pull origin master: Fast-forward
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 e147026c2d90679b73cbc5ca1151246faaea54d2 Sudip <sudip.mediusware@gmail.com> 1591846062 +0600	checkout: moving from master to overview-resolve-show-html-tags
+e147026c2d90679b73cbc5ca1151246faaea54d2 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591846073 +0600	pull origin master: Fast-forward
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 f67a595c71a6f1210bad11014ead5d23a15e7b71 Sudip <sudip.mediusware@gmail.com> 1591846559 +0600	commit: Overview all logs resolve unexpected html tags.
+f67a595c71a6f1210bad11014ead5d23a15e7b71 f22bd4763adfd81b88de6b143a0f2295ac8d7b28 Sudip <sudip.mediusware@gmail.com> 1591850332 +0600	commit: Overview log undo issue solved. and Remove unnecessary code.
+f22bd4763adfd81b88de6b143a0f2295ac8d7b28 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591850738 +0600	checkout: moving from overview-resolve-show-html-tags to master
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591857081 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 203a041bab0b636e1ce988990ed831c36c6e6265 Sudip <sudip.mediusware@gmail.com> 1591857115 +0600	checkout: moving from master to import-csv-issue
+203a041bab0b636e1ce988990ed831c36c6e6265 d6324c4f320c43624c83391ebb34d986fb755345 Sudip <sudip.mediusware@gmail.com> 1591857254 +0600	commit (merge): Merge branch 'master' of https://github.com/compltit/spark-task into import-csv-issue
+d6324c4f320c43624c83391ebb34d986fb755345 0029e74fc355ee619558988bc131c33dcefbe9bd Sudip <sudip.mediusware@gmail.com> 1591858239 +0600	commit: Import csv data mapping issue fixed and data loading issue fixed.
+0029e74fc355ee619558988bc131c33dcefbe9bd 0029e74fc355ee619558988bc131c33dcefbe9bd Sudip <sudip.mediusware@gmail.com> 1591865696 +0600	reset: moving to HEAD
+0029e74fc355ee619558988bc131c33dcefbe9bd 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591865734 +0600	checkout: moving from import-csv-issue to master
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591871156 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591875320 +0600	checkout: moving from master to search-tag-error-issue
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 d4b61989ec1a869653f15f312492faec9c06510e Sudip <sudip.mediusware@gmail.com> 1591875406 +0600	commit: Search tag error issue fixed and empty input show all tags.
+d4b61989ec1a869653f15f312492faec9c06510e 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592190844 +0600	checkout: moving from search-tag-error-issue to master
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592192858 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592196995 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592198044 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592198088 +0600	checkout: moving from master to assign-user-search-not-working
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592199109 +0600	reset: moving to HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 5c4ab750e9f637ee54f06ced840807df361e7593 Sudip <sudip.mediusware@gmail.com> 1592199193 +0600	commit: Search function issue fixed.
+5c4ab750e9f637ee54f06ced840807df361e7593 bd97436c213147dbaf98924ed391216d52e8fc3e Sudip <sudip.mediusware@gmail.com> 1592199913 +0600	commit: Assign user search fixed on Task details pullout page.
+bd97436c213147dbaf98924ed391216d52e8fc3e 78ad3a738bae6a62255c47f5a52ea19613705b23 Sudip <sudip.mediusware@gmail.com> 1592199944 +0600	pull origin master: Merge made by the 'recursive' strategy.
+78ad3a738bae6a62255c47f5a52ea19613705b23 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592199990 +0600	checkout: moving from assign-user-search-not-working to master
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592199999 +0600	pull origin master: Fast-forward
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 78ad3a738bae6a62255c47f5a52ea19613705b23 Sudip <sudip.mediusware@gmail.com> 1592200016 +0600	checkout: moving from master to assign-user-search-not-working
+78ad3a738bae6a62255c47f5a52ea19613705b23 0d7bd997c637322db70ca4ceb653c8f77a5e7c01 Sudip <sudip.mediusware@gmail.com> 1592203723 +0600	commit: Assign user search fixed on Single Task details page.
+0d7bd997c637322db70ca4ceb653c8f77a5e7c01 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592209447 +0600	checkout: moving from assign-user-search-not-working to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592210120 +0600	checkout: moving from master to overview-comments-link-issue
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 8115e57a7fdf310180a587f75089097a525dbcc7 Sudip <sudip.mediusware@gmail.com> 1592210486 +0600	commit: Overview comments link to task details issue fixed.
+8115e57a7fdf310180a587f75089097a525dbcc7 8115e57a7fdf310180a587f75089097a525dbcc7 Sudip <sudip.mediusware@gmail.com> 1592211519 +0600	reset: moving to HEAD
+8115e57a7fdf310180a587f75089097a525dbcc7 046e466268b879fc8bcdd04ddc4247b5f4bd159b Sudip <sudip.mediusware@gmail.com> 1592213116 +0600	commit: Remove unnecessary html code and comments.
+046e466268b879fc8bcdd04ddc4247b5f4bd159b 046e466268b879fc8bcdd04ddc4247b5f4bd159b Sudip <sudip.mediusware@gmail.com> 1592281032 +0600	reset: moving to HEAD
+046e466268b879fc8bcdd04ddc4247b5f4bd159b 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592281038 +0600	checkout: moving from overview-comments-link-issue to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592281120 +0600	checkout: moving from master to overview-project-member-error-issue
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 4dc25dab584f7b273847b86865f4e5b5f67f37de Sudip <sudip.mediusware@gmail.com> 1592281396 +0600	commit: When remove a team member and assing users not removing this issue fixed
+4dc25dab584f7b273847b86865f4e5b5f67f37de 98444a37577808ee252fb60cbc3b6ab6547a5c3b Sudip <sudip.mediusware@gmail.com> 1592282716 +0600	commit: Overview team member add and remove swal alert issue fixed
+98444a37577808ee252fb60cbc3b6ab6547a5c3b 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592285190 +0600	checkout: moving from overview-project-member-error-issue to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d efec655d3bfaa2dd74c6954dbb188f9242e26ca0 Sudip <sudip.mediusware@gmail.com> 1592288756 +0600	checkout: moving from master to team-setting-error-issue
+efec655d3bfaa2dd74c6954dbb188f9242e26ca0 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592288770 +0600	pull origin master: Fast-forward
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d cf90d615a566ac35b437026cffc7b18eb3fd91b6 Sudip <sudip.mediusware@gmail.com> 1592289301 +0600	commit: App layout script optmize and remove unnecessary code.
+cf90d615a566ac35b437026cffc7b18eb3fd91b6 9c14038d807abed2ccc992af8601a414b8205f3c Sudip <sudip.mediusware@gmail.com> 1592289979 +0600	commit: remove unnecessary code.
+9c14038d807abed2ccc992af8601a414b8205f3c e8259facdea606bd10b68417462f7eb5f0f7d8fb Sudip <sudip.mediusware@gmail.com> 1592290812 +0600	commit: Setting alert issue fixed.
+e8259facdea606bd10b68417462f7eb5f0f7d8fb 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592293161 +0600	checkout: moving from team-setting-error-issue to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592300845 +0600	checkout: moving from master to select-task-pullout-issue
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d fe17a7065cd966760d8fc83741218a05294bac28 Sudip <sudip.mediusware@gmail.com> 1592300992 +0600	commit: Not select a card and press right key, it's show empty pullout task details this issue fixed.
+fe17a7065cd966760d8fc83741218a05294bac28 fbe0864902670880c4fe7b423a206e73ad56c0e4 Sudip <sudip.mediusware@gmail.com> 1592302542 +0600	commit: Select a task list and press right key, it's show empty pullout task details this issue fixed on Task List
+fbe0864902670880c4fe7b423a206e73ad56c0e4 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592306431 +0600	checkout: moving from select-task-pullout-issue to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592368528 +0600	checkout: moving from master to all-tags-issues
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 78f627e907829ccc6b0b829f1bcccfad8e395100 Sudip <sudip.mediusware@gmail.com> 1592368886 +0600	commit: Tags section design issue fixed on Task list, Board card, Task details pullout and Single task details page.
+78f627e907829ccc6b0b829f1bcccfad8e395100 78f627e907829ccc6b0b829f1bcccfad8e395100 Sudip <sudip.mediusware@gmail.com> 1592371712 +0600	reset: moving to HEAD
+78f627e907829ccc6b0b829f1bcccfad8e395100 7ef941787511f98c06c81033774bad83187febc6 Sudip <sudip.mediusware@gmail.com> 1592374158 +0600	commit: Task list tag input error issue fixed.
+7ef941787511f98c06c81033774bad83187febc6 8940a6f533b984dfa4e3bcb4a50d68907c4d8cbe Sudip <sudip.mediusware@gmail.com> 1592374696 +0600	commit: Board Card tag input error issue fixed.
+8940a6f533b984dfa4e3bcb4a50d68907c4d8cbe 4e9bce5b4aa219e666eee59ede192986fd88755d Sudip <sudip.mediusware@gmail.com> 1592375357 +0600	commit: Task details pullout tag input error issue fixed.
+4e9bce5b4aa219e666eee59ede192986fd88755d dfe1098a107883c67334c507f1e57999f902c9e8 Sudip <sudip.mediusware@gmail.com> 1592375666 +0600	commit: Single Task details tag input error issue fixed.
+dfe1098a107883c67334c507f1e57999f902c9e8 d42c7dc5ece07d661c097ce11002eb4d39779b12 Sudip <sudip.mediusware@gmail.com> 1592378780 +0600	commit: Fixed all design issue
+d42c7dc5ece07d661c097ce11002eb4d39779b12 86898ad54a3ce939eda005b5de255fe921598301 Sudip <sudip.mediusware@gmail.com> 1592380539 +0600	pull origin master: Merge made by the 'recursive' strategy.
+86898ad54a3ce939eda005b5de255fe921598301 ffb6f69f940e7f4dfc3f2e64425f045e187e4213 Sudip <sudip.mediusware@gmail.com> 1592380622 +0600	commit: Pull master and fixed the tags issues.
+ffb6f69f940e7f4dfc3f2e64425f045e187e4213 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592381257 +0600	checkout: moving from all-tags-issues to master
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592382779 +0600	pull origin master: Fast-forward
+313a4a32929d06229b3f74d5bfb84268a660adbe 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592383940 +0600	checkout: moving from master to project-user-api-issue
+313a4a32929d06229b3f74d5bfb84268a660adbe 55a4a4ed20b01095072878a6e7fda66a06fa8663 Sudip <sudip.mediusware@gmail.com> 1592383961 +0600	commit: Project user api issue fixed on Board card.
+55a4a4ed20b01095072878a6e7fda66a06fa8663 926f3299b232dea6dbbfe9fcd0f7f981d3f54f7d Sudip <sudip.mediusware@gmail.com> 1592385345 +0600	commit: Project user fixed error and API issue on single task details page.
+926f3299b232dea6dbbfe9fcd0f7f981d3f54f7d 8dc044a45e4e80c245f9aadbb3114672a23c66e5 Sudip <sudip.mediusware@gmail.com> 1592388973 +0600	commit: Project user show and API issue fixed on task details pullout page.
+8dc044a45e4e80c245f9aadbb3114672a23c66e5 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592393570 +0600	checkout: moving from project-user-api-issue to master
+313a4a32929d06229b3f74d5bfb84268a660adbe fbe0864902670880c4fe7b423a206e73ad56c0e4 Sudip <sudip.mediusware@gmail.com> 1592452398 +0600	checkout: moving from master to select-task-pullout-issue
+fbe0864902670880c4fe7b423a206e73ad56c0e4 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592452426 +0600	pull origin master: Fast-forward
+313a4a32929d06229b3f74d5bfb84268a660adbe f21aee4970e14351cf1d6550b446e7e93d45517a Sudip <sudip.mediusware@gmail.com> 1592452725 +0600	commit: Right press task details pullout show issue fixed on Board card.
+f21aee4970e14351cf1d6550b446e7e93d45517a b99afc457d0727e484d665096eea2274ca511a28 Sudip <sudip.mediusware@gmail.com> 1592453477 +0600	commit: Right press task details pullout show issue fixed on Task list.
+b99afc457d0727e484d665096eea2274ca511a28 a0f7f540c544a4ce285a5b9ebf1ce1a6261652fd Sudip <sudip.mediusware@gmail.com> 1592454420 +0600	commit: Remove unnecessary code and all conditional issue fixed on task list page.
+a0f7f540c544a4ce285a5b9ebf1ce1a6261652fd a050af3ed0d55cb1f07f4da45ab411d2bf379a72 Sudip <sudip.mediusware@gmail.com> 1592455797 +0600	commit: Remove unnecessary code and all conditional issue fixed on Baord card.
+a050af3ed0d55cb1f07f4da45ab411d2bf379a72 a050af3ed0d55cb1f07f4da45ab411d2bf379a72 Sudip <sudip.mediusware@gmail.com> 1592462020 +0600	reset: moving to HEAD
+a050af3ed0d55cb1f07f4da45ab411d2bf379a72 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592462025 +0600	checkout: moving from select-task-pullout-issue to master
+313a4a32929d06229b3f74d5bfb84268a660adbe 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592462174 +0600	checkout: moving from master to board-task-api-not-working
+313a4a32929d06229b3f74d5bfb84268a660adbe 41e49f5169877cf1b738190d759394156269e16a Sudip <sudip.mediusware@gmail.com> 1592462398 +0600	commit: Board card data show and api error issue fixed.
+41e49f5169877cf1b738190d759394156269e16a a278f65b90c7876316b01c9ab9b08273d0f39540 Sudip <sudip.mediusware@gmail.com> 1592464868 +0600	commit: Remove unnecessary code and all conditional issue fixed on Multiple Board Controller
+a278f65b90c7876316b01c9ab9b08273d0f39540 9d9ad42aeb6b2d54eefe4f4d497b11cdb7449741 Sudip <sudip.mediusware@gmail.com> 1592465429 +0600	commit: Fixed some problems
+9d9ad42aeb6b2d54eefe4f4d497b11cdb7449741 dba652d543f33e4fc17e173b168074f5594c21dc Sudip <sudip.mediusware@gmail.com> 1592476729 +0600	commit: Card details design issue fixed.
+dba652d543f33e4fc17e173b168074f5594c21dc dba652d543f33e4fc17e173b168074f5594c21dc Sudip <sudip.mediusware@gmail.com> 1592541768 +0600	reset: moving to HEAD
+dba652d543f33e4fc17e173b168074f5594c21dc 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592541784 +0600	checkout: moving from board-task-api-not-working to master
+313a4a32929d06229b3f74d5bfb84268a660adbe 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592541802 +0600	checkout: moving from master to user-profile-comment-issue
+313a4a32929d06229b3f74d5bfb84268a660adbe a664f99cb5bb5c6b3d44fff632deca9ca8fa14ff Sudip <sudip.mediusware@gmail.com> 1592541902 +0600	commit: User profile comment link to single task details page.
+a664f99cb5bb5c6b3d44fff632deca9ca8fa14ff c25614ba5f233dec0ab761ba3873c09cf35c93dd Sudip <sudip.mediusware@gmail.com> 1592542569 +0600	commit: User profile Name
+c25614ba5f233dec0ab761ba3873c09cf35c93dd 86ae9eea6437506599e68d5f22c05cfa605cd0e1 Sudip <sudip.mediusware@gmail.com> 1592542716 +0600	commit: User profile personal information all section alignment design issue fixed.
+86ae9eea6437506599e68d5f22c05cfa605cd0e1 e89b49abe0d24d98df49abf6b9e77faa516143b3 Sudip <sudip.mediusware@gmail.com> 1592545295 +0600	commit: Remove unnecessary code and fixed alignment on profile comment, edit, index and task task panel
+e89b49abe0d24d98df49abf6b9e77faa516143b3 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592559266 +0600	checkout: moving from user-profile-comment-issue to master
+313a4a32929d06229b3f74d5bfb84268a660adbe 98444a37577808ee252fb60cbc3b6ab6547a5c3b Sudip <sudip.mediusware@gmail.com> 1592559371 +0600	checkout: moving from master to overview-project-member-error-issue
+98444a37577808ee252fb60cbc3b6ab6547a5c3b 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592559429 +0600	pull origin master: Fast-forward
+313a4a32929d06229b3f74d5bfb84268a660adbe a03d8c557e4b8ceb56c81aa8bce35ec5db3ca0fa Sudip <sudip.mediusware@gmail.com> 1592559993 +0600	commit: Overview project member delete and assign users design and error issue fixed.
+a03d8c557e4b8ceb56c81aa8bce35ec5db3ca0fa ab1507dc3b4993e9483ee60b5d25fd2c772fec98 Sudip <sudip.mediusware@gmail.com> 1592560430 +0600	commit: Overview add Add Member Project modal issue fixed.
+ab1507dc3b4993e9483ee60b5d25fd2c772fec98 8ac6477096ee23fe29cb5c5f90384191c484c4c6 Sudip <sudip.mediusware@gmail.com> 1592560708 +0600	commit: Overview board update modal issue fixed.
+8ac6477096ee23fe29cb5c5f90384191c484c4c6 4e97a398f6cfae8998c167da6a3d39bfc0beeec1 Sudip <sudip.mediusware@gmail.com> 1592560834 +0600	commit: Overview remove list from modal issue fixed.
+4e97a398f6cfae8998c167da6a3d39bfc0beeec1 6952e714c38fa4c4e3df16ff225b671c9927b60f Sudip <sudip.mediusware@gmail.com> 1592560885 +0600	commit: Fixed all issues
+6952e714c38fa4c4e3df16ff225b671c9927b60f 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592794640 +0600	checkout: moving from overview-project-member-error-issue to master
+313a4a32929d06229b3f74d5bfb84268a660adbe 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592794657 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 Sudip <sudip.mediusware@gmail.com> 1592797334 +0600	checkout: moving from master to all-comments-design-issue-fixing
+e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592797358 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 8fa62afdff01604485c1df234b45419681d73fa4 Sudip <sudip.mediusware@gmail.com> 1592798129 +0600	commit: All comments css issue fixed.
+8fa62afdff01604485c1df234b45419681d73fa4 281acbdb74211b58987f94228421d9bb8ddfc67f Sudip <sudip.mediusware@gmail.com> 1592799337 +0600	commit: Profile comments alignment and design issue fixed.
+281acbdb74211b58987f94228421d9bb8ddfc67f 9c7f3a23028d5c9c25db05a58a03146eaa9825c9 Sudip <sudip.mediusware@gmail.com> 1592801081 +0600	commit: Task details pullout comments alignment and design issue fixed.
+9c7f3a23028d5c9c25db05a58a03146eaa9825c9 0aaa0c079fbbf48ca79410948c55cb10651f5b3a Sudip <sudip.mediusware@gmail.com> 1592804100 +0600	commit: Single Task details comments alignment and design issue fixed.
+0aaa0c079fbbf48ca79410948c55cb10651f5b3a ba7ead600fa770f6480aa3b78729d9bd6644be18 Sudip <sudip.mediusware@gmail.com> 1592811415 +0600	commit: Overview comments alignment and design issue fixed.
+ba7ead600fa770f6480aa3b78729d9bd6644be18 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592816887 +0600	checkout: moving from all-comments-design-issue-fixing to master
+43b494ea5cc9a433154a943c02611105384e953a ba7ead600fa770f6480aa3b78729d9bd6644be18 Sudip <sudip.mediusware@gmail.com> 1592816908 +0600	checkout: moving from master to all-comments-design-issue-fixing
+ba7ead600fa770f6480aa3b78729d9bd6644be18 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592816927 +0600	checkout: moving from all-comments-design-issue-fixing to master
+43b494ea5cc9a433154a943c02611105384e953a 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592818258 +0600	reset: moving to HEAD
+43b494ea5cc9a433154a943c02611105384e953a 6952e714c38fa4c4e3df16ff225b671c9927b60f Sudip <sudip.mediusware@gmail.com> 1592818287 +0600	checkout: moving from master to overview-project-member-error-issue
+6952e714c38fa4c4e3df16ff225b671c9927b60f 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592818301 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 24babc43f8e370bd5dd6bc5b0b6861aa1b846042 Sudip <sudip.mediusware@gmail.com> 1592818522 +0600	commit: Remove a project member and assign another member task error issue fixed.
+24babc43f8e370bd5dd6bc5b0b6861aa1b846042 ed3e4a97303946bcf2d11614ff89ac105bd09a0c Sudip <sudip.mediusware@gmail.com> 1592823998 +0600	commit: Remove unnecessary project member function and and loadin fister.
+ed3e4a97303946bcf2d11614ff89ac105bd09a0c 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592826049 +0600	checkout: moving from overview-project-member-error-issue to master
+43b494ea5cc9a433154a943c02611105384e953a 3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de Sudip <sudip.mediusware@gmail.com> 1592905557 +0600	checkout: moving from master to import-csv-data-save-issue
+3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592905572 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 3ebc012b287f5ceeb2d105189781b4746aafcb9a Sudip <sudip.mediusware@gmail.com> 1592906552 +0600	commit: Import csv array data filtering fixed and data fast loading.
+3ebc012b287f5ceeb2d105189781b4746aafcb9a db35e603d155145de746fedbb8475b1cd2f28057 Sudip <sudip.mediusware@gmail.com> 1592906853 +0600	commit: Remove extra function and fixed alignment
+db35e603d155145de746fedbb8475b1cd2f28057 1928fa2aac0a6c05a0950642e2b04ba2315fa865 Sudip <sudip.mediusware@gmail.com> 1592910411 +0600	commit: Import csv data maping issue fixed.
+1928fa2aac0a6c05a0950642e2b04ba2315fa865 d4cb535dd9670986f1163eba52f6f17746c8c0c7 Sudip <sudip.mediusware@gmail.com> 1592910535 +0600	commit: Maping alignment issue fixed.
+d4cb535dd9670986f1163eba52f6f17746c8c0c7 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592910892 +0600	checkout: moving from import-csv-data-save-issue to master
+43b494ea5cc9a433154a943c02611105384e953a 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592911002 +0600	reset: moving to HEAD
+43b494ea5cc9a433154a943c02611105384e953a 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592911087 +0600	checkout: moving from master to all-logs-empty-issue
+43b494ea5cc9a433154a943c02611105384e953a 962ff52ea223e242c7d317de5890e546ab1277bc Sudip <sudip.mediusware@gmail.com> 1592911948 +0600	commit: Overview logs table issue and alignment fixed.
+962ff52ea223e242c7d317de5890e546ab1277bc afede7b63efecf56b7bf7ce47a38003e8e430af9 Sudip <sudip.mediusware@gmail.com> 1592914810 +0600	commit: Task details pullout logs empty issue fixed.
+afede7b63efecf56b7bf7ce47a38003e8e430af9 ef34c44c7cebd55432917d07b5c350b4619e8ff4 Sudip <sudip.mediusware@gmail.com> 1592915071 +0600	commit: Single Task pullout logs empty issue fixed.
+ef34c44c7cebd55432917d07b5c350b4619e8ff4 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592966448 +0600	checkout: moving from all-logs-empty-issue to master
+43b494ea5cc9a433154a943c02611105384e953a 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592966462 +0600	pull origin master: Fast-forward
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592970131 +0600	checkout: moving from master to profile-info-error-issue
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 f3195cdd6f616c6e7419fc8822221f3b48aabd92 Sudip <sudip.mediusware@gmail.com> 1592972930 +0600	commit: User profile Billing Information and collapse issue fixed.
+f3195cdd6f616c6e7419fc8822221f3b48aabd92 edb4667c763fc79987d7adc69130e00d51f3cd7b Sudip <sudip.mediusware@gmail.com> 1592975635 +0600	commit: User profile Billing Information page design and alignment issue fixed. And remove Remove unnecessary code and function
+edb4667c763fc79987d7adc69130e00d51f3cd7b 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592977670 +0600	checkout: moving from profile-info-error-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 ed3e4a97303946bcf2d11614ff89ac105bd09a0c Sudip <sudip.mediusware@gmail.com> 1592978559 +0600	checkout: moving from master to overview-project-member-error-issue
+ed3e4a97303946bcf2d11614ff89ac105bd09a0c 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592978576 +0600	pull origin master: Fast-forward
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592980906 +0600	reset: moving to HEAD
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592981322 +0600	checkout: moving from overview-project-member-error-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592981412 +0600	checkout: moving from master to assign-user-design-issue
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 11fbfd82fd77d35b16b490a35f36a595beab0d97 Sudip <sudip.mediusware@gmail.com> 1592981769 +0600	commit: Assing users input css design added.
+11fbfd82fd77d35b16b490a35f36a595beab0d97 389c3e9b921797e74c23c0e9de3a8479b0cd75e5 Sudip <sudip.mediusware@gmail.com> 1592982611 +0600	commit: Board assign users input design issue fixed.
+389c3e9b921797e74c23c0e9de3a8479b0cd75e5 d513026d2af9680563d71872959eba4904e3f27d Sudip <sudip.mediusware@gmail.com> 1592983070 +0600	commit: Board right click assign users input design issue fixed.
+d513026d2af9680563d71872959eba4904e3f27d 1af4340705185d2ae665bc0ba4613236d412fe59 Sudip <sudip.mediusware@gmail.com> 1592983897 +0600	commit: Task list assign users input design issue fixed.
+1af4340705185d2ae665bc0ba4613236d412fe59 3d3c8703bcf0d7dfec336081972bfb6f11f2991c Sudip <sudip.mediusware@gmail.com> 1592984056 +0600	commit: Task list right click assign users input design issue fixed.
+3d3c8703bcf0d7dfec336081972bfb6f11f2991c 729300e7b4bfdddcc3840f93bcf7ad5880906319 Sudip <sudip.mediusware@gmail.com> 1592994272 +0600	commit: Board and Task list fixed alignment.
+729300e7b4bfdddcc3840f93bcf7ad5880906319 ef34c44c7cebd55432917d07b5c350b4619e8ff4 Sudip <sudip.mediusware@gmail.com> 1592994897 +0600	checkout: moving from assign-user-design-issue to all-logs-empty-issue
+ef34c44c7cebd55432917d07b5c350b4619e8ff4 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592994909 +0600	checkout: moving from all-logs-empty-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 ef34c44c7cebd55432917d07b5c350b4619e8ff4 Sudip <sudip.mediusware@gmail.com> 1592995016 +0600	checkout: moving from master to all-logs-empty-issue
+ef34c44c7cebd55432917d07b5c350b4619e8ff4 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592995028 +0600	checkout: moving from all-logs-empty-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 edb4667c763fc79987d7adc69130e00d51f3cd7b Sudip <sudip.mediusware@gmail.com> 1592995064 +0600	checkout: moving from master to profile-info-error-issue
+edb4667c763fc79987d7adc69130e00d51f3cd7b b3aae46fe6d20e7baf9ba788636877010f7d4d69 Sudip <sudip.mediusware@gmail.com> 1592995292 +0600	commit: Remove Remove unnecessary code and function
+b3aae46fe6d20e7baf9ba788636877010f7d4d69 e166187ff946cc502b59865ff0e422a31dc8d783 Sudip <sudip.mediusware@gmail.com> 1592995577 +0600	commit: Remove unnecessary comments from home controller
+e166187ff946cc502b59865ff0e422a31dc8d783 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592997999 +0600	checkout: moving from profile-info-error-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593058732 +0600	checkout: moving from master to link-list-to-column-error
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 ab34e52a896bedd8692d372647f965914c2c1133 Sudip <sudip.mediusware@gmail.com> 1593059996 +0600	commit: Link list to column already existing task button show and hide issue fixed.
+ab34e52a896bedd8692d372647f965914c2c1133 36735d34108e3fa181042a0754dfc6b639d7b5aa Sudip <sudip.mediusware@gmail.com> 1593061203 +0600	commit: Link list to column modal and alignment issue fixed on Board card.
+36735d34108e3fa181042a0754dfc6b639d7b5aa 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593064393 +0600	checkout: moving from link-list-to-column-error to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593064494 +0600	checkout: moving from master to overview-log-empty-data-error-issue
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 42b52c62c0cbfa7971a489fefadd2a83930676a6 Sudip <sudip.mediusware@gmail.com> 1593065866 +0600	commit: Overview empty logs data error issue fixed and table issue fixed.
+42b52c62c0cbfa7971a489fefadd2a83930676a6 c9ec1ab34c31462ec3bc640d6a86398b0204690e Sudip <sudip.mediusware@gmail.com> 1593067419 +0600	commit: Overview logs remove unnecessary html code and comments and fixed alignment
+c9ec1ab34c31462ec3bc640d6a86398b0204690e da4f9f6b9fe0ce3d7fa8fcd9917adf50424b972e Sudip <sudip.mediusware@gmail.com> 1593069766 +0600	commit: Empty issue fixed.
+da4f9f6b9fe0ce3d7fa8fcd9917adf50424b972e c19e04e975b87e23966b752faa889f1b1aa6d9e7 Sudip <sudip.mediusware@gmail.com> 1593070906 +0600	commit: Fixed issue
+c19e04e975b87e23966b752faa889f1b1aa6d9e7 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593139803 +0600	checkout: moving from overview-log-empty-data-error-issue to master
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593140628 +0600	pull origin master: Fast-forward
+056bc480ec4175212eda6d5bfa71134ce59befd2 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593143040 +0600	reset: moving to HEAD
+056bc480ec4175212eda6d5bfa71134ce59befd2 e8259facdea606bd10b68417462f7eb5f0f7d8fb Sudip <sudip.mediusware@gmail.com> 1593143835 +0600	checkout: moving from master to team-setting-error-issue
+e8259facdea606bd10b68417462f7eb5f0f7d8fb 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593143853 +0600	pull origin master: Fast-forward
+056bc480ec4175212eda6d5bfa71134ce59befd2 576b9f8640ff114aacba7389aa89f2b89443e33c Sudip <sudip.mediusware@gmail.com> 1593145479 +0600	commit: Team setting create team limit html issue fixed.
+576b9f8640ff114aacba7389aa89f2b89443e33c b03426928e9579f5c1335c24b13c8ba075cf0473 Sudip <sudip.mediusware@gmail.com> 1593146989 +0600	commit: Team setting table and all pages alignment and html issue fixed.
+b03426928e9579f5c1335c24b13c8ba075cf0473 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593147327 +0600	checkout: moving from team-setting-error-issue to master
+056bc480ec4175212eda6d5bfa71134ce59befd2 b03426928e9579f5c1335c24b13c8ba075cf0473 Sudip <sudip.mediusware@gmail.com> 1593147434 +0600	checkout: moving from master to team-setting-error-issue
+b03426928e9579f5c1335c24b13c8ba075cf0473 b03426928e9579f5c1335c24b13c8ba075cf0473 Sudip <sudip.mediusware@gmail.com> 1593149438 +0600	reset: moving to HEAD
+b03426928e9579f5c1335c24b13c8ba075cf0473 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593149457 +0600	checkout: moving from team-setting-error-issue to master
+056bc480ec4175212eda6d5bfa71134ce59befd2 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593149544 +0600	checkout: moving from master to task-details-modal-image-upload-not-working
+056bc480ec4175212eda6d5bfa71134ce59befd2 6fff8562e5b83e876a0c5c4ca09f35f695473868 Sudip <sudip.mediusware@gmail.com> 1593150074 +0600	commit: Change to description modal ID and modal show issue fixed from Board card.
+6fff8562e5b83e876a0c5c4ca09f35f695473868 e35f2bf8755cb57d740c4881ca8798efcbb4cc28 Sudip <sudip.mediusware@gmail.com> 1593151444 +0600	commit: Task details modal to image upload issue fixed on Board task.
+e35f2bf8755cb57d740c4881ca8798efcbb4cc28 18d311333dbbb2197ff66815c89d7f61ca6b4507 Sudip <sudip.mediusware@gmail.com> 1593152725 +0600	commit: Change to description modal ID and modal show issue fixed from Task list.
+18d311333dbbb2197ff66815c89d7f61ca6b4507 348d443df5352b95d542fa6396da30cdb2aef4e7 Sudip <sudip.mediusware@gmail.com> 1593152957 +0600	commit: Task details modal to image upload issue fixed on Task list.
+348d443df5352b95d542fa6396da30cdb2aef4e7 428ba48e6a163836015722bbdbb2eed88e0c627e Sudip <sudip.mediusware@gmail.com> 1593154435 +0600	commit: Remove unnecessary code on Task list and Board card.
+428ba48e6a163836015722bbdbb2eed88e0c627e 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593155463 +0600	checkout: moving from task-details-modal-image-upload-not-working to master
+056bc480ec4175212eda6d5bfa71134ce59befd2 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593421028 +0600	checkout: moving from master to task-details-tag-issue
+056bc480ec4175212eda6d5bfa71134ce59befd2 7e35d259f17f7e9dbf2eafa8264a038467fa484f Sudip <sudip.mediusware@gmail.com> 1593422012 +0600	commit: Single task details manage tags modal added.
+7e35d259f17f7e9dbf2eafa8264a038467fa484f c592e670c1f5bdbfffcacbee477edfffa28e92d8 Sudip <sudip.mediusware@gmail.com> 1593422690 +0600	commit: Single task details manage tag delete issue fixed and delete function added.
+c592e670c1f5bdbfffcacbee477edfffa28e92d8 805be2f0c8c2c91f688ea5eaebfa2efe3d1b42da Sudip <sudip.mediusware@gmail.com> 1593423730 +0600	commit: Single task details manage tag color chnage issue added.
+805be2f0c8c2c91f688ea5eaebfa2efe3d1b42da 1034b5a91083d4b455447741a6a851d2e19b142b Sudip <sudip.mediusware@gmail.com> 1593424529 +0600	commit: Single task details manage tag tilte rename and update done.
+1034b5a91083d4b455447741a6a851d2e19b142b 6f476923f1d0e3ce974d16a77a974c585c14f75a Sudip <sudip.mediusware@gmail.com> 1593425376 +0600	commit: Single task details manage tag title edit stop to new line.
+6f476923f1d0e3ce974d16a77a974c585c14f75a 9b26c5e82a27c3b730cafaf0cf9682472bd3d5d3 Sudip <sudip.mediusware@gmail.com> 1593600841 +0600	commit: Task details pullout modal added, delete, chnage color, rename edit stop new line issue fixed.
+9b26c5e82a27c3b730cafaf0cf9682472bd3d5d3 786544567969693429c505c0dca874c9203a415a Sudip <sudip.mediusware@gmail.com> 1593602035 +0600	commit: Task list from Task details pullout data render issue fixed.
+786544567969693429c505c0dca874c9203a415a 0a0522ca57f5e2521f66032b24bc52e550dd1743 Sudip <sudip.mediusware@gmail.com> 1593602366 +0600	commit: Board card from Task details pullout data render issue fixed
+0a0522ca57f5e2521f66032b24bc52e550dd1743 a6f3cd039219ae74d8118bc7bf0f48c6c7d8f9f1 Sudip <sudip.mediusware@gmail.com> 1593602560 +0600	commit: Remove unnecessary code and function.
+a6f3cd039219ae74d8118bc7bf0f48c6c7d8f9f1 a6f3cd039219ae74d8118bc7bf0f48c6c7d8f9f1 Sudip <sudip.mediusware@gmail.com> 1594015129 +0600	reset: moving to HEAD
+a6f3cd039219ae74d8118bc7bf0f48c6c7d8f9f1 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1594015133 +0600	checkout: moving from task-details-tag-issue to master
+056bc480ec4175212eda6d5bfa71134ce59befd2 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1594017566 +0600	checkout: moving from master to email-and-notifications-issue
+056bc480ec4175212eda6d5bfa71134ce59befd2 1e7716693d6fe78b0a31c1f59220a6df08900869 Sudip <sudip.mediusware@gmail.com> 1594017831 +0600	commit: Email and notifications design and alignment issue fixed.
+1e7716693d6fe78b0a31c1f59220a6df08900869 a601cb13cf5e38e1ddc79211e02c48d042a01f3b Sudip <sudip.mediusware@gmail.com> 1594018247 +0600	commit: Email and notifications switch design issue fixed.
+a601cb13cf5e38e1ddc79211e02c48d042a01f3b fee01ba554acddb5d060d63826fa562ac0542518 Sudip <sudip.mediusware@gmail.com> 1594019121 +0600	commit: Remove unnecessary code on Email and notifications
+fee01ba554acddb5d060d63826fa562ac0542518 fee01ba554acddb5d060d63826fa562ac0542518 Sudip <sudip.mediusware@gmail.com> 1594022725 +0600	reset: moving to HEAD
+fee01ba554acddb5d060d63826fa562ac0542518 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1594024042 +0600	checkout: moving from email-and-notifications-issue to master
+056bc480ec4175212eda6d5bfa71134ce59befd2 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1594027433 +0600	checkout: moving from master to comments-notification-design-issue
+056bc480ec4175212eda6d5bfa71134ce59befd2 524d530ac150d231c2a71c4c5043a7ec08acf00b Sudip <sudip.mediusware@gmail.com> 1594028107 +0600	commit: Notificatins comments design issue fixed. Remove unnecessary code and alignment issue fixed
+524d530ac150d231c2a71c4c5043a7ec08acf00b 524d530ac150d231c2a71c4c5043a7ec08acf00b Rashiqul Rony <rony.mmj@gmail.com> 1605987574 +0600	reset: moving to HEAD

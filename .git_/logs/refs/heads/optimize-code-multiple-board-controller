@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591092397 +0600	branch: Created from HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 9073f5f74b9867f9aa3030e141f4be823fde2697 Sudip <sudip.mediusware@gmail.com> 1591092525 +0600	commit: Board child card hide show loading faster.
+9073f5f74b9867f9aa3030e141f4be823fde2697 06ab53879fd95751d9d962af4fd0a4e73a42e92d Sudip <sudip.mediusware@gmail.com> 1591093290 +0600	commit: Some function optmize and remove unnecessary code

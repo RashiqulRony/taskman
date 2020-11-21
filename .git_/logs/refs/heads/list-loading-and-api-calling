@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589518672 +0600	branch: Created from HEAD
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 afd587b1de372d74c283a6f5bc931da053f15f51 Sudip <sudip.mediusware@gmail.com> 1589518841 +0600	commit: Task list remove data loading and calling extra api.
+afd587b1de372d74c283a6f5bc931da053f15f51 3ac265a15e56454c37b00760d386608bfa43de40 Sudip <sudip.mediusware@gmail.com> 1589520289 +0600	pull origin master: Merge made by the 'recursive' strategy.
+3ac265a15e56454c37b00760d386608bfa43de40 2800caaa7fa6e7623f1e93a54f497c9a5f084ebe Sudip <sudip.mediusware@gmail.com> 1589521330 +0600	commit: Remove unnecessary code.

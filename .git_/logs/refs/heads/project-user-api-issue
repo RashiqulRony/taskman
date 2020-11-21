@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592383940 +0600	branch: Created from HEAD
+313a4a32929d06229b3f74d5bfb84268a660adbe 55a4a4ed20b01095072878a6e7fda66a06fa8663 Sudip <sudip.mediusware@gmail.com> 1592383961 +0600	commit: Project user api issue fixed on Board card.
+55a4a4ed20b01095072878a6e7fda66a06fa8663 926f3299b232dea6dbbfe9fcd0f7f981d3f54f7d Sudip <sudip.mediusware@gmail.com> 1592385345 +0600	commit: Project user fixed error and API issue on single task details page.
+926f3299b232dea6dbbfe9fcd0f7f981d3f54f7d 8dc044a45e4e80c245f9aadbb3114672a23c66e5 Sudip <sudip.mediusware@gmail.com> 1592388973 +0600	commit: Project user show and API issue fixed on task details pullout page.

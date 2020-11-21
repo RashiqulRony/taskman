@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 Sudip <sudip.mediusware@gmail.com> 1590736478 +0600	branch: Created from HEAD
+ed60f2068f90dfd9769c37a9c5aa43f9bb7896f3 0e08868246852c32c57fd5427707d98e1f1a4404 Sudip <sudip.mediusware@gmail.com> 1590736659 +0600	commit: Import csv data save issue fixed
+0e08868246852c32c57fd5427707d98e1f1a4404 3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de Sudip <sudip.mediusware@gmail.com> 1590740559 +0600	commit: Change error alert message
+3c5f1c4b7182da6025f4aaddb1cbaac07b3c80de 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592905572 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 3ebc012b287f5ceeb2d105189781b4746aafcb9a Sudip <sudip.mediusware@gmail.com> 1592906552 +0600	commit: Import csv array data filtering fixed and data fast loading.
+3ebc012b287f5ceeb2d105189781b4746aafcb9a db35e603d155145de746fedbb8475b1cd2f28057 Sudip <sudip.mediusware@gmail.com> 1592906853 +0600	commit: Remove extra function and fixed alignment
+db35e603d155145de746fedbb8475b1cd2f28057 1928fa2aac0a6c05a0950642e2b04ba2315fa865 Sudip <sudip.mediusware@gmail.com> 1592910411 +0600	commit: Import csv data maping issue fixed.
+1928fa2aac0a6c05a0950642e2b04ba2315fa865 d4cb535dd9670986f1163eba52f6f17746c8c0c7 Sudip <sudip.mediusware@gmail.com> 1592910535 +0600	commit: Maping alignment issue fixed.

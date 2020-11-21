@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 4fa51cd1b357d99b7047aa6fcd7ea31288e96635 Sudip <sudip.mediusware@gmail.com> 1589452114 +0600	branch: Created from HEAD
+4fa51cd1b357d99b7047aa6fcd7ea31288e96635 2598b8b276edaa204f00ec4e44411ac430fc05f1 Sudip <sudip.mediusware@gmail.com> 1589452198 +0600	commit: Remove unnecessary api calling.
+2598b8b276edaa204f00ec4e44411ac430fc05f1 03cc7f591d22815b9a7dd6c466244132af639790 Sudip <sudip.mediusware@gmail.com> 1589453421 +0600	commit: Fixd this issue

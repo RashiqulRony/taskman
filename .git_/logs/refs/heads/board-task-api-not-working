@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592462174 +0600	branch: Created from HEAD
+313a4a32929d06229b3f74d5bfb84268a660adbe 41e49f5169877cf1b738190d759394156269e16a Sudip <sudip.mediusware@gmail.com> 1592462398 +0600	commit: Board card data show and api error issue fixed.
+41e49f5169877cf1b738190d759394156269e16a a278f65b90c7876316b01c9ab9b08273d0f39540 Sudip <sudip.mediusware@gmail.com> 1592464868 +0600	commit: Remove unnecessary code and all conditional issue fixed on Multiple Board Controller
+a278f65b90c7876316b01c9ab9b08273d0f39540 9d9ad42aeb6b2d54eefe4f4d497b11cdb7449741 Sudip <sudip.mediusware@gmail.com> 1592465429 +0600	commit: Fixed some problems
+9d9ad42aeb6b2d54eefe4f4d497b11cdb7449741 dba652d543f33e4fc17e173b168074f5594c21dc Sudip <sudip.mediusware@gmail.com> 1592476729 +0600	commit: Card details design issue fixed.

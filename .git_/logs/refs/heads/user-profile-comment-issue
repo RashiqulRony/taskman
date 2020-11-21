@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592541802 +0600	branch: Created from HEAD
+313a4a32929d06229b3f74d5bfb84268a660adbe a664f99cb5bb5c6b3d44fff632deca9ca8fa14ff Sudip <sudip.mediusware@gmail.com> 1592541902 +0600	commit: User profile comment link to single task details page.
+a664f99cb5bb5c6b3d44fff632deca9ca8fa14ff c25614ba5f233dec0ab761ba3873c09cf35c93dd Sudip <sudip.mediusware@gmail.com> 1592542569 +0600	commit: User profile Name
+c25614ba5f233dec0ab761ba3873c09cf35c93dd 86ae9eea6437506599e68d5f22c05cfa605cd0e1 Sudip <sudip.mediusware@gmail.com> 1592542716 +0600	commit: User profile personal information all section alignment design issue fixed.
+86ae9eea6437506599e68d5f22c05cfa605cd0e1 e89b49abe0d24d98df49abf6b9e77faa516143b3 Sudip <sudip.mediusware@gmail.com> 1592545295 +0600	commit: Remove unnecessary code and fixed alignment on profile comment, edit, index and task task panel

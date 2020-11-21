@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590993018 +0600	branch: Created from HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a bbae0475466f35a27b998941851373f24cc77362 Sudip <sudip.mediusware@gmail.com> 1590993060 +0600	commit: Overview list navbar update title server validation and show server validation errors
+bbae0475466f35a27b998941851373f24cc77362 cf80f54251cd522a169cf7fe6976efffaf8c714a Sudip <sudip.mediusware@gmail.com> 1591013536 +0600	commit: Fixed all conditional issues on overview.

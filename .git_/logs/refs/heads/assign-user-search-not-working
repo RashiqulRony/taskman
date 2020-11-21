@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1592198088 +0600	branch: Created from HEAD
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 5c4ab750e9f637ee54f06ced840807df361e7593 Sudip <sudip.mediusware@gmail.com> 1592199193 +0600	commit: Search function issue fixed.
+5c4ab750e9f637ee54f06ced840807df361e7593 bd97436c213147dbaf98924ed391216d52e8fc3e Sudip <sudip.mediusware@gmail.com> 1592199913 +0600	commit: Assign user search fixed on Task details pullout page.
+bd97436c213147dbaf98924ed391216d52e8fc3e 78ad3a738bae6a62255c47f5a52ea19613705b23 Sudip <sudip.mediusware@gmail.com> 1592199944 +0600	pull origin master: Merge made by the 'recursive' strategy.
+78ad3a738bae6a62255c47f5a52ea19613705b23 0d7bd997c637322db70ca4ceb653c8f77a5e7c01 Sudip <sudip.mediusware@gmail.com> 1592203723 +0600	commit: Assign user search fixed on Single Task details page.

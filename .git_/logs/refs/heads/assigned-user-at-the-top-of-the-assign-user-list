@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 819662d3d1eab355a892eae3618f82bbcb21785b Sudip <sudip.mediusware@gmail.com> 1586855738 +0600	branch: Created from HEAD
+819662d3d1eab355a892eae3618f82bbcb21785b fa2a1bc4366cd59914fd8102bb1a50e0353caded Sudip <sudip.mediusware@gmail.com> 1586953314 +0600	pull origin master: Fast-forward
+fa2a1bc4366cd59914fd8102bb1a50e0353caded 4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 Sudip <sudip.mediusware@gmail.com> 1586955554 +0600	commit: When a user is assigned show assigned user at the top of the assign user list - Do this in all user lists --issue fixed
+4a55b1b61c9db882fc042f0477eaa0af5c2b80c9 f357ac9ef36bf1edc0ad368750a6a1969ffa8601 Sudip <sudip.mediusware@gmail.com> 1586956741 +0600	commit: When a user is assigned show assigned user at the top of the assign user list - Do this in all user lists --issue fixed
+f357ac9ef36bf1edc0ad368750a6a1969ffa8601 77b70ba968bdd2804061ffb8efa7d82fcd3ce850 Sudip <sudip.mediusware@gmail.com> 1586960521 +0600	commit: Assigned user at the top fixed on single Task details.

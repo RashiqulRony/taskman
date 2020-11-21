@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587458788 +0600	branch: Created from HEAD
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 cb46947b685a8f8132304cf1b119bdc35a48a3a1 Sudip <sudip.mediusware@gmail.com> 1587459855 +0600	commit: All jquery script use in document ready
+cb46947b685a8f8132304cf1b119bdc35a48a3a1 f9947f70046738873b00ff2c0af2220627c9148a Sudip <sudip.mediusware@gmail.com> 1587461944 +0600	commit: unused function remove.
+f9947f70046738873b00ff2c0af2220627c9148a 99b4528d525c09ea3862607e39426b16b9f86f46 Sudip <sudip.mediusware@gmail.com> 1587465120 +0600	commit: Selected move card issue fixed and Rename function name to moveCard
+99b4528d525c09ea3862607e39426b16b9f86f46 50f06b40b3d6f2b86e2aed375ef93981919ef5c7 Sudip <sudip.mediusware@gmail.com> 1587467135 +0600	commit: Checking Ian all assigned issues
+50f06b40b3d6f2b86e2aed375ef93981919ef5c7 231b198ad2b1b24684fffd06052f93346c5e43ec Sudip <sudip.mediusware@gmail.com> 1587470029 +0600	commit: Selected move task list issue fixed
+231b198ad2b1b24684fffd06052f93346c5e43ec 7ac484fc5742cafc2769dae5f7b622fc10ac2a7c Sudip <sudip.mediusware@gmail.com> 1587535038 +0600	commit: Task list up down issue fixed
+7ac484fc5742cafc2769dae5f7b622fc10ac2a7c 8c6c3080a1a0d87944458610458cb972f7d2d6e3 Sudip <sudip.mediusware@gmail.com> 1587536594 +0600	commit: Assign User scroll issue fixed

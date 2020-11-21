@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce Sudip <sudip.mediusware@gmail.com> 1591164084 +0600	branch: Created from HEAD
+da61c6c2e0b68d0311e92fda61bcc6c52bf6bcce ca4126c89c64a7383877d1cf460b295d6d1c010f Sudip <sudip.mediusware@gmail.com> 1591164409 +0600	commit: Overview all logs resolve unexpected html tags
+ca4126c89c64a7383877d1cf460b295d6d1c010f 43137e22c861fa48f10e3186c00e70e475a88264 Sudip <sudip.mediusware@gmail.com> 1591169557 +0600	commit: Remove unnecessary code and comments
+43137e22c861fa48f10e3186c00e70e475a88264 3f6f88798811f1515ae0782d2e44ee2a2d39a46e Sudip <sudip.mediusware@gmail.com> 1591170192 +0600	commit: Overview comments resolve unexpected html tags
+3f6f88798811f1515ae0782d2e44ee2a2d39a46e e147026c2d90679b73cbc5ca1151246faaea54d2 Sudip <sudip.mediusware@gmail.com> 1591336893 +0600	commit: Select Per Page Item conditional issue fixed on overview
+e147026c2d90679b73cbc5ca1151246faaea54d2 0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 Sudip <sudip.mediusware@gmail.com> 1591846073 +0600	pull origin master: Fast-forward
+0a7f05e0e94d329d6de01c5d7b01121767a6c0b6 f67a595c71a6f1210bad11014ead5d23a15e7b71 Sudip <sudip.mediusware@gmail.com> 1591846559 +0600	commit: Overview all logs resolve unexpected html tags.
+f67a595c71a6f1210bad11014ead5d23a15e7b71 f22bd4763adfd81b88de6b143a0f2295ac8d7b28 Sudip <sudip.mediusware@gmail.com> 1591850332 +0600	commit: Overview log undo issue solved. and Remove unnecessary code.

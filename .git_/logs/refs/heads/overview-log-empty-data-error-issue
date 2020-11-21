@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593064494 +0600	branch: Created from HEAD
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 42b52c62c0cbfa7971a489fefadd2a83930676a6 Sudip <sudip.mediusware@gmail.com> 1593065866 +0600	commit: Overview empty logs data error issue fixed and table issue fixed.
+42b52c62c0cbfa7971a489fefadd2a83930676a6 c9ec1ab34c31462ec3bc640d6a86398b0204690e Sudip <sudip.mediusware@gmail.com> 1593067419 +0600	commit: Overview logs remove unnecessary html code and comments and fixed alignment
+c9ec1ab34c31462ec3bc640d6a86398b0204690e da4f9f6b9fe0ce3d7fa8fcd9917adf50424b972e Sudip <sudip.mediusware@gmail.com> 1593069766 +0600	commit: Empty issue fixed.
+da4f9f6b9fe0ce3d7fa8fcd9917adf50424b972e c19e04e975b87e23966b752faa889f1b1aa6d9e7 Sudip <sudip.mediusware@gmail.com> 1593070906 +0600	commit: Fixed issue

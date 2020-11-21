@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592981412 +0600	branch: Created from HEAD
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 11fbfd82fd77d35b16b490a35f36a595beab0d97 Sudip <sudip.mediusware@gmail.com> 1592981769 +0600	commit: Assing users input css design added.
+11fbfd82fd77d35b16b490a35f36a595beab0d97 389c3e9b921797e74c23c0e9de3a8479b0cd75e5 Sudip <sudip.mediusware@gmail.com> 1592982611 +0600	commit: Board assign users input design issue fixed.
+389c3e9b921797e74c23c0e9de3a8479b0cd75e5 d513026d2af9680563d71872959eba4904e3f27d Sudip <sudip.mediusware@gmail.com> 1592983070 +0600	commit: Board right click assign users input design issue fixed.
+d513026d2af9680563d71872959eba4904e3f27d 1af4340705185d2ae665bc0ba4613236d412fe59 Sudip <sudip.mediusware@gmail.com> 1592983897 +0600	commit: Task list assign users input design issue fixed.
+1af4340705185d2ae665bc0ba4613236d412fe59 3d3c8703bcf0d7dfec336081972bfb6f11f2991c Sudip <sudip.mediusware@gmail.com> 1592984056 +0600	commit: Task list right click assign users input design issue fixed.
+3d3c8703bcf0d7dfec336081972bfb6f11f2991c 729300e7b4bfdddcc3840f93bcf7ad5880906319 Sudip <sudip.mediusware@gmail.com> 1592994272 +0600	commit: Board and Task list fixed alignment.

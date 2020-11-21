@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 9a6d5293a403d2eb8daea43a711b580bcb9051eb Sudip <sudip.mediusware@gmail.com> 1588061810 +0600	branch: Created from HEAD
+9a6d5293a403d2eb8daea43a711b580bcb9051eb 1e5c30f402a490602d5ba1f7f4065fa023b64af3 Sudip <sudip.mediusware@gmail.com> 1588063647 +0600	commit: Overview all swal alert issue fixed.
+1e5c30f402a490602d5ba1f7f4065fa023b64af3 77063badb52311620c18fff7263bf77a3e1d3475 Sudip <sudip.mediusware@gmail.com> 1588064956 +0600	commit: Overview comment formation issue fixed.
+77063badb52311620c18fff7263bf77a3e1d3475 9016e4ade4d14d163121ba886e6dd0b66cf7a211 Sudip <sudip.mediusware@gmail.com> 1588067923 +0600	commit: remove unnecessary function and comment
+9016e4ade4d14d163121ba886e6dd0b66cf7a211 064294ce10b0d037f4c62f1e472bcb2acb24fbe0 Sudip <sudip.mediusware@gmail.com> 1588068041 +0600	commit: remove unnecessary function and comment--all
+064294ce10b0d037f4c62f1e472bcb2acb24fbe0 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590558229 +0600	pull origin master: Fast-forward
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 4f9a131c49b3ea83c49548d49debef93026a0434 Sudip <sudip.mediusware@gmail.com> 1590559404 +0600	commit: All swal alert issue fixed from overview

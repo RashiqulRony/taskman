@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 149e582f1a54937277f4121c1e700a4b1a20826d Sudip <sudip.mediusware@gmail.com> 1588138835 +0600	branch: Created from HEAD
+149e582f1a54937277f4121c1e700a4b1a20826d c2dd8b935c3c6105cd58e55985ac68ef4c0755ac Sudip <sudip.mediusware@gmail.com> 1588139408 +0600	commit: Board card priority color issue fixed.
+c2dd8b935c3c6105cd58e55985ac68ef4c0755ac a91919d82b3e7bc8b52f69d6544d7506608984d4 Sudip <sudip.mediusware@gmail.com> 1588139780 +0600	commit: Task List priority color issue fixed.
+a91919d82b3e7bc8b52f69d6544d7506608984d4 4fa472d711a9a57f9d0190e1368baae1e1b0f4f2 Sudip <sudip.mediusware@gmail.com> 1588140714 +0600	commit: Tag color issue fixed on Task list.

@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 29e20129ab09cae0aed5f774ca265c097639f6e9 Sudip <sudip.mediusware@gmail.com> 1589772295 +0600	branch: Created from HEAD
+29e20129ab09cae0aed5f774ca265c097639f6e9 32af14d5325113ac402aef83eb232aa3d0b898a6 Sudip <sudip.mediusware@gmail.com> 1589774053 +0600	commit: Board card Filtering fuction and code optimized
+32af14d5325113ac402aef83eb232aa3d0b898a6 33a68f4f8179dd5625c5a4aa022a18ea7fced1dd Sudip <sudip.mediusware@gmail.com> 1589775629 +0600	commit: Task List swal close issue fixed.
+33a68f4f8179dd5625c5a4aa022a18ea7fced1dd 2dc8e2675482bd87c7fff2967ced40d78927c116 Sudip <sudip.mediusware@gmail.com> 1589780006 +0600	commit: Press delete issue fixed on Task list and Board card
+2dc8e2675482bd87c7fff2967ced40d78927c116 9770056aa880a90927cf76038bae0499027f93e5 Sudip <sudip.mediusware@gmail.com> 1589781254 +0600	commit: Board card swal close issue fixed.
+9770056aa880a90927cf76038bae0499027f93e5 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589862022 +0600	pull origin master: Fast-forward
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 d2e095e3bce7b0d48a11f32822337364e6aefdc5 Sudip <sudip.mediusware@gmail.com> 1589862206 +0600	commit: Remove unnecessary code and function from MultipleListController
+d2e095e3bce7b0d48a11f32822337364e6aefdc5 9d864c75c0f7a873d186a4fffc51ef9a4e34db59 Sudip <sudip.mediusware@gmail.com> 1589863431 +0600	commit: Remove unnecessary code and function from ActonLogcontreoller, AssignedUserController and HomeController
+9d864c75c0f7a873d186a4fffc51ef9a4e34db59 695ce11947b5e02e90cfb4e43fe8bc5878a82651 Sudip <sudip.mediusware@gmail.com> 1589864919 +0600	commit: Remove unnecessary code and function from MultipleBoardController
+695ce11947b5e02e90cfb4e43fe8bc5878a82651 2d1740acf8c72d0d109cb71f4f97b4b670460a32 Sudip <sudip.mediusware@gmail.com> 1589865895 +0600	commit: Remove unnecessary code and function from PriorityController, SearchController
+2d1740acf8c72d0d109cb71f4f97b4b670460a32 77d331fe7b15343e2a00feba0ed60f5df8d3d097 Sudip <sudip.mediusware@gmail.com> 1590562693 +0600	pull origin master: Fast-forward
+77d331fe7b15343e2a00feba0ed60f5df8d3d097 0a428b0266c9f560b2b27244453e2465ea49da1d Sudip <sudip.mediusware@gmail.com> 1590565563 +0600	commit: Card switching loading faster and Remove unnecessary code.

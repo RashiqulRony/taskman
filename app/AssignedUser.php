@@ -1,0 +1,41 @@
+<?php
+
+namespace App;
+
+use Illuminate\Database\Eloquent\Model;
+use Illuminate\Support\Facades\Auth;
+use Laravel\Spark\Configuration\DBConnection;
+
+class AssignedUser extends Model
+{
+
+
+    protected $table = 'task_assigned_users';
+
+    protected $fillable = [
+        'user_id',
+        'task_id',
+        'created_by',
+        'updated_by',
+        'created_at',
+        'updated_at'
+    ];
+
+    public function taskComment()
+    {
+        return $this->hasMany(Comment::class,'task_id','task_id');
+    }
+
+    public function users()
+    {
+        return $this->hasOne(User::class,'id','user_id');
+    }
+
+    public function task()
+    {
+        return $this->hasOne(Task::class,'id','task_id');
+    }
+
+
+
+}

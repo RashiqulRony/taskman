@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592300845 +0600	branch: Created from HEAD
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d fe17a7065cd966760d8fc83741218a05294bac28 Sudip <sudip.mediusware@gmail.com> 1592300992 +0600	commit: Not select a card and press right key, it's show empty pullout task details this issue fixed.
+fe17a7065cd966760d8fc83741218a05294bac28 fbe0864902670880c4fe7b423a206e73ad56c0e4 Sudip <sudip.mediusware@gmail.com> 1592302542 +0600	commit: Select a task list and press right key, it's show empty pullout task details this issue fixed on Task List
+fbe0864902670880c4fe7b423a206e73ad56c0e4 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592452426 +0600	pull origin master: Fast-forward
+313a4a32929d06229b3f74d5bfb84268a660adbe f21aee4970e14351cf1d6550b446e7e93d45517a Sudip <sudip.mediusware@gmail.com> 1592452725 +0600	commit: Right press task details pullout show issue fixed on Board card.
+f21aee4970e14351cf1d6550b446e7e93d45517a b99afc457d0727e484d665096eea2274ca511a28 Sudip <sudip.mediusware@gmail.com> 1592453477 +0600	commit: Right press task details pullout show issue fixed on Task list.
+b99afc457d0727e484d665096eea2274ca511a28 a0f7f540c544a4ce285a5b9ebf1ce1a6261652fd Sudip <sudip.mediusware@gmail.com> 1592454420 +0600	commit: Remove unnecessary code and all conditional issue fixed on task list page.
+a0f7f540c544a4ce285a5b9ebf1ce1a6261652fd a050af3ed0d55cb1f07f4da45ab411d2bf379a72 Sudip <sudip.mediusware@gmail.com> 1592455797 +0600	commit: Remove unnecessary code and all conditional issue fixed on Baord card.

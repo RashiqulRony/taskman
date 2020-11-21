@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592210120 +0600	branch: Created from HEAD
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 8115e57a7fdf310180a587f75089097a525dbcc7 Sudip <sudip.mediusware@gmail.com> 1592210486 +0600	commit: Overview comments link to task details issue fixed.
+8115e57a7fdf310180a587f75089097a525dbcc7 046e466268b879fc8bcdd04ddc4247b5f4bd159b Sudip <sudip.mediusware@gmail.com> 1592213116 +0600	commit: Remove unnecessary html code and comments.

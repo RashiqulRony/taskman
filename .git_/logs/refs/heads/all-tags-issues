@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592368528 +0600	branch: Created from HEAD
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 78f627e907829ccc6b0b829f1bcccfad8e395100 Sudip <sudip.mediusware@gmail.com> 1592368886 +0600	commit: Tags section design issue fixed on Task list, Board card, Task details pullout and Single task details page.
+78f627e907829ccc6b0b829f1bcccfad8e395100 7ef941787511f98c06c81033774bad83187febc6 Sudip <sudip.mediusware@gmail.com> 1592374158 +0600	commit: Task list tag input error issue fixed.
+7ef941787511f98c06c81033774bad83187febc6 8940a6f533b984dfa4e3bcb4a50d68907c4d8cbe Sudip <sudip.mediusware@gmail.com> 1592374696 +0600	commit: Board Card tag input error issue fixed.
+8940a6f533b984dfa4e3bcb4a50d68907c4d8cbe 4e9bce5b4aa219e666eee59ede192986fd88755d Sudip <sudip.mediusware@gmail.com> 1592375357 +0600	commit: Task details pullout tag input error issue fixed.
+4e9bce5b4aa219e666eee59ede192986fd88755d dfe1098a107883c67334c507f1e57999f902c9e8 Sudip <sudip.mediusware@gmail.com> 1592375666 +0600	commit: Single Task details tag input error issue fixed.
+dfe1098a107883c67334c507f1e57999f902c9e8 d42c7dc5ece07d661c097ce11002eb4d39779b12 Sudip <sudip.mediusware@gmail.com> 1592378780 +0600	commit: Fixed all design issue
+d42c7dc5ece07d661c097ce11002eb4d39779b12 86898ad54a3ce939eda005b5de255fe921598301 Sudip <sudip.mediusware@gmail.com> 1592380539 +0600	pull origin master: Merge made by the 'recursive' strategy.
+86898ad54a3ce939eda005b5de255fe921598301 ffb6f69f940e7f4dfc3f2e64425f045e187e4213 Sudip <sudip.mediusware@gmail.com> 1592380622 +0600	commit: Pull master and fixed the tags issues.

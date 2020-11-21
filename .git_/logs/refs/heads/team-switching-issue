@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 c9b4ede672bc02d914f499595b5c81f201d5a9d8 Sudip <sudip.mediusware@gmail.com> 1589948301 +0600	branch: Created from HEAD
+c9b4ede672bc02d914f499595b5c81f201d5a9d8 7679d6836dc499f5777f8df3ea8be5983119ef18 Sudip <sudip.mediusware@gmail.com> 1589948973 +0600	commit: Create team with create time wise database.
+7679d6836dc499f5777f8df3ea8be5983119ef18 23a1dd3290a8f2588892bb259558a0950cda9846 Sudip <sudip.mediusware@gmail.com> 1589953382 +0600	commit: Team switch issue fixed and get team wise project data.
+23a1dd3290a8f2588892bb259558a0950cda9846 a6007d59d0e5c6109f87f3a9fb9418033f49044a Sudip <sudip.mediusware@gmail.com> 1589955336 +0600	commit: Team routing issue fixed.

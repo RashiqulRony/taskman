@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 d3530e7c99b532dfef7d5df1a37e6c0528498c98 Sudip <sudip.mediusware@gmail.com> 1587530933 +0600	branch: Created from HEAD
+d3530e7c99b532dfef7d5df1a37e6c0528498c98 b0239042015759c996ebb2999c50aef9ace7c42c Sudip <sudip.mediusware@gmail.com> 1587531028 +0600	commit: Testing previous issue issues
+b0239042015759c996ebb2999c50aef9ace7c42c 0f6b39d2356c23c12429fb4befe7606e76dc5e1a Sudip <sudip.mediusware@gmail.com> 1587534074 +0600	commit: here is a long delay when switching between boards - How can we make this faster --- checking
+0f6b39d2356c23c12429fb4befe7606e76dc5e1a a787e80860448953b2a3b43bea142b2409b3ac7a Sudip <sudip.mediusware@gmail.com> 1587544331 +0600	commit: Finding issue & testing
+a787e80860448953b2a3b43bea142b2409b3ac7a c53769bbdbfc148553126c918a09eb4c587ef318 Sudip <sudip.mediusware@gmail.com> 1587614117 +0600	commit: Issue checking & solving
+c53769bbdbfc148553126c918a09eb4c587ef318 373598b9dfae057d15909883bfea8bf4ba9fcbab Sudip <sudip.mediusware@gmail.com> 1587617896 +0600	commit: Reveiw and testing
+373598b9dfae057d15909883bfea8bf4ba9fcbab ac97fb181aa61e2091961e6b60798dee1d1a4af5 Sudip <sudip.mediusware@gmail.com> 1587632304 +0600	commit: Import csv issue done. Finding new issue.
+ac97fb181aa61e2091961e6b60798dee1d1a4af5 c84e528eb31ea7cae88befd873bdba5bd1231a3f Sudip <sudip.mediusware@gmail.com> 1587636146 +0600	commit: Finding issue continue

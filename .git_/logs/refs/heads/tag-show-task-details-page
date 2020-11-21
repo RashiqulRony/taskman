@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 9504208cb593d3f7a595376d6eed8830965eb4d3 Sudip <sudip.mediusware@gmail.com> 1587706327 +0600	branch: Created from HEAD
+9504208cb593d3f7a595376d6eed8830965eb4d3 b92bed37d8df53d37f8f08d662b139cad0eb4c7e Sudip <sudip.mediusware@gmail.com> 1587707141 +0600	commit: Tag box design fixed on board card task details
+b92bed37d8df53d37f8f08d662b139cad0eb4c7e 7af0e2ded0c53aa20e94f4b54f5f9213fe820c4e Sudip <sudip.mediusware@gmail.com> 1587712028 +0600	commit: Tag list show issue fixed on single card details
+7af0e2ded0c53aa20e94f4b54f5f9213fe820c4e f6b63b7844bb5e646e48d4c43f0424e6410f9471 Sudip <sudip.mediusware@gmail.com> 1587717796 +0600	commit: Tag search fixed on Single Task details page
+f6b63b7844bb5e646e48d4c43f0424e6410f9471 1fff7bd75064b3c8ef8b89491b5bc86c536d49dd Sudip <sudip.mediusware@gmail.com> 1587721800 +0600	commit: Tag search fixed on board card details
+1fff7bd75064b3c8ef8b89491b5bc86c536d49dd 68c1721d3e1a2ab5fe0d471597d9b0cccf0cf804 Sudip <sudip.mediusware@gmail.com> 1587724315 +0600	commit: Search tag add issue fixed.

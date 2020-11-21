@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593149544 +0600	branch: Created from HEAD
+056bc480ec4175212eda6d5bfa71134ce59befd2 6fff8562e5b83e876a0c5c4ca09f35f695473868 Sudip <sudip.mediusware@gmail.com> 1593150074 +0600	commit: Change to description modal ID and modal show issue fixed from Board card.
+6fff8562e5b83e876a0c5c4ca09f35f695473868 e35f2bf8755cb57d740c4881ca8798efcbb4cc28 Sudip <sudip.mediusware@gmail.com> 1593151444 +0600	commit: Task details modal to image upload issue fixed on Board task.
+e35f2bf8755cb57d740c4881ca8798efcbb4cc28 18d311333dbbb2197ff66815c89d7f61ca6b4507 Sudip <sudip.mediusware@gmail.com> 1593152725 +0600	commit: Change to description modal ID and modal show issue fixed from Task list.
+18d311333dbbb2197ff66815c89d7f61ca6b4507 348d443df5352b95d542fa6396da30cdb2aef4e7 Sudip <sudip.mediusware@gmail.com> 1593152957 +0600	commit: Task details modal to image upload issue fixed on Task list.
+348d443df5352b95d542fa6396da30cdb2aef4e7 428ba48e6a163836015722bbdbb2eed88e0c627e Sudip <sudip.mediusware@gmail.com> 1593154435 +0600	commit: Remove unnecessary code on Task list and Board card.

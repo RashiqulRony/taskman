@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592911087 +0600	branch: Created from HEAD
+43b494ea5cc9a433154a943c02611105384e953a 962ff52ea223e242c7d317de5890e546ab1277bc Sudip <sudip.mediusware@gmail.com> 1592911948 +0600	commit: Overview logs table issue and alignment fixed.
+962ff52ea223e242c7d317de5890e546ab1277bc afede7b63efecf56b7bf7ce47a38003e8e430af9 Sudip <sudip.mediusware@gmail.com> 1592914810 +0600	commit: Task details pullout logs empty issue fixed.
+afede7b63efecf56b7bf7ce47a38003e8e430af9 ef34c44c7cebd55432917d07b5c350b4619e8ff4 Sudip <sudip.mediusware@gmail.com> 1592915071 +0600	commit: Single Task pullout logs empty issue fixed.

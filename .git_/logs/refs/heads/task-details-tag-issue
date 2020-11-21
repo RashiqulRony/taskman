@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1593421028 +0600	branch: Created from HEAD
+056bc480ec4175212eda6d5bfa71134ce59befd2 7e35d259f17f7e9dbf2eafa8264a038467fa484f Sudip <sudip.mediusware@gmail.com> 1593422012 +0600	commit: Single task details manage tags modal added.
+7e35d259f17f7e9dbf2eafa8264a038467fa484f c592e670c1f5bdbfffcacbee477edfffa28e92d8 Sudip <sudip.mediusware@gmail.com> 1593422690 +0600	commit: Single task details manage tag delete issue fixed and delete function added.
+c592e670c1f5bdbfffcacbee477edfffa28e92d8 805be2f0c8c2c91f688ea5eaebfa2efe3d1b42da Sudip <sudip.mediusware@gmail.com> 1593423730 +0600	commit: Single task details manage tag color chnage issue added.
+805be2f0c8c2c91f688ea5eaebfa2efe3d1b42da 1034b5a91083d4b455447741a6a851d2e19b142b Sudip <sudip.mediusware@gmail.com> 1593424529 +0600	commit: Single task details manage tag tilte rename and update done.
+1034b5a91083d4b455447741a6a851d2e19b142b 6f476923f1d0e3ce974d16a77a974c585c14f75a Sudip <sudip.mediusware@gmail.com> 1593425376 +0600	commit: Single task details manage tag title edit stop to new line.
+6f476923f1d0e3ce974d16a77a974c585c14f75a 9b26c5e82a27c3b730cafaf0cf9682472bd3d5d3 Sudip <sudip.mediusware@gmail.com> 1593600841 +0600	commit: Task details pullout modal added, delete, chnage color, rename edit stop new line issue fixed.
+9b26c5e82a27c3b730cafaf0cf9682472bd3d5d3 786544567969693429c505c0dca874c9203a415a Sudip <sudip.mediusware@gmail.com> 1593602035 +0600	commit: Task list from Task details pullout data render issue fixed.
+786544567969693429c505c0dca874c9203a415a 0a0522ca57f5e2521f66032b24bc52e550dd1743 Sudip <sudip.mediusware@gmail.com> 1593602366 +0600	commit: Board card from Task details pullout data render issue fixed
+0a0522ca57f5e2521f66032b24bc52e550dd1743 a6f3cd039219ae74d8118bc7bf0f48c6c7d8f9f1 Sudip <sudip.mediusware@gmail.com> 1593602560 +0600	commit: Remove unnecessary code and function.

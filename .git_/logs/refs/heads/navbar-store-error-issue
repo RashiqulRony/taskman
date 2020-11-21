@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589264194 +0600	branch: Created from HEAD
+7a1df98f49dd17aabb7d897210420a31b852244c 5ccee81de9bb4f0c813071071159e9781a0b9a2d Sudip <sudip.mediusware@gmail.com> 1589264295 +0600	commit: Navbar store error fixed and server validation
+5ccee81de9bb4f0c813071071159e9781a0b9a2d b5704a6044a4526cc0978e5740119247e3104fd7 Sudip <sudip.mediusware@gmail.com> 1589270408 +0600	commit: navbar board store and server validation issue fixed
+b5704a6044a4526cc0978e5740119247e3104fd7 18cbe09c0912138964a1bd72067032f43cb86ce6 Sudip <sudip.mediusware@gmail.com> 1589274584 +0600	commit: navbar list store and server validation issue fixed
+18cbe09c0912138964a1bd72067032f43cb86ce6 c5823a9b5063796dcbcdc413e44c5e42f1016783 Sudip <sudip.mediusware@gmail.com> 1589348446 +0600	commit: server error status change to 500

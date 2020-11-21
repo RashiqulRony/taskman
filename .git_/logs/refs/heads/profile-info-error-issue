@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592970131 +0600	branch: Created from HEAD
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 f3195cdd6f616c6e7419fc8822221f3b48aabd92 Sudip <sudip.mediusware@gmail.com> 1592972930 +0600	commit: User profile Billing Information and collapse issue fixed.
+f3195cdd6f616c6e7419fc8822221f3b48aabd92 edb4667c763fc79987d7adc69130e00d51f3cd7b Sudip <sudip.mediusware@gmail.com> 1592975635 +0600	commit: User profile Billing Information page design and alignment issue fixed. And remove Remove unnecessary code and function
+edb4667c763fc79987d7adc69130e00d51f3cd7b b3aae46fe6d20e7baf9ba788636877010f7d4d69 Sudip <sudip.mediusware@gmail.com> 1592995292 +0600	commit: Remove Remove unnecessary code and function
+b3aae46fe6d20e7baf9ba788636877010f7d4d69 e166187ff946cc502b59865ff0e422a31dc8d783 Sudip <sudip.mediusware@gmail.com> 1592995577 +0600	commit: Remove unnecessary comments from home controller

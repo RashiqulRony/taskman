@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 bb52bb52f2a274e2287707ce36f2322f93cbfda5 Sudip <sudip.mediusware@gmail.com> 1588650902 +0600	branch: Created from HEAD
+bb52bb52f2a274e2287707ce36f2322f93cbfda5 9cc5132ade043e19055ab73c7d1af35fbe7e75d7 Sudip <sudip.mediusware@gmail.com> 1588651010 +0600	commit: Board add tag color issue fixed.
+9cc5132ade043e19055ab73c7d1af35fbe7e75d7 874c4cb37079fad26e02dca996d4f76d4e7c6351 Sudip <sudip.mediusware@gmail.com> 1588651846 +0600	commit: Task list add tag color issue fixed.
+874c4cb37079fad26e02dca996d4f76d4e7c6351 078851c4b8c38c24415d296590809c1df75cb0a5 Sudip <sudip.mediusware@gmail.com> 1588653706 +0600	commit: Board card details add tag color issue fixed.
+078851c4b8c38c24415d296590809c1df75cb0a5 509258ba68bcc577c5e583271081f030cd87997b Sudip <sudip.mediusware@gmail.com> 1588654109 +0600	commit: Single task details add tag collor issue fixed.
+509258ba68bcc577c5e583271081f030cd87997b 00b5a8bf3b21c4e64d3e4c28f537a8ace5ef1910 Sudip <sudip.mediusware@gmail.com> 1588654837 +0600	pull origin master: Merge made by the 'recursive' strategy.

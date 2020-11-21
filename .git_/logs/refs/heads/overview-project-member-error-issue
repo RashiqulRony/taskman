@@ -1,0 +1,13 @@
+0000000000000000000000000000000000000000 5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d Sudip <sudip.mediusware@gmail.com> 1592281120 +0600	branch: Created from HEAD
+5ecec2ca5e063e4f220094c9fb8dc54fbcff0f3d 4dc25dab584f7b273847b86865f4e5b5f67f37de Sudip <sudip.mediusware@gmail.com> 1592281396 +0600	commit: When remove a team member and assing users not removing this issue fixed
+4dc25dab584f7b273847b86865f4e5b5f67f37de 98444a37577808ee252fb60cbc3b6ab6547a5c3b Sudip <sudip.mediusware@gmail.com> 1592282716 +0600	commit: Overview team member add and remove swal alert issue fixed
+98444a37577808ee252fb60cbc3b6ab6547a5c3b 313a4a32929d06229b3f74d5bfb84268a660adbe Sudip <sudip.mediusware@gmail.com> 1592559429 +0600	pull origin master: Fast-forward
+313a4a32929d06229b3f74d5bfb84268a660adbe a03d8c557e4b8ceb56c81aa8bce35ec5db3ca0fa Sudip <sudip.mediusware@gmail.com> 1592559993 +0600	commit: Overview project member delete and assign users design and error issue fixed.
+a03d8c557e4b8ceb56c81aa8bce35ec5db3ca0fa ab1507dc3b4993e9483ee60b5d25fd2c772fec98 Sudip <sudip.mediusware@gmail.com> 1592560430 +0600	commit: Overview add Add Member Project modal issue fixed.
+ab1507dc3b4993e9483ee60b5d25fd2c772fec98 8ac6477096ee23fe29cb5c5f90384191c484c4c6 Sudip <sudip.mediusware@gmail.com> 1592560708 +0600	commit: Overview board update modal issue fixed.
+8ac6477096ee23fe29cb5c5f90384191c484c4c6 4e97a398f6cfae8998c167da6a3d39bfc0beeec1 Sudip <sudip.mediusware@gmail.com> 1592560834 +0600	commit: Overview remove list from modal issue fixed.
+4e97a398f6cfae8998c167da6a3d39bfc0beeec1 6952e714c38fa4c4e3df16ff225b671c9927b60f Sudip <sudip.mediusware@gmail.com> 1592560885 +0600	commit: Fixed all issues
+6952e714c38fa4c4e3df16ff225b671c9927b60f 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592818301 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 24babc43f8e370bd5dd6bc5b0b6861aa1b846042 Sudip <sudip.mediusware@gmail.com> 1592818522 +0600	commit: Remove a project member and assign another member task error issue fixed.
+24babc43f8e370bd5dd6bc5b0b6861aa1b846042 ed3e4a97303946bcf2d11614ff89ac105bd09a0c Sudip <sudip.mediusware@gmail.com> 1592823998 +0600	commit: Remove unnecessary project member function and and loadin fister.
+ed3e4a97303946bcf2d11614ff89ac105bd09a0c 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1592978576 +0600	pull origin master: Fast-forward

@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1591070065 +0600	branch: Created from HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 Sudip <sudip.mediusware@gmail.com> 1591070261 +0600	commit: Left navbar teams setting current team can't selected.
+2b15c9360bbf50e9d6b51cfa7d1d7e8b3209b303 ba26d471c831a9ed7bdacfb75945a32db9502011 Sudip <sudip.mediusware@gmail.com> 1591072288 +0600	commit: Fixed alignment on left menu.
+ba26d471c831a9ed7bdacfb75945a32db9502011 80c3245ecf27dbafb6863b9a4547f8e123cd6703 Sudip <sudip.mediusware@gmail.com> 1591079803 +0600	commit: Setting All teams show current and active team.

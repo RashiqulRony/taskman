@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 056bc480ec4175212eda6d5bfa71134ce59befd2 Sudip <sudip.mediusware@gmail.com> 1594017566 +0600	branch: Created from HEAD
+056bc480ec4175212eda6d5bfa71134ce59befd2 1e7716693d6fe78b0a31c1f59220a6df08900869 Sudip <sudip.mediusware@gmail.com> 1594017831 +0600	commit: Email and notifications design and alignment issue fixed.
+1e7716693d6fe78b0a31c1f59220a6df08900869 a601cb13cf5e38e1ddc79211e02c48d042a01f3b Sudip <sudip.mediusware@gmail.com> 1594018247 +0600	commit: Email and notifications switch design issue fixed.
+a601cb13cf5e38e1ddc79211e02c48d042a01f3b fee01ba554acddb5d060d63826fa562ac0542518 Sudip <sudip.mediusware@gmail.com> 1594019121 +0600	commit: Remove unnecessary code on Email and notifications

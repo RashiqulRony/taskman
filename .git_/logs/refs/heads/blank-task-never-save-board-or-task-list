@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 70c6f72da601137a7c3930b2fe8486eaa40e4cdb Sudip <sudip.mediusware@gmail.com> 1586322482 +0600	branch: Created from HEAD
+70c6f72da601137a7c3930b2fe8486eaa40e4cdb 615876e5fa94a8e9683a357a71929a53d6c0638e Sudip <sudip.mediusware@gmail.com> 1586327790 +0600	commit: Task List Blank issue fixed.
+615876e5fa94a8e9683a357a71929a53d6c0638e 9d9c5ca933899b3119329d4766c7dd91d1424712 Sudip <sudip.mediusware@gmail.com> 1586337869 +0600	commit: add a new card and click enter, it does not save the text -- issue fixed
+9d9c5ca933899b3119329d4766c7dd91d1424712 25d16b1e5a2a9b13c66393c42b49c4aac806c19a Sudip <sudip.mediusware@gmail.com> 1586338029 +0600	commit: fixed issue.

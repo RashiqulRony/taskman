@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 ddb75633cf455655f3739d3d435e856947fbe47a Sudip <sudip.mediusware@gmail.com> 1587028615 +0600	branch: Created from HEAD
+ddb75633cf455655f3739d3d435e856947fbe47a ea448a216ea81a82a9e50ea4e719efcbda56b0eb Sudip <sudip.mediusware@gmail.com> 1587030340 +0600	commit: This issue is working
+ea448a216ea81a82a9e50ea4e719efcbda56b0eb 69766522f163d58e7c65fe16f34aee72ef00762a Sudip <sudip.mediusware@gmail.com> 1587040847 +0600	commit: Frontend '@' mension working
+69766522f163d58e7c65fe16f34aee72ef00762a e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 Sudip <sudip.mediusware@gmail.com> 1587128120 +0600	commit: Comment replay working.
+e1c32dceaaa6690f4bb9fc5068c2be263c1afbb9 23f7ca07a878f206a67e5f62fadb38f22b9c57e9 Sudip <sudip.mediusware@gmail.com> 1587365467 +0600	commit: When adding the @ in a task/card we are not filtering the names as you type -- Issue fixed
+23f7ca07a878f206a67e5f62fadb38f22b9c57e9 a72fdb974375dc8806ba932f6c2c0713b168a1a7 Sudip <sudip.mediusware@gmail.com> 1587367229 +0600	commit: For single details page issue fixed
+a72fdb974375dc8806ba932f6c2c0713b168a1a7 3785ebf8c7e6fc01c92b014b841cb26be409cc51 Sudip <sudip.mediusware@gmail.com> 1587368641 +0600	pull origin master: Merge made by the 'recursive' strategy.

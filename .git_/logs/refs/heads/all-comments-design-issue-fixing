@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 ab2e673c88b140717f6c4e9387faa08a0fe4784e Sudip <sudip.mediusware@gmail.com> 1591590724 +0600	branch: Created from HEAD
+ab2e673c88b140717f6c4e9387faa08a0fe4784e 9044ac194d83df712234673d5af8342f71ea8b6c Sudip <sudip.mediusware@gmail.com> 1591590917 +0600	commit: Overview comments design issue fixed
+9044ac194d83df712234673d5af8342f71ea8b6c f6cd49a3774dfc25295573abe8b530864b670bbe Sudip <sudip.mediusware@gmail.com> 1591593164 +0600	commit: Single task details comments design issue fixed
+f6cd49a3774dfc25295573abe8b530864b670bbe 880b2150932b6b579b3eb25006dbebedc029dd4d Sudip <sudip.mediusware@gmail.com> 1591593554 +0600	commit: Task details pullout comments design issue fixed
+880b2150932b6b579b3eb25006dbebedc029dd4d e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 Sudip <sudip.mediusware@gmail.com> 1591594347 +0600	commit: User profile comments design issue fixed.
+e8fe6b34f1561e77fce014fe9e7bc698e21ca0c0 43b494ea5cc9a433154a943c02611105384e953a Sudip <sudip.mediusware@gmail.com> 1592797358 +0600	pull origin master: Fast-forward
+43b494ea5cc9a433154a943c02611105384e953a 8fa62afdff01604485c1df234b45419681d73fa4 Sudip <sudip.mediusware@gmail.com> 1592798129 +0600	commit: All comments css issue fixed.
+8fa62afdff01604485c1df234b45419681d73fa4 281acbdb74211b58987f94228421d9bb8ddfc67f Sudip <sudip.mediusware@gmail.com> 1592799337 +0600	commit: Profile comments alignment and design issue fixed.
+281acbdb74211b58987f94228421d9bb8ddfc67f 9c7f3a23028d5c9c25db05a58a03146eaa9825c9 Sudip <sudip.mediusware@gmail.com> 1592801081 +0600	commit: Task details pullout comments alignment and design issue fixed.
+9c7f3a23028d5c9c25db05a58a03146eaa9825c9 0aaa0c079fbbf48ca79410948c55cb10651f5b3a Sudip <sudip.mediusware@gmail.com> 1592804100 +0600	commit: Single Task details comments alignment and design issue fixed.
+0aaa0c079fbbf48ca79410948c55cb10651f5b3a ba7ead600fa770f6480aa3b78729d9bd6644be18 Sudip <sudip.mediusware@gmail.com> 1592811415 +0600	commit: Overview comments alignment and design issue fixed.

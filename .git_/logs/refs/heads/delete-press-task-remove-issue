@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 9d51a68c17c8ae522ad9ad302074a662b2f57319 Sudip <sudip.mediusware@gmail.com> 1588827475 +0600	branch: Created from HEAD
+9d51a68c17c8ae522ad9ad302074a662b2f57319 ca5752bb4897bf8616d0c5b235d06e259561561b Sudip <sudip.mediusware@gmail.com> 1588827820 +0600	commit: If not selected a task & press delete key show warning alert on Board.
+ca5752bb4897bf8616d0c5b235d06e259561561b 82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 Sudip <sudip.mediusware@gmail.com> 1588828545 +0600	commit: If not selected a task & press delete key show warning alert on List.
+82728ebdcdb88067ec4dbcc7ca65f03786ae4bc7 7a1df98f49dd17aabb7d897210420a31b852244c Sudip <sudip.mediusware@gmail.com> 1589256016 +0600	pull origin master: Fast-forward
+7a1df98f49dd17aabb7d897210420a31b852244c 4244e686528025894bc59ca11bb7198613814ddd Sudip <sudip.mediusware@gmail.com> 1589257447 +0600	commit: Board Card delete press issue fixed.
+4244e686528025894bc59ca11bb7198613814ddd 8969daff209b1c0a278c45e518a0469d25ebe50a Sudip <sudip.mediusware@gmail.com> 1589260021 +0600	commit: Task List delete press issue fixed.

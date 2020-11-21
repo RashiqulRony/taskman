@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 8799a7169e7980c9d47f04266925972481551ba0 Sudip <sudip.mediusware@gmail.com> 1590726398 +0600	branch: Created from HEAD
+8799a7169e7980c9d47f04266925972481551ba0 43bd5ac665678f90020f9c208eee51941f5fe7cb Sudip <sudip.mediusware@gmail.com> 1590726484 +0600	commit: Change all condition and make faster all filter
+43bd5ac665678f90020f9c208eee51941f5fe7cb 81cc25d40381f3f47aa1cd9b641304a90afe75f3 Sudip <sudip.mediusware@gmail.com> 1590727304 +0600	pull origin master: Merge made by the 'recursive' strategy.
+81cc25d40381f3f47aa1cd9b641304a90afe75f3 9082eb1ad8b6ee49c22c6f63d3b070c28fd89a51 Sudip <sudip.mediusware@gmail.com> 1590727459 +0600	commit: Remove unnecessary code

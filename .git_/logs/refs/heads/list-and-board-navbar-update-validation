@@ -1,0 +1,4 @@
+0000000000000000000000000000000000000000 e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a Sudip <sudip.mediusware@gmail.com> 1590988591 +0600	branch: Created from HEAD
+e50d8bcfa8e6ae8d2bc72b7df4888fcf1505c59a 8f64004f480a3c66024c5063ee477033dde7dc54 Sudip <sudip.mediusware@gmail.com> 1590988890 +0600	commit: Server validation functional added.
+8f64004f480a3c66024c5063ee477033dde7dc54 d4e93104b5807265e203e21e241dbd3f97c18d68 Sudip <sudip.mediusware@gmail.com> 1590989086 +0600	commit: Board navbar update server validation show error issue.
+d4e93104b5807265e203e21e241dbd3f97c18d68 7ddf2c111e8322c4f2ceac694534f5022495ba05 Sudip <sudip.mediusware@gmail.com> 1590989758 +0600	commit: Task List navbar update server validation show error issue.

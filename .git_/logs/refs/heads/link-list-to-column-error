@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 Sudip <sudip.mediusware@gmail.com> 1593058732 +0600	branch: Created from HEAD
+0aa68a246c0ebc6c4e55d720b5a57b1b4896ca67 ab34e52a896bedd8692d372647f965914c2c1133 Sudip <sudip.mediusware@gmail.com> 1593059996 +0600	commit: Link list to column already existing task button show and hide issue fixed.
+ab34e52a896bedd8692d372647f965914c2c1133 36735d34108e3fa181042a0754dfc6b639d7b5aa Sudip <sudip.mediusware@gmail.com> 1593061203 +0600	commit: Link list to column modal and alignment issue fixed on Board card.
