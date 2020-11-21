@@ -13,6 +13,11 @@
 
 use Illuminate\Http\Request;
 
+Route::get('/register', function () {
+//    return redirect('/thank-you');
+    return redirect('/login');
+});
+
 Route::get('/', function () {
     return redirect('/projects');
 })->middleware('auth');

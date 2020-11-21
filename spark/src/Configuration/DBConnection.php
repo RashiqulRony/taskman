@@ -11,7 +11,7 @@ use PDO;
 
 trait DBConnection
 {
-    public static $db_name = 'compltit_team_';
+    public static $db_name = 'rony_taskman_team_';
 
     public static function SetDBConnection ($team_id)
     {
